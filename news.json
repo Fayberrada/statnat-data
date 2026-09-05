@@ -1,0 +1,32 @@
+{
+  "generated_at": "2026-09-05T22:43:32.333829+00:00",
+  "items": [
+    {
+      "id": "avenir_prochaine",
+      "kind": "agenda",
+      "tag": "À venir",
+      "title": "Meeting Avenirs #1 — 16 septembre",
+      "body": "Prochain rendez-vous du périmètre à Pirae. 2 compétitions à venir au total.",
+      "date": "2026-09-16",
+      "competition_id": "94415"
+    },
+    {
+      "id": "resultats_recents",
+      "kind": "resultats",
+      "tag": "Résultats",
+      "title": "Championnats Départementaux U11 — résultats en ligne",
+      "body": "Les classements de Versailles (21 juin) sont disponibles : séries et finales, avec tes favoris repérés.",
+      "date": "2026-06-21",
+      "competition_id": "94086"
+    },
+    {
+      "id": "perf_du_moment",
+      "kind": "perf",
+      "tag": "Perf en vue",
+      "title": "COMBALUZIER Rose — 00:33.38 (883 pts)",
+      "body": "Belle pointe sur 50 Papillon Dames à Versailles : 883 points FFN.",
+      "date": "2026-06-21",
+      "competition_id": "94086"
+    }
+  ]
+}

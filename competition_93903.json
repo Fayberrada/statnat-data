@@ -1,0 +1,352 @@
+{
+  "competition": "93903",
+  "results": {
+    "events": [
+      {
+        "distance": 100,
+        "nage": "Nage Libre",
+        "sexe": "F",
+        "label": "100 Nage Libre Dames",
+        "phases": [
+          {
+            "phase": "Séries",
+            "categorie": null,
+            "date": "Samedi 13 Juin 2026 - 17h00",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "2981865",
+                "nom": "SITNIK Aliaksandra",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "ESPADON VÉLIZY-VILLACOUBLAY",
+                "temps": "01:15.90",
+                "ecart": null,
+                "points": 626
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "3621263",
+                "nom": "CARRIERE Héloïse",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "CSN GUYANCOURT",
+                "temps": "01:29.31",
+                "ecart": null,
+                "points": 325
+              }
+            ]
+          }
+        ],
+        "epreuve_id": "2"
+      },
+      {
+        "distance": 100,
+        "nage": "Nage Libre",
+        "sexe": "M",
+        "label": "100 Nage Libre Messieurs",
+        "phases": [
+          {
+            "phase": "Séries",
+            "categorie": null,
+            "date": "Samedi 13 Juin 2026 - 17h02",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "3987663",
+                "nom": "OWENS Maxime",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "CNO ST-GERMAIN-EN-LAYE",
+                "temps": "01:07.26",
+                "ecart": null,
+                "points": 722
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "3753265",
+                "nom": "DERYABIN Maxime",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "AQUACLUB LE PECQ MARLY",
+                "temps": "01:16.24",
+                "ecart": null,
+                "points": 501
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "4294701",
+                "nom": "ROSAURO GUILLOU Edgar",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "USM VIROFLAY",
+                "temps": "01:25.71",
+                "ecart": null,
+                "points": 311
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "3301797",
+                "nom": "ROUX Raphaël",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "USM VIROFLAY",
+                "temps": "01:29.26",
+                "ecart": null,
+                "points": 252
+              },
+              {
+                "rang": 5,
+                "statut": null,
+                "iuf": "4455361",
+                "nom": "MORINE Aden",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "USM VIROFLAY",
+                "temps": "01:35.11",
+                "ecart": null,
+                "points": 168
+              },
+              {
+                "rang": null,
+                "statut": null,
+                "iuf": "3926425",
+                "nom": "RIEHL Charles",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "LE CHESNAY NATATION",
+                "temps": "DNS dec Forfait déclaré",
+                "ecart": null,
+                "points": null
+              },
+              {
+                "rang": null,
+                "statut": null,
+                "iuf": "4190677",
+                "nom": "BABIN Stanislas",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "CN HOUILLES-CARRIERES",
+                "temps": "DNS dec Forfait déclaré",
+                "ecart": null,
+                "points": null
+              },
+              {
+                "rang": null,
+                "statut": null,
+                "iuf": "4443364",
+                "nom": "KRAMARCZYK Maciej",
+                "annee": 2013,
+                "nation": "POL",
+                "club": "CSN GUYANCOURT",
+                "temps": "DNS dec Forfait déclaré",
+                "ecart": null,
+                "points": null
+              }
+            ]
+          }
+        ],
+        "epreuve_id": "52"
+      },
+      {
+        "distance": 100,
+        "nage": "Dos",
+        "sexe": "F",
+        "label": "100 Dos Dames",
+        "phases": [
+          {
+            "phase": "Séries",
+            "categorie": null,
+            "date": "Samedi 13 Juin 2026 - 17h04",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "2981873",
+                "nom": "TARDIEU Coline",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "USM VIROFLAY",
+                "temps": "01:45.63",
+                "ecart": null,
+                "points": 316
+              }
+            ]
+          }
+        ],
+        "epreuve_id": "12"
+      },
+      {
+        "distance": 100,
+        "nage": "Dos",
+        "sexe": "M",
+        "label": "100 Dos Messieurs",
+        "phases": [
+          {
+            "phase": "Séries",
+            "categorie": null,
+            "date": "Samedi 13 Juin 2026 - 17h06",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "2981801",
+                "nom": "DEBRET Cyriel",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "ESPADON VÉLIZY-VILLACOUBLAY",
+                "temps": "01:11.41",
+                "ecart": null,
+                "points": 809
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "3912313",
+                "nom": "BOSCH Gaspar",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "CNO ST-GERMAIN-EN-LAYE",
+                "temps": "01:11.98",
+                "ecart": null,
+                "points": 796
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "2981955",
+                "nom": "LABAUME Thibault",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "ESPADON VÉLIZY-VILLACOUBLAY",
+                "temps": "01:24.54",
+                "ecart": null,
+                "points": 525
+              }
+            ]
+          }
+        ],
+        "epreuve_id": "62"
+      },
+      {
+        "distance": 100,
+        "nage": "Brasse",
+        "sexe": "F",
+        "label": "100 Brasse Dames",
+        "phases": [
+          {
+            "phase": "Séries",
+            "categorie": null,
+            "date": "Samedi 13 Juin 2026 - 17h09",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "4140613",
+                "nom": "ZRIBI Eya",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "AQUACLUB LE PECQ MARLY",
+                "temps": "01:51.60",
+                "ecart": null,
+                "points": 439
+              }
+            ]
+          }
+        ],
+        "epreuve_id": "22"
+      },
+      {
+        "distance": 100,
+        "nage": "Brasse",
+        "sexe": "M",
+        "label": "100 Brasse Messieurs",
+        "phases": [
+          {
+            "phase": "Séries",
+            "categorie": null,
+            "date": "Samedi 13 Juin 2026 - 17h11",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "3984228",
+                "nom": "GRIMON Maxime",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "01:29.86",
+                "ecart": null,
+                "points": 611
+              }
+            ]
+          }
+        ],
+        "epreuve_id": "72"
+      },
+      {
+        "distance": 100,
+        "nage": "Papillon",
+        "sexe": "M",
+        "label": "100 Papillon Messieurs",
+        "phases": [
+          {
+            "phase": "Séries",
+            "categorie": null,
+            "date": "Samedi 13 Juin 2026 - 17h14",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "3293437",
+                "nom": "DOCQ Naël",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "01:38.64",
+                "ecart": null,
+                "points": 272
+              }
+            ]
+          }
+        ],
+        "epreuve_id": "82"
+      },
+      {
+        "distance": 100,
+        "nage": "4 Nages",
+        "sexe": "M",
+        "label": "100 4 Nages Messieurs",
+        "phases": [
+          {
+            "phase": "Séries",
+            "categorie": null,
+            "date": "Samedi 13 Juin 2026 - 17h16",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "2980857",
+                "nom": "AMEGAN Arthur",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "ESPADON VÉLIZY-VILLACOUBLAY",
+                "temps": "01:14.12",
+                "ecart": null,
+                "points": 757
+              }
+            ]
+          }
+        ],
+        "epreuve_id": "90"
+      }
+    ]
+  },
+  "generated_at": "2026-09-05T22:41:39.232518+00:00"
+}

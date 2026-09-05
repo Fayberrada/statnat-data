@@ -1,0 +1,616 @@
+{
+  "competition": "94009",
+  "results": {
+    "events": [
+      {
+        "distance": 100,
+        "nage": "Nage Libre",
+        "sexe": "F",
+        "label": "100 Nage Libre Dames",
+        "phases": [
+          {
+            "phase": "Séries",
+            "categorie": null,
+            "date": "Samedi 13 Juin 2026 - 17h03",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "3076223",
+                "nom": "RIEHL Juliette",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "LE CHESNAY NATATION",
+                "temps": "01:11.65",
+                "ecart": null,
+                "points": 742
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "3853871",
+                "nom": "GONZALEZ Pauline",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "AQUACLUB LE PECQ MARLY",
+                "temps": "01:12.59",
+                "ecart": null,
+                "points": 715
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "4052020",
+                "nom": "TCHEPANVO KUEMO Bessy",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "AQUACLUB LE PECQ MARLY",
+                "temps": "01:14.04",
+                "ecart": null,
+                "points": 676
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "3506039",
+                "nom": "MOUNIER Marion",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "LE CHESNAY NATATION",
+                "temps": "01:24.49",
+                "ecart": null,
+                "points": 422
+              },
+              {
+                "rang": 5,
+                "statut": null,
+                "iuf": "3758007",
+                "nom": "KIMMEL MICHON Manon",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "CN POISSY",
+                "temps": "01:25.08",
+                "ecart": null,
+                "points": 410
+              },
+              {
+                "rang": 6,
+                "statut": null,
+                "iuf": "4362372",
+                "nom": "CLEMENT BOLAYRON Garance",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "ASSO NATATION DE SARTROUVILLE",
+                "temps": "01:27.34",
+                "ecart": null,
+                "points": 364
+              },
+              {
+                "rang": 7,
+                "statut": null,
+                "iuf": "4021776",
+                "nom": "VINCENT Louise",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "ASSO NATATION DE SARTROUVILLE",
+                "temps": "01:36.97",
+                "ecart": null,
+                "points": 197
+              }
+            ]
+          }
+        ],
+        "epreuve_id": "2"
+      },
+      {
+        "distance": 100,
+        "nage": "Nage Libre",
+        "sexe": "M",
+        "label": "100 Nage Libre Messieurs",
+        "phases": [
+          {
+            "phase": "Séries",
+            "categorie": null,
+            "date": "Samedi 13 Juin 2026 - 17h08",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "3057779",
+                "nom": "CROLY-LABOURDETTE Lucien",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "LE CHESNAY NATATION",
+                "temps": "01:11.10",
+                "ecart": null,
+                "points": 622
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "3602963",
+                "nom": "BARDET Raphaël",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "CN POISSY",
+                "temps": "01:23.06",
+                "ecart": null,
+                "points": 360
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "3926425",
+                "nom": "RIEHL Charles",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "LE CHESNAY NATATION",
+                "temps": "01:24.76",
+                "ecart": null,
+                "points": 328
+              }
+            ]
+          }
+        ],
+        "epreuve_id": "52"
+      },
+      {
+        "distance": 100,
+        "nage": "Dos",
+        "sexe": "F",
+        "label": "100 Dos Dames",
+        "phases": [
+          {
+            "phase": "Séries",
+            "categorie": null,
+            "date": "Samedi 13 Juin 2026 - 17h10",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "4052020",
+                "nom": "TCHEPANVO KUEMO Bessy",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "AQUACLUB LE PECQ MARLY",
+                "temps": "01:22.89",
+                "ecart": null,
+                "points": 723
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "3590655",
+                "nom": "BUTEL Méline",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "LE CHESNAY NATATION",
+                "temps": "01:27.54",
+                "ecart": null,
+                "points": 626
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "4124609",
+                "nom": "DRIDI Linda",
+                "annee": 2014,
+                "nation": "TUN",
+                "club": "CN POISSY",
+                "temps": "01:33.44",
+                "ecart": null,
+                "points": 514
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "3506039",
+                "nom": "MOUNIER Marion",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "LE CHESNAY NATATION",
+                "temps": "01:37.71",
+                "ecart": null,
+                "points": 439
+              },
+              {
+                "rang": 5,
+                "statut": null,
+                "iuf": "4362372",
+                "nom": "CLEMENT BOLAYRON Garance",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "ASSO NATATION DE SARTROUVILLE",
+                "temps": "01:38.54",
+                "ecart": null,
+                "points": 425
+              }
+            ]
+          }
+        ],
+        "epreuve_id": "12"
+      },
+      {
+        "distance": 100,
+        "nage": "Dos",
+        "sexe": "M",
+        "label": "100 Dos Messieurs",
+        "phases": [
+          {
+            "phase": "Séries",
+            "categorie": null,
+            "date": "Samedi 13 Juin 2026 - 17h12",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "4047013",
+                "nom": "SAVCIUC Razvan",
+                "annee": 2013,
+                "nation": "ROU",
+                "club": "AQUACLUB LE PECQ MARLY",
+                "temps": "01:18.49",
+                "ecart": null,
+                "points": 649
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "4009855",
+                "nom": "MARTORELL LYONS Conor",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "LE CHESNAY NATATION",
+                "temps": "01:21.09",
+                "ecart": null,
+                "points": 594
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "3532523",
+                "nom": "BROSSE Léandre",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "ASSO NATATION DE SARTROUVILLE",
+                "temps": "01:33.75",
+                "ecart": null,
+                "points": 363
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "3162819",
+                "nom": "CROZET Thomas",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "CN POISSY",
+                "temps": "01:37.17",
+                "ecart": null,
+                "points": 310
+              },
+              {
+                "rang": 5,
+                "statut": null,
+                "iuf": "3926425",
+                "nom": "RIEHL Charles",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "LE CHESNAY NATATION",
+                "temps": "01:49.08",
+                "ecart": null,
+                "points": 159
+              }
+            ]
+          }
+        ],
+        "epreuve_id": "62"
+      },
+      {
+        "distance": 100,
+        "nage": "Brasse",
+        "sexe": "F",
+        "label": "100 Brasse Dames",
+        "phases": [
+          {
+            "phase": "Séries",
+            "categorie": null,
+            "date": "Samedi 13 Juin 2026 - 17h22",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "4146962",
+                "nom": "MASSARD Lucille",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "LE CHESNAY NATATION",
+                "temps": "01:43.01",
+                "ecart": null,
+                "points": 573
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "4124609",
+                "nom": "DRIDI Linda",
+                "annee": 2014,
+                "nation": "TUN",
+                "club": "CN POISSY",
+                "temps": "01:45.18",
+                "ecart": null,
+                "points": 538
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "3590655",
+                "nom": "BUTEL Méline",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "LE CHESNAY NATATION",
+                "temps": "01:46.83",
+                "ecart": null,
+                "points": 511
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "4021776",
+                "nom": "VINCENT Louise",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "ASSO NATATION DE SARTROUVILLE",
+                "temps": "01:56.54",
+                "ecart": null,
+                "points": 370
+              }
+            ]
+          }
+        ],
+        "epreuve_id": "22"
+      },
+      {
+        "distance": 100,
+        "nage": "Brasse",
+        "sexe": "M",
+        "label": "100 Brasse Messieurs",
+        "phases": [
+          {
+            "phase": "Séries",
+            "categorie": null,
+            "date": "Samedi 13 Juin 2026 - 17h25",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "4047013",
+                "nom": "SAVCIUC Razvan",
+                "annee": 2013,
+                "nation": "ROU",
+                "club": "AQUACLUB LE PECQ MARLY",
+                "temps": "01:26.59",
+                "ecart": null,
+                "points": 676
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "4020705",
+                "nom": "BEGUE PAUPIAH Zachary",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "AQUACLUB LE PECQ MARLY",
+                "temps": "01:30.94",
+                "ecart": null,
+                "points": 590
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "3057779",
+                "nom": "CROLY-LABOURDETTE Lucien",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "LE CHESNAY NATATION",
+                "temps": "01:38.70",
+                "ecart": null,
+                "points": 452
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "3162819",
+                "nom": "CROZET Thomas",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "CN POISSY",
+                "temps": "01:42.61",
+                "ecart": null,
+                "points": 389
+              },
+              {
+                "rang": 5,
+                "statut": null,
+                "iuf": "4144464",
+                "nom": "ORZA Maxime",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "ASSO NATATION DE SARTROUVILLE",
+                "temps": "01:52.65",
+                "ecart": null,
+                "points": 250
+              },
+              {
+                "rang": 6,
+                "statut": null,
+                "iuf": "3592207",
+                "nom": "MERIENNE Nicolas",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "LE CHESNAY NATATION",
+                "temps": "01:53.15",
+                "ecart": null,
+                "points": 243
+              }
+            ]
+          }
+        ],
+        "epreuve_id": "72"
+      },
+      {
+        "distance": 100,
+        "nage": "Papillon",
+        "sexe": "F",
+        "label": "100 Papillon Dames",
+        "phases": [
+          {
+            "phase": "Séries",
+            "categorie": null,
+            "date": "Samedi 13 Juin 2026 - 17h28",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "3076223",
+                "nom": "RIEHL Juliette",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "LE CHESNAY NATATION",
+                "temps": "01:20.08",
+                "ecart": null,
+                "points": 755
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "3853871",
+                "nom": "GONZALEZ Pauline",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "AQUACLUB LE PECQ MARLY",
+                "temps": "01:27.66",
+                "ecart": null,
+                "points": 592
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "4146962",
+                "nom": "MASSARD Lucille",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "LE CHESNAY NATATION",
+                "temps": "01:33.82",
+                "ecart": null,
+                "points": 473
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "3758007",
+                "nom": "KIMMEL MICHON Manon",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "CN POISSY",
+                "temps": "01:43.24",
+                "ecart": null,
+                "points": 318
+              }
+            ]
+          }
+        ],
+        "epreuve_id": "32"
+      },
+      {
+        "distance": 100,
+        "nage": "Papillon",
+        "sexe": "M",
+        "label": "100 Papillon Messieurs",
+        "phases": [
+          {
+            "phase": "Séries",
+            "categorie": null,
+            "date": "Samedi 13 Juin 2026 - 17h30",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "4020705",
+                "nom": "BEGUE PAUPIAH Zachary",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "AQUACLUB LE PECQ MARLY",
+                "temps": "01:19.67",
+                "ecart": null,
+                "points": 608
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "3602963",
+                "nom": "BARDET Raphaël",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "CN POISSY",
+                "temps": "01:37.98",
+                "ecart": null,
+                "points": 282
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "4009855",
+                "nom": "MARTORELL LYONS Conor",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "LE CHESNAY NATATION",
+                "temps": "01:42.16",
+                "ecart": null,
+                "points": 225
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "3532523",
+                "nom": "BROSSE Léandre",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "ASSO NATATION DE SARTROUVILLE",
+                "temps": "01:46.80",
+                "ecart": null,
+                "points": 169
+              },
+              {
+                "rang": 5,
+                "statut": null,
+                "iuf": "3592207",
+                "nom": "MERIENNE Nicolas",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "LE CHESNAY NATATION",
+                "temps": "01:46.96",
+                "ecart": null,
+                "points": 167
+              },
+              {
+                "rang": 6,
+                "statut": null,
+                "iuf": "4144464",
+                "nom": "ORZA Maxime",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "ASSO NATATION DE SARTROUVILLE",
+                "temps": "01:50.53",
+                "ecart": null,
+                "points": 130
+              }
+            ]
+          }
+        ],
+        "epreuve_id": "82"
+      }
+    ]
+  },
+  "generated_at": "2026-09-05T22:41:45.810022+00:00"
+}

@@ -1,0 +1,2476 @@
+{
+  "competition": "93702",
+  "results": {
+    "events": [
+      {
+        "distance": 100,
+        "nage": "Papillon",
+        "sexe": "F",
+        "label": "100 Papillon Dames",
+        "phases": [
+          {
+            "phase": "Séries",
+            "categorie": "13 ANS DAMES : 13 ans",
+            "date": "Dimanche 31 Mai 2026 - 15h13",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "3757791",
+                "nom": "AVDIENKO Nadezhda",
+                "annee": 2013,
+                "nation": "FFN",
+                "club": "CN POISSY",
+                "temps": "01:16.14",
+                "ecart": null,
+                "points": 848
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "2999103",
+                "nom": "NEJJAR Nour",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "CN ASNIÈRES",
+                "temps": "01:19.82",
+                "ecart": null,
+                "points": 761
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "2685923",
+                "nom": "DE LANGHE Alma",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "RACING CLUB DE FRANCE",
+                "temps": "01:21.48",
+                "ecart": null,
+                "points": 723
+              }
+            ]
+          },
+          {
+            "phase": "Séries",
+            "categorie": "12 ANS DAMES : 12 ans",
+            "date": "Dimanche 31 Mai 2026 - 15h08",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "3356665",
+                "nom": "BOUGRA Assile",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "CS CLICHY 92",
+                "temps": "01:28.55",
+                "ecart": null,
+                "points": 574
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "3613561",
+                "nom": "BRECY Juliette",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "CS CLICHY 92",
+                "temps": "01:32.80",
+                "ecart": null,
+                "points": 492
+              }
+            ]
+          },
+          {
+            "phase": "Séries",
+            "categorie": "U10 DAMES : 6-10 ans",
+            "date": "Dimanche 31 Mai 2026 - 14h53",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "4401194",
+                "nom": "MOUSSET Margaux",
+                "annee": 2017,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "01:38.28",
+                "ecart": null,
+                "points": 396
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "4432709",
+                "nom": "DORDAIN Amelie",
+                "annee": 2016,
+                "nation": "FRA",
+                "club": "RACING CLUB DE FRANCE",
+                "temps": "01:41.73",
+                "ecart": null,
+                "points": 341
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "3887077",
+                "nom": "CZELUSTA Madeleine",
+                "annee": 2016,
+                "nation": "USA",
+                "club": "RACING CLUB DE FRANCE",
+                "temps": "01:53.40",
+                "ecart": null,
+                "points": 185
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "4009777",
+                "nom": "AMAR Ines",
+                "annee": 2017,
+                "nation": "FRA",
+                "club": "CN ASNIÈRES",
+                "temps": "02:01.80",
+                "ecart": null,
+                "points": 102
+              },
+              {
+                "rang": 5,
+                "statut": null,
+                "iuf": "4232720",
+                "nom": "RANDI Ranya",
+                "annee": 2017,
+                "nation": "FRA",
+                "club": "CN ASNIÈRES",
+                "temps": "02:15.11",
+                "ecart": null,
+                "points": 21
+              }
+            ]
+          }
+        ],
+        "epreuve_id": "32"
+      },
+      {
+        "distance": 100,
+        "nage": "Papillon",
+        "sexe": "M",
+        "label": "100 Papillon Messieurs",
+        "phases": [
+          {
+            "phase": "Séries",
+            "categorie": "13 ANS MESSIEURS : 13 ans",
+            "date": "Dimanche 31 Mai 2026 - 15h16",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "3049747",
+                "nom": "MARECHAL Titouan",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "ASSO NATATION DE SARTROUVILLE",
+                "temps": "01:15.94",
+                "ecart": null,
+                "points": 690
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "4020705",
+                "nom": "BEGUE PAUPIAH Zachary",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "AQUACLUB LE PECQ MARLY",
+                "temps": "01:18.56",
+                "ecart": null,
+                "points": 632
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "3586601",
+                "nom": "CHATCHKHIANI Gabrieli",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "CN LE PLESSIS-ROBINSON",
+                "temps": "01:19.92",
+                "ecart": null,
+                "points": 603
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "3414539",
+                "nom": "LAPALU Axel",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "01:24.97",
+                "ecart": null,
+                "points": 501
+              },
+              {
+                "rang": 5,
+                "statut": null,
+                "iuf": "4052444",
+                "nom": "KILAOUI Adam",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "GENNEVILLIERS NATATION",
+                "temps": "01:31.40",
+                "ecart": null,
+                "points": 385
+              }
+            ]
+          },
+          {
+            "phase": "Séries",
+            "categorie": "12 ANS MESSIEURS : 12 ans",
+            "date": "Dimanche 31 Mai 2026 - 15h11",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "4158053",
+                "nom": "LY Hamidou",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "CN POISSY",
+                "temps": "01:20.45",
+                "ecart": null,
+                "points": 591
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "3231173",
+                "nom": "ABDULRAZAK Kenzi",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "CS CLICHY 92",
+                "temps": "01:35.61",
+                "ecart": null,
+                "points": 317
+              }
+            ]
+          },
+          {
+            "phase": "Séries",
+            "categorie": "U10 MESSIEURS : 6-10 ans",
+            "date": "Dimanche 31 Mai 2026 - 14h55",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "3542027",
+                "nom": "FANCHON Gaspard",
+                "annee": 2016,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "01:40.14",
+                "ecart": null,
+                "points": 251
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "4027788",
+                "nom": "FANCHON Louis",
+                "annee": 2018,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "01:45.79",
+                "ecart": null,
+                "points": 180
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "3481427",
+                "nom": "BOUZIANE Kayis",
+                "annee": 2016,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "01:52.69",
+                "ecart": null,
+                "points": 109
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "3506453",
+                "nom": "DOCQ Noham",
+                "annee": 2016,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "01:54.80",
+                "ecart": null,
+                "points": 91
+              }
+            ]
+          }
+        ],
+        "epreuve_id": "82"
+      },
+      {
+        "distance": 200,
+        "nage": "Papillon",
+        "sexe": "F",
+        "label": "200 Papillon Dames",
+        "phases": [
+          {
+            "phase": "Séries",
+            "categorie": "11 ANS DAMES : 11 ans",
+            "date": "Dimanche 31 Mai 2026 - 14h58",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "3506625",
+                "nom": "COMBALUZIER Rose",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "03:03.69",
+                "ecart": null,
+                "points": 612
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "3850189",
+                "nom": "RODRIGUEZ ZHANG Anaëlle",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "AQUA VALLÉE-DE-CHEVREUSE",
+                "temps": "03:18.10",
+                "ecart": null,
+                "points": 470
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "3506395",
+                "nom": "FANCHON Margaux",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "03:33.32",
+                "ecart": null,
+                "points": 340
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "3334515",
+                "nom": "DJAMSHIDI Victoire",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "03:57.20",
+                "ecart": null,
+                "points": 178
+              },
+              {
+                "rang": 5,
+                "statut": null,
+                "iuf": "3966102",
+                "nom": "BESTION Mathilde",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "04:01.84",
+                "ecart": null,
+                "points": 153
+              },
+              {
+                "rang": 6,
+                "statut": null,
+                "iuf": "4029664",
+                "nom": "PAGNIER Estelle",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "04:06.32",
+                "ecart": null,
+                "points": 130
+              }
+            ]
+          }
+        ],
+        "epreuve_id": "33"
+      },
+      {
+        "distance": 200,
+        "nage": "Papillon",
+        "sexe": "M",
+        "label": "200 Papillon Messieurs",
+        "phases": [
+          {
+            "phase": "Séries",
+            "categorie": "11 ANS MESSIEURS : 11 ans",
+            "date": "Dimanche 31 Mai 2026 - 15h03",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "3519479",
+                "nom": "BOUGHANEM Nael",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "US CONFLANS-STE-HONORINE",
+                "temps": "03:35.09",
+                "ecart": null,
+                "points": 223
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "4215377",
+                "nom": "FALK Aiden",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "04:14.41",
+                "ecart": null,
+                "points": 41
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "3275289",
+                "nom": "LORTHIOIS Auguste",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "04:40.68",
+                "ecart": null,
+                "points": 1
+              }
+            ]
+          }
+        ],
+        "epreuve_id": "83"
+      },
+      {
+        "distance": 100,
+        "nage": "Dos",
+        "sexe": "F",
+        "label": "100 Dos Dames",
+        "phases": [
+          {
+            "phase": "Séries",
+            "categorie": "13 ANS DAMES : 13 ans",
+            "date": "Dimanche 31 Mai 2026 - 15h55",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "3506645",
+                "nom": "CHOUMNOV Marie",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "01:17.04",
+                "ecart": null,
+                "points": 855
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "2685923",
+                "nom": "DE LANGHE Alma",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "RACING CLUB DE FRANCE",
+                "temps": "01:22.51",
+                "ecart": null,
+                "points": 731
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "3213659",
+                "nom": "CLABAUT Jeanne",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "RACING CLUB DE FRANCE",
+                "temps": "01:23.19",
+                "ecart": null,
+                "points": 717
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "2999103",
+                "nom": "NEJJAR Nour",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "CN ASNIÈRES",
+                "temps": "01:23.49",
+                "ecart": null,
+                "points": 710
+              },
+              {
+                "rang": 5,
+                "statut": null,
+                "iuf": "3652121",
+                "nom": "BRETEGNIER Anaelle",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "01:24.14",
+                "ecart": null,
+                "points": 696
+              },
+              {
+                "rang": 6,
+                "statut": null,
+                "iuf": "3802919",
+                "nom": "GUIMIER Chloe",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "AQUACLUB LE PECQ MARLY",
+                "temps": "01:26.05",
+                "ecart": null,
+                "points": 657
+              }
+            ]
+          },
+          {
+            "phase": "Séries",
+            "categorie": "12 ANS DAMES : 12 ans",
+            "date": "Dimanche 31 Mai 2026 - 15h49",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "3506389",
+                "nom": "FERNANDEZ-RUBBEN Lola",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "01:18.26",
+                "ecart": null,
+                "points": 826
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "3304619",
+                "nom": "DAGUINOT Agathe",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "AQUACLUB LE PECQ MARLY",
+                "temps": "01:26.98",
+                "ecart": null,
+                "points": 638
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "4131147",
+                "nom": "GOUEREC Inès",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "RACING CLUB DE FRANCE",
+                "temps": "01:28.69",
+                "ecart": null,
+                "points": 604
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "3861321",
+                "nom": "BENKHEROUF Sofia",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "GENNEVILLIERS NATATION",
+                "temps": "01:29.52",
+                "ecart": null,
+                "points": 587
+              },
+              {
+                "rang": 5,
+                "statut": null,
+                "iuf": "3613561",
+                "nom": "BRECY Juliette",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "CS CLICHY 92",
+                "temps": "01:32.02",
+                "ecart": null,
+                "points": 540
+              },
+              {
+                "rang": 6,
+                "statut": null,
+                "iuf": "3977026",
+                "nom": "SARRET Clara",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "RACING CLUB DE FRANCE",
+                "temps": "01:33.95",
+                "ecart": null,
+                "points": 504
+              }
+            ]
+          },
+          {
+            "phase": "Séries",
+            "categorie": "U10 DAMES : 6-10 ans",
+            "date": "Dimanche 31 Mai 2026 - 15h34",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "3505109",
+                "nom": "ROGER-GUYOT Elise",
+                "annee": 2016,
+                "nation": "FRA",
+                "club": "RACING CLUB DE FRANCE",
+                "temps": "01:34.73",
+                "ecart": null,
+                "points": 491
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "3436983",
+                "nom": "ABOUHAMDA Elyssa",
+                "annee": 2016,
+                "nation": "FRA",
+                "club": "CN ASNIÈRES",
+                "temps": "01:37.61",
+                "ecart": null,
+                "points": 441
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "3594223",
+                "nom": "LABROSSE Maï-Line",
+                "annee": 2016,
+                "nation": "FRA",
+                "club": "AQUA VALLÉE-DE-CHEVREUSE",
+                "temps": "01:40.98",
+                "ecart": null,
+                "points": 386
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "4018085",
+                "nom": "BRISSET Sofia",
+                "annee": 2017,
+                "nation": "FRA",
+                "club": "AQUA VALLÉE-DE-CHEVREUSE",
+                "temps": "01:44.83",
+                "ecart": null,
+                "points": 328
+              },
+              {
+                "rang": 5,
+                "statut": null,
+                "iuf": "3745491",
+                "nom": "OUASTI CORBIERE Luna",
+                "annee": 2016,
+                "nation": "FRA",
+                "club": "AQUACLUB LE PECQ MARLY",
+                "temps": "01:59.29",
+                "ecart": null,
+                "points": 151
+              },
+              {
+                "rang": null,
+                "statut": null,
+                "iuf": "4162473",
+                "nom": "ABOU MOUSSA Sophie",
+                "annee": 2017,
+                "nation": "FRA",
+                "club": "AQUACLUB LE PECQ MARLY",
+                "temps": "DNS dec Forfait déclaré",
+                "ecart": null,
+                "points": null
+              },
+              {
+                "rang": null,
+                "statut": null,
+                "iuf": "4432709",
+                "nom": "DORDAIN Amelie",
+                "annee": 2016,
+                "nation": "FRA",
+                "club": "RACING CLUB DE FRANCE",
+                "temps": "DSQ Disqualifié",
+                "ecart": null,
+                "points": null
+              }
+            ]
+          }
+        ],
+        "epreuve_id": "12"
+      },
+      {
+        "distance": 100,
+        "nage": "Dos",
+        "sexe": "M",
+        "label": "100 Dos Messieurs",
+        "phases": [
+          {
+            "phase": "Séries",
+            "categorie": "13 ANS MESSIEURS : 13 ans",
+            "date": "Dimanche 31 Mai 2026 - 15h58",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "3757891",
+                "nom": "GARNIER LORCERY Loup",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "CN POISSY",
+                "temps": "01:08.12",
+                "ecart": null,
+                "points": 890
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "2724981",
+                "nom": "JULIEN Théophile",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "01:11.15",
+                "ecart": null,
+                "points": 815
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "3521413",
+                "nom": "CHAVANNE BRUCKER Theodor",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "RACING CLUB DE FRANCE",
+                "temps": "01:18.39",
+                "ecart": null,
+                "points": 651
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "3969546",
+                "nom": "VAROQUIER Martin",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "LES PHOENIX D'ANTONY",
+                "temps": "01:19.34",
+                "ecart": null,
+                "points": 630
+              },
+              {
+                "rang": 5,
+                "statut": null,
+                "iuf": "3156649",
+                "nom": "BRIARD Louis",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "01:19.73",
+                "ecart": null,
+                "points": 622
+              },
+              {
+                "rang": 6,
+                "statut": null,
+                "iuf": "3290805",
+                "nom": "ROCHETTE Esteban",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "01:21.62",
+                "ecart": null,
+                "points": 583
+              }
+            ]
+          },
+          {
+            "phase": "Séries",
+            "categorie": "12 ANS MESSIEURS : 12 ans",
+            "date": "Dimanche 31 Mai 2026 - 15h52",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "3505625",
+                "nom": "SEI Wandrille",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "01:13.22",
+                "ecart": null,
+                "points": 766
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "3829977",
+                "nom": "BOUGEARD Joseph",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "RACING CLUB DE FRANCE",
+                "temps": "01:20.32",
+                "ecart": null,
+                "points": 610
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "4158053",
+                "nom": "LY Hamidou",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "CN POISSY",
+                "temps": "01:22.21",
+                "ecart": null,
+                "points": 571
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "3231173",
+                "nom": "ABDULRAZAK Kenzi",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "CS CLICHY 92",
+                "temps": "01:26.65",
+                "ecart": null,
+                "points": 485
+              },
+              {
+                "rang": 5,
+                "statut": null,
+                "iuf": "3886025",
+                "nom": "CZELUSTA Nico",
+                "annee": 2014,
+                "nation": "USA",
+                "club": "RACING CLUB DE FRANCE",
+                "temps": "01:26.79",
+                "ecart": null,
+                "points": 483
+              },
+              {
+                "rang": 6,
+                "statut": null,
+                "iuf": "3400895",
+                "nom": "JEYARAJAH Januthan",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "CN ASNIÈRES",
+                "temps": "01:32.38",
+                "ecart": null,
+                "points": 385
+              }
+            ]
+          },
+          {
+            "phase": "Séries",
+            "categorie": "U10 MESSIEURS : 6-10 ans",
+            "date": "Dimanche 31 Mai 2026 - 15h37",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "3542027",
+                "nom": "FANCHON Gaspard",
+                "annee": 2016,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "01:30.04",
+                "ecart": null,
+                "points": 425
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "4050494",
+                "nom": "CHEVTCHOUK POURE Tristan",
+                "annee": 2016,
+                "nation": "FRA",
+                "club": "AQUACLUB LE PECQ MARLY",
+                "temps": "01:37.86",
+                "ecart": null,
+                "points": 300
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "4039145",
+                "nom": "CROLY-LABOURDETTE Anton",
+                "annee": 2016,
+                "nation": "FRA",
+                "club": "LE CHESNAY NATATION",
+                "temps": "01:39.56",
+                "ecart": null,
+                "points": 276
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "3481427",
+                "nom": "BOUZIANE Kayis",
+                "annee": 2016,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "01:41.81",
+                "ecart": null,
+                "points": 245
+              },
+              {
+                "rang": 5,
+                "statut": null,
+                "iuf": "3698403",
+                "nom": "BERTHE Byron",
+                "annee": 2017,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "01:42.69",
+                "ecart": null,
+                "points": 234
+              },
+              {
+                "rang": 6,
+                "statut": null,
+                "iuf": "4154464",
+                "nom": "DEMONTOY Marius",
+                "annee": 2016,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "01:52.16",
+                "ecart": null,
+                "points": 128
+              }
+            ]
+          }
+        ],
+        "epreuve_id": "62"
+      },
+      {
+        "distance": 200,
+        "nage": "Dos",
+        "sexe": "F",
+        "label": "200 Dos Dames",
+        "phases": [
+          {
+            "phase": "Séries",
+            "categorie": "11 ANS DAMES : 11 ans",
+            "date": "Dimanche 31 Mai 2026 - 15h40",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "3559489",
+                "nom": "LACQUIT ROSSE Maya",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "AQUACLUB LE PECQ MARLY",
+                "temps": "03:01.95",
+                "ecart": null,
+                "points": 646
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "3397039",
+                "nom": "GUYADER Liz",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "AQUA VALLÉE-DE-CHEVREUSE",
+                "temps": "03:06.35",
+                "ecart": null,
+                "points": 602
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "3827701",
+                "nom": "CHATTI Nour",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "AQUA VALLÉE-DE-CHEVREUSE",
+                "temps": "03:12.81",
+                "ecart": null,
+                "points": 540
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "2812315",
+                "nom": "MOGGIA CHTCHIGROVSKY Maëline",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "AQUA VALLÉE-DE-CHEVREUSE",
+                "temps": "03:16.38",
+                "ecart": null,
+                "points": 507
+              },
+              {
+                "rang": 5,
+                "statut": null,
+                "iuf": "3966102",
+                "nom": "BESTION Mathilde",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "03:18.27",
+                "ecart": null,
+                "points": 490
+              },
+              {
+                "rang": 6,
+                "statut": null,
+                "iuf": "3356691",
+                "nom": "BLANC Louise",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "AQUA VALLÉE-DE-CHEVREUSE",
+                "temps": "03:33.91",
+                "ecart": null,
+                "points": 360
+              }
+            ]
+          }
+        ],
+        "epreuve_id": "13"
+      },
+      {
+        "distance": 200,
+        "nage": "Dos",
+        "sexe": "M",
+        "label": "200 Dos Messieurs",
+        "phases": [
+          {
+            "phase": "Séries",
+            "categorie": "11 ANS MESSIEURS : 11 ans",
+            "date": "Dimanche 31 Mai 2026 - 15h45",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "4135581",
+                "nom": "BENSAID Nahel",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "AQUA VALLÉE-DE-CHEVREUSE",
+                "temps": "02:51.85",
+                "ecart": null,
+                "points": 592
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "3401979",
+                "nom": "TROLLÉ Thomas",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "AQUA VALLÉE-DE-CHEVREUSE",
+                "temps": "02:56.99",
+                "ecart": null,
+                "points": 541
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "3776701",
+                "nom": "VERSTRAETEN Robin",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "AQUACLUB LE PECQ MARLY",
+                "temps": "02:58.97",
+                "ecart": null,
+                "points": 522
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "4018404",
+                "nom": "ADALBERTI Paul",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "AQUA VALLÉE-DE-CHEVREUSE",
+                "temps": "02:59.65",
+                "ecart": null,
+                "points": 515
+              },
+              {
+                "rang": 5,
+                "statut": null,
+                "iuf": "4215377",
+                "nom": "FALK Aiden",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "03:27.81",
+                "ecart": null,
+                "points": 282
+              },
+              {
+                "rang": 6,
+                "statut": null,
+                "iuf": "4299807",
+                "nom": "DE MERCEY Mayeul",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "03:32.55",
+                "ecart": null,
+                "points": 250
+              }
+            ]
+          }
+        ],
+        "epreuve_id": "63"
+      },
+      {
+        "distance": 100,
+        "nage": "Brasse",
+        "sexe": "F",
+        "label": "100 Brasse Dames",
+        "phases": [
+          {
+            "phase": "Séries",
+            "categorie": "13 ANS DAMES : 13 ans",
+            "date": "Dimanche 31 Mai 2026 - 16h37",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "3757791",
+                "nom": "AVDIENKO Nadezhda",
+                "annee": 2013,
+                "nation": "FFN",
+                "club": "CN POISSY",
+                "temps": "01:23.72",
+                "ecart": null,
+                "points": 938
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "1827685",
+                "nom": "DIOULE Manel",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "CN POISSY",
+                "temps": "01:24.94",
+                "ecart": null,
+                "points": 913
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "2910399",
+                "nom": "FREYSZ VONGSAVATH Leocadie",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "CS CLICHY 92",
+                "temps": "01:26.11",
+                "ecart": null,
+                "points": 888
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "3003241",
+                "nom": "BALAZOT Abril",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "US CONFLANS-STE-HONORINE",
+                "temps": "01:31.92",
+                "ecart": null,
+                "points": 772
+              },
+              {
+                "rang": 5,
+                "statut": null,
+                "iuf": "4013972",
+                "nom": "LECOURT Bertille",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "CN ASNIÈRES",
+                "temps": "01:32.12",
+                "ecart": null,
+                "points": 768
+              },
+              {
+                "rang": null,
+                "statut": null,
+                "iuf": "2586213",
+                "nom": "DABI Daphne",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "RACING CLUB DE FRANCE",
+                "temps": "DSQ Disqualifié",
+                "ecart": null,
+                "points": null
+              }
+            ]
+          },
+          {
+            "phase": "Séries",
+            "categorie": "12 ANS DAMES : 12 ans",
+            "date": "Dimanche 31 Mai 2026 - 16h31",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "2980825",
+                "nom": "MEUNIER Juliette",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "01:28.19",
+                "ecart": null,
+                "points": 846
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "3400881",
+                "nom": "HANOUTI Anaïs",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "CN ASNIÈRES",
+                "temps": "01:38.10",
+                "ecart": null,
+                "points": 658
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "4131144",
+                "nom": "GOUEREC Eva",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "RACING CLUB DE FRANCE",
+                "temps": "01:38.67",
+                "ecart": null,
+                "points": 647
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "4378862",
+                "nom": "OUCHIMOU Assia",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "CN ASNIÈRES",
+                "temps": "01:41.31",
+                "ecart": null,
+                "points": 602
+              },
+              {
+                "rang": 5,
+                "statut": null,
+                "iuf": "3337695",
+                "nom": "REBBACHE Dassine",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "CN LE PLESSIS-ROBINSON",
+                "temps": "01:41.62",
+                "ecart": null,
+                "points": 596
+              },
+              {
+                "rang": 6,
+                "statut": null,
+                "iuf": "3337683",
+                "nom": "LAUDY Pauline",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "CN LE PLESSIS-ROBINSON",
+                "temps": "01:42.78",
+                "ecart": null,
+                "points": 577
+              }
+            ]
+          },
+          {
+            "phase": "Séries",
+            "categorie": "U10 DAMES : 6-10 ans",
+            "date": "Dimanche 31 Mai 2026 - 16h16",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "4203110",
+                "nom": "PAOLANTONACCI Stella",
+                "annee": 2016,
+                "nation": "FRA",
+                "club": "RACING CLUB DE FRANCE",
+                "temps": "01:44.00",
+                "ecart": null,
+                "points": 557
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "4401194",
+                "nom": "MOUSSET Margaux",
+                "annee": 2017,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "01:44.39",
+                "ecart": null,
+                "points": 550
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "3850107",
+                "nom": "NOEL Charlotte",
+                "annee": 2016,
+                "nation": "FRA",
+                "club": "AQUA VALLÉE-DE-CHEVREUSE",
+                "temps": "01:45.40",
+                "ecart": null,
+                "points": 534
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "3745491",
+                "nom": "OUASTI CORBIERE Luna",
+                "annee": 2016,
+                "nation": "FRA",
+                "club": "AQUACLUB LE PECQ MARLY",
+                "temps": "01:52.74",
+                "ecart": null,
+                "points": 423
+              },
+              {
+                "rang": 5,
+                "statut": null,
+                "iuf": "3594223",
+                "nom": "LABROSSE Maï-Line",
+                "annee": 2016,
+                "nation": "FRA",
+                "club": "AQUA VALLÉE-DE-CHEVREUSE",
+                "temps": "01:53.15",
+                "ecart": null,
+                "points": 417
+              },
+              {
+                "rang": 6,
+                "statut": null,
+                "iuf": "4039143",
+                "nom": "CROLY-LABOURDETTE Anouk",
+                "annee": 2016,
+                "nation": "FRA",
+                "club": "LE CHESNAY NATATION",
+                "temps": "01:53.58",
+                "ecart": null,
+                "points": 411
+              }
+            ]
+          }
+        ],
+        "epreuve_id": "22"
+      },
+      {
+        "distance": 100,
+        "nage": "Brasse",
+        "sexe": "M",
+        "label": "100 Brasse Messieurs",
+        "phases": [
+          {
+            "phase": "Séries",
+            "categorie": "13 ANS MESSIEURS : 13 ans",
+            "date": "Dimanche 31 Mai 2026 - 16h40",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "3835663",
+                "nom": "RIBEIRO Luca",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "CN LE PLESSIS-ROBINSON",
+                "temps": "01:24.69",
+                "ecart": null,
+                "points": 715
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "2685613",
+                "nom": "BOURGES Auguste",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "RACING CLUB DE FRANCE",
+                "temps": "01:24.75",
+                "ecart": null,
+                "points": 714
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "3252501",
+                "nom": "ALOUI Alan",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "01:31.47",
+                "ecart": null,
+                "points": 580
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "4020705",
+                "nom": "BEGUE PAUPIAH Zachary",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "AQUACLUB LE PECQ MARLY",
+                "temps": "01:33.38",
+                "ecart": null,
+                "points": 545
+              },
+              {
+                "rang": 5,
+                "statut": null,
+                "iuf": "4120615",
+                "nom": "MERCADAL Gabriel",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "01:35.62",
+                "ecart": null,
+                "points": 505
+              },
+              {
+                "rang": 6,
+                "statut": null,
+                "iuf": "3764015",
+                "nom": "LE BARS Clement",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "ASSO NATATION DE SARTROUVILLE",
+                "temps": "01:38.17",
+                "ecart": null,
+                "points": 461
+              }
+            ]
+          },
+          {
+            "phase": "Séries",
+            "categorie": "12 ANS MESSIEURS : 12 ans",
+            "date": "Dimanche 31 Mai 2026 - 16h34",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "2272807",
+                "nom": "VON HERTZEN Eliot",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "CN POISSY",
+                "temps": "01:23.27",
+                "ecart": null,
+                "points": 745
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "3984228",
+                "nom": "GRIMON Maxime",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "01:26.74",
+                "ecart": null,
+                "points": 673
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "4184537",
+                "nom": "GDAIEM Omar",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "GENNEVILLIERS NATATION",
+                "temps": "01:37.67",
+                "ecart": null,
+                "points": 469
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "3918565",
+                "nom": "CHESNÉ Paulin",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "CN LE PLESSIS-ROBINSON",
+                "temps": "01:40.06",
+                "ecart": null,
+                "points": 430
+              },
+              {
+                "rang": 5,
+                "statut": null,
+                "iuf": "3293437",
+                "nom": "DOCQ Naël",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "01:49.84",
+                "ecart": null,
+                "points": 286
+              },
+              {
+                "rang": null,
+                "statut": null,
+                "iuf": "3531793",
+                "nom": "EL KAMEL Medhi",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "ASSO NATATION DE SARTROUVILLE",
+                "temps": "DSQ Disqualifié",
+                "ecart": null,
+                "points": null
+              }
+            ]
+          },
+          {
+            "phase": "Séries",
+            "categorie": "U10 MESSIEURS : 6-10 ans",
+            "date": "Dimanche 31 Mai 2026 - 16h19",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "4013901",
+                "nom": "LATRECHE Yacine",
+                "annee": 2016,
+                "nation": "FRA",
+                "club": "CN ASNIÈRES",
+                "temps": "01:54.85",
+                "ecart": null,
+                "points": 223
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "4027788",
+                "nom": "FANCHON Louis",
+                "annee": 2018,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "01:55.36",
+                "ecart": null,
+                "points": 217
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "4029079",
+                "nom": "OLIVARES-MILLEREUX Thiago",
+                "annee": 2017,
+                "nation": "FRA",
+                "club": "CN ASNIÈRES",
+                "temps": "01:56.66",
+                "ecart": null,
+                "points": 202
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "3506453",
+                "nom": "DOCQ Noham",
+                "annee": 2016,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "01:57.62",
+                "ecart": null,
+                "points": 192
+              },
+              {
+                "rang": 5,
+                "statut": null,
+                "iuf": "4050496",
+                "nom": "CHEVTCHOUK POURE Nathan",
+                "annee": 2016,
+                "nation": "FRA",
+                "club": "AQUACLUB LE PECQ MARLY",
+                "temps": "02:00.07",
+                "ecart": null,
+                "points": 166
+              },
+              {
+                "rang": 6,
+                "statut": null,
+                "iuf": "4029074",
+                "nom": "NADARASA Lishan",
+                "annee": 2016,
+                "nation": "FRA",
+                "club": "CN ASNIÈRES",
+                "temps": "02:11.55",
+                "ecart": null,
+                "points": 71
+              }
+            ]
+          }
+        ],
+        "epreuve_id": "72"
+      },
+      {
+        "distance": 200,
+        "nage": "Brasse",
+        "sexe": "F",
+        "label": "200 Brasse Dames",
+        "phases": [
+          {
+            "phase": "Séries",
+            "categorie": "11 ANS DAMES : 11 ans",
+            "date": "Dimanche 31 Mai 2026 - 16h22",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "3397039",
+                "nom": "GUYADER Liz",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "AQUA VALLÉE-DE-CHEVREUSE",
+                "temps": "03:27.41",
+                "ecart": null,
+                "points": 643
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "3506395",
+                "nom": "FANCHON Margaux",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "03:33.54",
+                "ecart": null,
+                "points": 589
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "2812315",
+                "nom": "MOGGIA CHTCHIGROVSKY Maëline",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "AQUA VALLÉE-DE-CHEVREUSE",
+                "temps": "03:34.33",
+                "ecart": null,
+                "points": 583
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "3401951",
+                "nom": "SMIR Alyssia",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "AQUA VALLÉE-DE-CHEVREUSE",
+                "temps": "03:36.03",
+                "ecart": null,
+                "points": 568
+              },
+              {
+                "rang": 5,
+                "statut": null,
+                "iuf": "4068767",
+                "nom": "ZABABURIN Sophie",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "LE CHESNAY NATATION",
+                "temps": "03:41.15",
+                "ecart": null,
+                "points": 526
+              },
+              {
+                "rang": 6,
+                "statut": null,
+                "iuf": "3700157",
+                "nom": "NGUYEN LE Anne",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "03:48.43",
+                "ecart": null,
+                "points": 469
+              }
+            ]
+          }
+        ],
+        "epreuve_id": "23"
+      },
+      {
+        "distance": 200,
+        "nage": "Brasse",
+        "sexe": "M",
+        "label": "200 Brasse Messieurs",
+        "phases": [
+          {
+            "phase": "Séries",
+            "categorie": "11 ANS MESSIEURS : 11 ans",
+            "date": "Dimanche 31 Mai 2026 - 16h26",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "3214281",
+                "nom": "DUMAINE Baptiste",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "RACING CLUB DE FRANCE",
+                "temps": "03:17.83",
+                "ecart": null,
+                "points": 529
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "3401979",
+                "nom": "TROLLÉ Thomas",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "AQUA VALLÉE-DE-CHEVREUSE",
+                "temps": "03:33.97",
+                "ecart": null,
+                "points": 394
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "3275289",
+                "nom": "LORTHIOIS Auguste",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "04:09.20",
+                "ecart": null,
+                "points": 169
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "3002319",
+                "nom": "SYLLA Moustapha",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "CN ASNIÈRES",
+                "temps": "04:13.89",
+                "ecart": null,
+                "points": 146
+              },
+              {
+                "rang": null,
+                "statut": null,
+                "iuf": "4299807",
+                "nom": "DE MERCEY Mayeul",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "DNS dec Forfait déclaré",
+                "ecart": null,
+                "points": null
+              },
+              {
+                "rang": null,
+                "statut": null,
+                "iuf": "4487940",
+                "nom": "SURUGUE DE GELAS Maceo",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "DNS dec Forfait déclaré",
+                "ecart": null,
+                "points": null
+              }
+            ]
+          }
+        ],
+        "epreuve_id": "73"
+      },
+      {
+        "distance": 100,
+        "nage": "Nage Libre",
+        "sexe": "F",
+        "label": "100 Nage Libre Dames",
+        "phases": [
+          {
+            "phase": "Séries",
+            "categorie": "13 ANS DAMES : 13 ans",
+            "date": "Dimanche 31 Mai 2026 - 17h19",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "2586307",
+                "nom": "SINAPAH Tara",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "RACING CLUB DE FRANCE",
+                "temps": "01:05.82",
+                "ecart": null,
+                "points": 916
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "1827685",
+                "nom": "DIOULE Manel",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "CN POISSY",
+                "temps": "01:08.63",
+                "ecart": null,
+                "points": 830
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "3534315",
+                "nom": "RÉ Andréa",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "01:09.47",
+                "ecart": null,
+                "points": 805
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "4013972",
+                "nom": "LECOURT Bertille",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "CN ASNIÈRES",
+                "temps": "01:10.43",
+                "ecart": null,
+                "points": 777
+              },
+              {
+                "rang": 5,
+                "statut": null,
+                "iuf": "3428827",
+                "nom": "GODARD Maëlie",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "CN POISSY",
+                "temps": "01:14.32",
+                "ecart": null,
+                "points": 668
+              },
+              {
+                "rang": 6,
+                "statut": null,
+                "iuf": "2910399",
+                "nom": "FREYSZ VONGSAVATH Leocadie",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "CS CLICHY 92",
+                "temps": "01:14.62",
+                "ecart": null,
+                "points": 660
+              }
+            ]
+          },
+          {
+            "phase": "Séries",
+            "categorie": "12 ANS DAMES : 12 ans",
+            "date": "Dimanche 31 Mai 2026 - 17h13",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "3356665",
+                "nom": "BOUGRA Assile",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "CS CLICHY 92",
+                "temps": "01:12.13",
+                "ecart": null,
+                "points": 728
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "4131147",
+                "nom": "GOUEREC Inès",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "RACING CLUB DE FRANCE",
+                "temps": "01:12.69",
+                "ecart": null,
+                "points": 713
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "3304619",
+                "nom": "DAGUINOT Agathe",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "AQUACLUB LE PECQ MARLY",
+                "temps": "01:15.18",
+                "ecart": null,
+                "points": 645
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "3861321",
+                "nom": "BENKHEROUF Sofia",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "GENNEVILLIERS NATATION",
+                "temps": "01:15.97",
+                "ecart": null,
+                "points": 624
+              },
+              {
+                "rang": 5,
+                "statut": null,
+                "iuf": "3415421",
+                "nom": "LEBOISSELIER Juliette",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "LES PHOENIX D'ANTONY",
+                "temps": "01:17.59",
+                "ecart": null,
+                "points": 583
+              },
+              {
+                "rang": 6,
+                "statut": null,
+                "iuf": "3400881",
+                "nom": "HANOUTI Anaïs",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "CN ASNIÈRES",
+                "temps": "01:19.27",
+                "ecart": null,
+                "points": 541
+              }
+            ]
+          },
+          {
+            "phase": "Séries",
+            "categorie": "U10 DAMES : 6-10 ans",
+            "date": "Dimanche 31 Mai 2026 - 16h58",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "3850107",
+                "nom": "NOEL Charlotte",
+                "annee": 2016,
+                "nation": "FRA",
+                "club": "AQUA VALLÉE-DE-CHEVREUSE",
+                "temps": "01:26.46",
+                "ecart": null,
+                "points": 381
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "3436983",
+                "nom": "ABOUHAMDA Elyssa",
+                "annee": 2016,
+                "nation": "FRA",
+                "club": "CN ASNIÈRES",
+                "temps": "01:28.32",
+                "ecart": null,
+                "points": 344
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "4018085",
+                "nom": "BRISSET Sofia",
+                "annee": 2017,
+                "nation": "FRA",
+                "club": "AQUA VALLÉE-DE-CHEVREUSE",
+                "temps": "01:28.42",
+                "ecart": null,
+                "points": 342
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "3505109",
+                "nom": "ROGER-GUYOT Elise",
+                "annee": 2016,
+                "nation": "FRA",
+                "club": "RACING CLUB DE FRANCE",
+                "temps": "01:28.97",
+                "ecart": null,
+                "points": 332
+              },
+              {
+                "rang": 5,
+                "statut": null,
+                "iuf": "4009777",
+                "nom": "AMAR Ines",
+                "annee": 2017,
+                "nation": "FRA",
+                "club": "CN ASNIÈRES",
+                "temps": "01:30.24",
+                "ecart": null,
+                "points": 308
+              },
+              {
+                "rang": 6,
+                "statut": null,
+                "iuf": "4401194",
+                "nom": "MOUSSET Margaux",
+                "annee": 2017,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "01:30.39",
+                "ecart": null,
+                "points": 305
+              }
+            ]
+          }
+        ],
+        "epreuve_id": "2"
+      },
+      {
+        "distance": 100,
+        "nage": "Nage Libre",
+        "sexe": "M",
+        "label": "100 Nage Libre Messieurs",
+        "phases": [
+          {
+            "phase": "Séries",
+            "categorie": "13 ANS MESSIEURS : 13 ans",
+            "date": "Dimanche 31 Mai 2026 - 17h22",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "3757891",
+                "nom": "GARNIER LORCERY Loup",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "CN POISSY",
+                "temps": "01:00.65",
+                "ecart": null,
+                "points": 910
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "2685613",
+                "nom": "BOURGES Auguste",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "RACING CLUB DE FRANCE",
+                "temps": "01:04.97",
+                "ecart": null,
+                "points": 784
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "4036781",
+                "nom": "MOUKAH Rayhan",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "GENNEVILLIERS NATATION",
+                "temps": "01:07.65",
+                "ecart": null,
+                "points": 711
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "3156649",
+                "nom": "BRIARD Louis",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "01:08.46",
+                "ecart": null,
+                "points": 690
+              },
+              {
+                "rang": 5,
+                "statut": null,
+                "iuf": "3835663",
+                "nom": "RIBEIRO Luca",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "CN LE PLESSIS-ROBINSON",
+                "temps": "01:08.53",
+                "ecart": null,
+                "points": 688
+              },
+              {
+                "rang": 6,
+                "statut": null,
+                "iuf": "3290805",
+                "nom": "ROCHETTE Esteban",
+                "annee": 2013,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "01:14.08",
+                "ecart": null,
+                "points": 550
+              }
+            ]
+          },
+          {
+            "phase": "Séries",
+            "categorie": "12 ANS MESSIEURS : 12 ans",
+            "date": "Dimanche 31 Mai 2026 - 17h16",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "3505625",
+                "nom": "SEI Wandrille",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "01:04.47",
+                "ecart": null,
+                "points": 798
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "2272807",
+                "nom": "VON HERTZEN Eliot",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "CN POISSY",
+                "temps": "01:11.02",
+                "ecart": null,
+                "points": 624
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "3057779",
+                "nom": "CROLY-LABOURDETTE Lucien",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "LE CHESNAY NATATION",
+                "temps": "01:13.05",
+                "ecart": null,
+                "points": 575
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "4184537",
+                "nom": "GDAIEM Omar",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "GENNEVILLIERS NATATION",
+                "temps": "01:14.75",
+                "ecart": null,
+                "points": 535
+              },
+              {
+                "rang": 5,
+                "statut": null,
+                "iuf": "3001675",
+                "nom": "ZIANI Ayham",
+                "annee": 2014,
+                "nation": "FRA",
+                "club": "CN ASNIÈRES",
+                "temps": "01:14.77",
+                "ecart": null,
+                "points": 534
+              },
+              {
+                "rang": 6,
+                "statut": null,
+                "iuf": "3886025",
+                "nom": "CZELUSTA Nico",
+                "annee": 2014,
+                "nation": "USA",
+                "club": "RACING CLUB DE FRANCE",
+                "temps": "01:17.56",
+                "ecart": null,
+                "points": 472
+              }
+            ]
+          },
+          {
+            "phase": "Séries",
+            "categorie": "U10 MESSIEURS : 6-10 ans",
+            "date": "Dimanche 31 Mai 2026 - 17h01",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "3542027",
+                "nom": "FANCHON Gaspard",
+                "annee": 2016,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "01:18.76",
+                "ecart": null,
+                "points": 446
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "4050494",
+                "nom": "CHEVTCHOUK POURE Tristan",
+                "annee": 2016,
+                "nation": "FRA",
+                "club": "AQUACLUB LE PECQ MARLY",
+                "temps": "01:26.87",
+                "ecart": null,
+                "points": 291
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "4013901",
+                "nom": "LATRECHE Yacine",
+                "annee": 2016,
+                "nation": "FRA",
+                "club": "CN ASNIÈRES",
+                "temps": "01:27.58",
+                "ecart": null,
+                "points": 279
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "3481427",
+                "nom": "BOUZIANE Kayis",
+                "annee": 2016,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "01:34.46",
+                "ecart": null,
+                "points": 176
+              },
+              {
+                "rang": null,
+                "statut": null,
+                "iuf": "4344145",
+                "nom": "TABAI Youssef",
+                "annee": 2016,
+                "nation": "TUN",
+                "club": "GENNEVILLIERS NATATION",
+                "temps": "DSQ Disqualifié",
+                "ecart": null,
+                "points": null
+              },
+              {
+                "rang": null,
+                "statut": null,
+                "iuf": "3532949",
+                "nom": "BARAS Pierre",
+                "annee": 2016,
+                "nation": "FRA",
+                "club": "LE CHESNAY NATATION",
+                "temps": "DSQ Disqualifié",
+                "ecart": null,
+                "points": null
+              }
+            ]
+          }
+        ],
+        "epreuve_id": "52"
+      },
+      {
+        "distance": 200,
+        "nage": "Nage Libre",
+        "sexe": "F",
+        "label": "200 Nage Libre Dames",
+        "phases": [
+          {
+            "phase": "Séries",
+            "categorie": "11 ANS DAMES : 11 ans",
+            "date": "Dimanche 31 Mai 2026 - 17h03",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "3506625",
+                "nom": "COMBALUZIER Rose",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "02:33.18",
+                "ecart": null,
+                "points": 799
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "3850189",
+                "nom": "RODRIGUEZ ZHANG Anaëlle",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "AQUA VALLÉE-DE-CHEVREUSE",
+                "temps": "02:50.38",
+                "ecart": null,
+                "points": 591
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "3559489",
+                "nom": "LACQUIT ROSSE Maya",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "AQUACLUB LE PECQ MARLY",
+                "temps": "02:51.74",
+                "ecart": null,
+                "points": 576
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "3506395",
+                "nom": "FANCHON Margaux",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "SN VERSAILLES",
+                "temps": "02:52.24",
+                "ecart": null,
+                "points": 570
+              },
+              {
+                "rang": 5,
+                "statut": null,
+                "iuf": "3401951",
+                "nom": "SMIR Alyssia",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "AQUA VALLÉE-DE-CHEVREUSE",
+                "temps": "03:00.53",
+                "ecart": null,
+                "points": 483
+              },
+              {
+                "rang": 6,
+                "statut": null,
+                "iuf": "3827701",
+                "nom": "CHATTI Nour",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "AQUA VALLÉE-DE-CHEVREUSE",
+                "temps": "03:00.98",
+                "ecart": null,
+                "points": 478
+              }
+            ]
+          }
+        ],
+        "epreuve_id": "3"
+      },
+      {
+        "distance": 200,
+        "nage": "Nage Libre",
+        "sexe": "M",
+        "label": "200 Nage Libre Messieurs",
+        "phases": [
+          {
+            "phase": "Séries",
+            "categorie": "11 ANS MESSIEURS : 11 ans",
+            "date": "Dimanche 31 Mai 2026 - 17h08",
+            "results": [
+              {
+                "rang": 1,
+                "statut": null,
+                "iuf": "3214281",
+                "nom": "DUMAINE Baptiste",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "RACING CLUB DE FRANCE",
+                "temps": "02:31.02",
+                "ecart": null,
+                "points": 636
+              },
+              {
+                "rang": 2,
+                "statut": null,
+                "iuf": "4135581",
+                "nom": "BENSAID Nahel",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "AQUA VALLÉE-DE-CHEVREUSE",
+                "temps": "02:42.43",
+                "ecart": null,
+                "points": 501
+              },
+              {
+                "rang": 3,
+                "statut": null,
+                "iuf": "4018404",
+                "nom": "ADALBERTI Paul",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "AQUA VALLÉE-DE-CHEVREUSE",
+                "temps": "02:52.58",
+                "ecart": null,
+                "points": 394
+              },
+              {
+                "rang": 4,
+                "statut": null,
+                "iuf": "3776701",
+                "nom": "VERSTRAETEN Robin",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "AQUACLUB LE PECQ MARLY",
+                "temps": "02:52.71",
+                "ecart": null,
+                "points": 392
+              },
+              {
+                "rang": 5,
+                "statut": null,
+                "iuf": "3519479",
+                "nom": "BOUGHANEM Nael",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "US CONFLANS-STE-HONORINE",
+                "temps": "03:03.17",
+                "ecart": null,
+                "points": 296
+              },
+              {
+                "rang": 6,
+                "statut": null,
+                "iuf": "3002319",
+                "nom": "SYLLA Moustapha",
+                "annee": 2015,
+                "nation": "FRA",
+                "club": "CN ASNIÈRES",
+                "temps": "03:22.22",
+                "ecart": null,
+                "points": 155
+              }
+            ]
+          }
+        ],
+        "epreuve_id": "53"
+      }
+    ]
+  },
+  "generated_at": "2026-09-05T22:42:41.719544+00:00"
+}
