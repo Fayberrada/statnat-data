@@ -1,0 +1,519 @@
+{
+  "competition": "93730",
+  "events": [
+    {
+      "epr_id": "11",
+      "distance": 50,
+      "nage": "Dos",
+      "sexe": "F",
+      "label": "50 Dos Dames",
+      "phases": [
+        {
+          "tour": "Séries U 11 ET MOINS",
+          "heure": "09h00",
+          "typ_id": "60",
+          "num": "0",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "61",
+      "distance": 50,
+      "nage": "Dos",
+      "sexe": "M",
+      "label": "50 Dos Messieurs",
+      "phases": [
+        {
+          "tour": "Séries U 11 ET MOINS",
+          "heure": "09h06",
+          "typ_id": "60",
+          "num": "1",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "12",
+      "distance": 100,
+      "nage": "Dos",
+      "sexe": "F",
+      "label": "100 Dos Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h11",
+          "typ_id": "60",
+          "num": "2",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "62",
+      "distance": 100,
+      "nage": "Dos",
+      "sexe": "M",
+      "label": "100 Dos Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h37",
+          "typ_id": "60",
+          "num": "3",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "21",
+      "distance": 50,
+      "nage": "Brasse",
+      "sexe": "F",
+      "label": "50 Brasse Dames",
+      "phases": [
+        {
+          "tour": "Séries U 11 ET MOINS",
+          "heure": "09h57",
+          "typ_id": "60",
+          "num": "4",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "71",
+      "distance": 50,
+      "nage": "Brasse",
+      "sexe": "M",
+      "label": "50 Brasse Messieurs",
+      "phases": [
+        {
+          "tour": "Séries U 11 ET MOINS",
+          "heure": "10h04",
+          "typ_id": "60",
+          "num": "5",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "22",
+      "distance": 100,
+      "nage": "Brasse",
+      "sexe": "F",
+      "label": "100 Brasse Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h09",
+          "typ_id": "60",
+          "num": "6",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "72",
+      "distance": 100,
+      "nage": "Brasse",
+      "sexe": "M",
+      "label": "100 Brasse Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h34",
+          "typ_id": "60",
+          "num": "7",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "31",
+      "distance": 50,
+      "nage": "Papillon",
+      "sexe": "F",
+      "label": "50 Papillon Dames",
+      "phases": [
+        {
+          "tour": "Séries U 11 ET MOINS",
+          "heure": "10h51",
+          "typ_id": "60",
+          "num": "8",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "81",
+      "distance": 50,
+      "nage": "Papillon",
+      "sexe": "M",
+      "label": "50 Papillon Messieurs",
+      "phases": [
+        {
+          "tour": "Séries U 11 ET MOINS",
+          "heure": "10h58",
+          "typ_id": "60",
+          "num": "9",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "32",
+      "distance": 100,
+      "nage": "Papillon",
+      "sexe": "F",
+      "label": "100 Papillon Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "11h03",
+          "typ_id": "60",
+          "num": "10",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "82",
+      "distance": 100,
+      "nage": "Papillon",
+      "sexe": "M",
+      "label": "100 Papillon Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "11h24",
+          "typ_id": "60",
+          "num": "11",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "1",
+      "distance": 50,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "50 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries U 11 ET MOINS",
+          "heure": "11h43",
+          "typ_id": "60",
+          "num": "12",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "51",
+      "distance": 50,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "50 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries U 11 ET MOINS",
+          "heure": "11h51",
+          "typ_id": "60",
+          "num": "13",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "2",
+      "distance": 100,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "100 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "11h55",
+          "typ_id": "60",
+          "num": "14",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "52",
+      "distance": 100,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "100 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "12h14",
+          "typ_id": "60",
+          "num": "15",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "40",
+      "distance": 100,
+      "nage": "4 Nages",
+      "sexe": "F",
+      "label": "100 4 Nages Dames",
+      "phases": [
+        {
+          "tour": "Séries U 11 ET MOINS",
+          "heure": "12h30",
+          "typ_id": "60",
+          "num": "16",
+          "lineup": null
+        },
+        {
+          "tour": "Finale D U 11 ET MOINS",
+          "heure": "15h08",
+          "typ_id": "14",
+          "num": "22",
+          "lineup": []
+        },
+        {
+          "tour": "Finale C U 11 ET MOINS",
+          "heure": "15h12",
+          "typ_id": "13",
+          "num": "23",
+          "lineup": []
+        },
+        {
+          "tour": "Finale B U 11 ET MOINS",
+          "heure": "15h17",
+          "typ_id": "12",
+          "num": "24",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A U 11 ET MOINS",
+          "heure": "15h21",
+          "typ_id": "11",
+          "num": "25",
+          "lineup": []
+        }
+      ]
+    },
+    {
+      "epr_id": "90",
+      "distance": 100,
+      "nage": "4 Nages",
+      "sexe": "M",
+      "label": "100 4 Nages Messieurs",
+      "phases": [
+        {
+          "tour": "Séries U 11 ET MOINS",
+          "heure": "12h44",
+          "typ_id": "60",
+          "num": "17",
+          "lineup": null
+        },
+        {
+          "tour": "Finale C U 11 ET MOINS",
+          "heure": "15h25",
+          "typ_id": "13",
+          "num": "26",
+          "lineup": []
+        },
+        {
+          "tour": "Finale B U 11 ET MOINS",
+          "heure": "15h29",
+          "typ_id": "12",
+          "num": "27",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A U 11 ET MOINS",
+          "heure": "15h33",
+          "typ_id": "11",
+          "num": "28",
+          "lineup": []
+        }
+      ]
+    },
+    {
+      "epr_id": "41",
+      "distance": 200,
+      "nage": "4 Nages",
+      "sexe": "F",
+      "label": "200 4 Nages Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "12h52",
+          "typ_id": "60",
+          "num": "18",
+          "lineup": null
+        },
+        {
+          "tour": "Finale D U 12  ET  U 13",
+          "heure": "15h55",
+          "typ_id": "14",
+          "num": "29",
+          "lineup": []
+        },
+        {
+          "tour": "Finale C U 12  ET  U 13",
+          "heure": "16h01",
+          "typ_id": "13",
+          "num": "30",
+          "lineup": []
+        },
+        {
+          "tour": "Finale B U 12  ET  U 13",
+          "heure": "16h07",
+          "typ_id": "12",
+          "num": "31",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A U 12  ET  U 13",
+          "heure": "16h13",
+          "typ_id": "11",
+          "num": "32",
+          "lineup": []
+        },
+        {
+          "tour": "Finale D U 14 ET PLUS",
+          "heure": "16h43",
+          "typ_id": "14",
+          "num": "37",
+          "lineup": []
+        },
+        {
+          "tour": "Finale C U 14 ET PLUS",
+          "heure": "16h49",
+          "typ_id": "13",
+          "num": "38",
+          "lineup": []
+        },
+        {
+          "tour": "Finale B U 14 ET PLUS",
+          "heure": "16h56",
+          "typ_id": "12",
+          "num": "39",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A U 14 ET PLUS",
+          "heure": "17h02",
+          "typ_id": "11",
+          "num": "40",
+          "lineup": []
+        }
+      ]
+    },
+    {
+      "epr_id": "91",
+      "distance": 200,
+      "nage": "4 Nages",
+      "sexe": "M",
+      "label": "200 4 Nages Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "13h33",
+          "typ_id": "60",
+          "num": "19",
+          "lineup": null
+        },
+        {
+          "tour": "Finale D U 12 ET  U 13",
+          "heure": "16h20",
+          "typ_id": "14",
+          "num": "33",
+          "lineup": []
+        },
+        {
+          "tour": "Finale C U 12 ET  U 13",
+          "heure": "16h26",
+          "typ_id": "13",
+          "num": "34",
+          "lineup": []
+        },
+        {
+          "tour": "Finale B U 12 ET  U 13",
+          "heure": "16h31",
+          "typ_id": "12",
+          "num": "35",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A U 12 ET  U 13",
+          "heure": "16h37",
+          "typ_id": "11",
+          "num": "36",
+          "lineup": []
+        },
+        {
+          "tour": "Finale D U 14 ET PLUS",
+          "heure": "17h23",
+          "typ_id": "14",
+          "num": "41",
+          "lineup": []
+        },
+        {
+          "tour": "Finale C U 14 ET PLUS",
+          "heure": "17h29",
+          "typ_id": "13",
+          "num": "42",
+          "lineup": []
+        },
+        {
+          "tour": "Finale B U 14 ET PLUS",
+          "heure": "17h35",
+          "typ_id": "12",
+          "num": "43",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A U 14 ET PLUS",
+          "heure": "17h41",
+          "typ_id": "11",
+          "num": "44",
+          "lineup": []
+        }
+      ]
+    },
+    {
+      "epr_id": "3",
+      "distance": 200,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "200 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "14h30",
+          "typ_id": "60",
+          "num": "20",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "53",
+      "distance": 200,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "200 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "14h44",
+          "typ_id": "60",
+          "num": "21",
+          "lineup": null
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-09-26T15:57:45.956450+00:00"
+}

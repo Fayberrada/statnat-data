@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-09-26T15:59:55.262580+00:00",
+  "items": [
+    {
+      "id": "avenir_prochaine",
+      "kind": "agenda",
+      "tag": "À venir",
+      "title": "Spécial Demi-Fond — 26 septembre",
+      "body": "Prochain rendez-vous du périmètre à Cayenne · 49 nageurs attendus. 41 compétitions à venir au total.",
+      "date": "2026-09-26",
+      "competition_id": "94507"
+    },
+    {
+      "id": "avenir_affiche",
+      "kind": "agenda",
+      "tag": "L'affiche",
+      "title": "Journée d'Automne",
+      "body": "Le gros plateau à venir : 949 engagements à Bourges (26 septembre).",
+      "date": "2026-09-26",
+      "competition_id": "94520"
+    },
+    {
+      "id": "resultats_recents",
+      "kind": "resultats",
+      "tag": "Résultats",
+      "title": "Championnats Départementaux U11 — résultats en ligne",
+      "body": "Les classements de Versailles (21 juin) sont disponibles : séries et finales, avec tes favoris repérés.",
+      "date": "2026-06-21",
+      "competition_id": "94086"
+    },
+    {
+      "id": "perf_du_moment",
+      "kind": "perf",
+      "tag": "Perf en vue",
+      "title": "COMBALUZIER Rose — 00:33.38 (883 pts)",
+      "body": "Belle pointe sur 50 Papillon Dames à Versailles : 883 points FFN.",
+      "date": "2026-06-21",
+      "competition_id": "94086"
+    }
+  ]
+}
