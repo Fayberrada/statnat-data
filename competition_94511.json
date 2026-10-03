@@ -1,0 +1,262 @@
+{
+  "competition": "94511",
+  "events": [
+    {
+      "epr_id": "130",
+      "distance": 25,
+      "nage": "Papillon",
+      "sexe": "F",
+      "label": "25 Papillon Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "14h12",
+          "typ_id": "60",
+          "num": "2",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "180",
+      "distance": 25,
+      "nage": "Papillon",
+      "sexe": "M",
+      "label": "25 Papillon Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "14h21",
+          "typ_id": "60",
+          "num": "3",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "31",
+      "distance": 50,
+      "nage": "Papillon",
+      "sexe": "F",
+      "label": "50 Papillon Dames",
+      "phases": [
+        {
+          "tour": "Séries Benjamins Juniors Seniors",
+          "heure": "14h27",
+          "typ_id": "60",
+          "num": "4",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "81",
+      "distance": 50,
+      "nage": "Papillon",
+      "sexe": "M",
+      "label": "50 Papillon Messieurs",
+      "phases": [
+        {
+          "tour": "Séries Benjamins Juniors Seniors",
+          "heure": "14h30",
+          "typ_id": "60",
+          "num": "5",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "110",
+      "distance": 25,
+      "nage": "Dos",
+      "sexe": "F",
+      "label": "25 Dos Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "14h34",
+          "typ_id": "60",
+          "num": "6",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "160",
+      "distance": 25,
+      "nage": "Dos",
+      "sexe": "M",
+      "label": "25 Dos Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "14h42",
+          "typ_id": "60",
+          "num": "7",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "11",
+      "distance": 50,
+      "nage": "Dos",
+      "sexe": "F",
+      "label": "50 Dos Dames",
+      "phases": [
+        {
+          "tour": "Séries Benjamins Juniors Seniors",
+          "heure": "14h49",
+          "typ_id": "60",
+          "num": "8",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "61",
+      "distance": 50,
+      "nage": "Dos",
+      "sexe": "M",
+      "label": "50 Dos Messieurs",
+      "phases": [
+        {
+          "tour": "Séries Benjamins Juniors Seniors",
+          "heure": "14h54",
+          "typ_id": "60",
+          "num": "9",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "120",
+      "distance": 25,
+      "nage": "Brasse",
+      "sexe": "F",
+      "label": "25 Brasse Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "15h02",
+          "typ_id": "60",
+          "num": "10",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "170",
+      "distance": 25,
+      "nage": "Brasse",
+      "sexe": "M",
+      "label": "25 Brasse Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "15h09",
+          "typ_id": "60",
+          "num": "11",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "21",
+      "distance": 50,
+      "nage": "Brasse",
+      "sexe": "F",
+      "label": "50 Brasse Dames",
+      "phases": [
+        {
+          "tour": "Séries Benjamins Juniors Seniors",
+          "heure": "15h16",
+          "typ_id": "60",
+          "num": "12",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "71",
+      "distance": 50,
+      "nage": "Brasse",
+      "sexe": "M",
+      "label": "50 Brasse Messieurs",
+      "phases": [
+        {
+          "tour": "Séries Benjamins Juniors Seniors",
+          "heure": "15h22",
+          "typ_id": "60",
+          "num": "13",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "100",
+      "distance": 25,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "25 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "15h29",
+          "typ_id": "60",
+          "num": "14",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "150",
+      "distance": 25,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "25 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "15h36",
+          "typ_id": "60",
+          "num": "15",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "1",
+      "distance": 50,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "50 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries Benjamins Juniors Seniors",
+          "heure": "15h44",
+          "typ_id": "60",
+          "num": "16",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "51",
+      "distance": 50,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "50 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries Benjamins Juniors Seniors",
+          "heure": "15h51",
+          "typ_id": "60",
+          "num": "17",
+          "lineup": null
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-03T15:51:10.631129+00:00"
+}

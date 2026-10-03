@@ -1,0 +1,134 @@
+{
+  "competition": "94421",
+  "events": [
+    {
+      "epr_id": "54",
+      "distance": 400,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "400 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "08h48",
+          "typ_id": "60",
+          "num": "2",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "4",
+      "distance": 400,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "400 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h54",
+          "typ_id": "60",
+          "num": "3",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "90",
+      "distance": 100,
+      "nage": "4 Nages",
+      "sexe": "M",
+      "label": "100 4 Nages Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "11h22",
+          "typ_id": "60",
+          "num": "6",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "40",
+      "distance": 100,
+      "nage": "4 Nages",
+      "sexe": "F",
+      "label": "100 4 Nages Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "11h44",
+          "typ_id": "60",
+          "num": "7",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "2",
+      "distance": 100,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "100 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "15h21",
+          "typ_id": "60",
+          "num": "10",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "52",
+      "distance": 100,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "100 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "15h41",
+          "typ_id": "60",
+          "num": "11",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "41",
+      "distance": 200,
+      "nage": "4 Nages",
+      "sexe": "F",
+      "label": "200 4 Nages Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "16h19",
+          "typ_id": "60",
+          "num": "14",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "91",
+      "distance": 200,
+      "nage": "4 Nages",
+      "sexe": "M",
+      "label": "200 4 Nages Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "16h39",
+          "typ_id": "60",
+          "num": "15",
+          "lineup": null
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-03T15:51:23.501479+00:00"
+}

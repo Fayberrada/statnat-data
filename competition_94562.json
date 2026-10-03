@@ -1,0 +1,198 @@
+{
+  "competition": "94562",
+  "events": [
+    {
+      "epr_id": "11",
+      "distance": 50,
+      "nage": "Dos",
+      "sexe": "F",
+      "label": "50 Dos Dames",
+      "phases": [
+        {
+          "tour": "Séries Benjamins/Juniors/Seniors",
+          "heure": "10h00",
+          "typ_id": "60",
+          "num": "0",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "61",
+      "distance": 50,
+      "nage": "Dos",
+      "sexe": "M",
+      "label": "50 Dos Messieurs",
+      "phases": [
+        {
+          "tour": "Séries Benjamins/Juniors/Seniors",
+          "heure": "10h06",
+          "typ_id": "60",
+          "num": "1",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "1",
+      "distance": 50,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "50 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries Benjamins/Juniors/Seniors",
+          "heure": "10h12",
+          "typ_id": "60",
+          "num": "2",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "51",
+      "distance": 50,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "50 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries Benjamins/Juniors/Seniors",
+          "heure": "10h23",
+          "typ_id": "60",
+          "num": "3",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "41",
+      "distance": 200,
+      "nage": "4 Nages",
+      "sexe": "F",
+      "label": "200 4 Nages Dames",
+      "phases": [
+        {
+          "tour": "Séries Benjamins/Juniors/Seniors",
+          "heure": "10h53",
+          "typ_id": "60",
+          "num": "4",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "91",
+      "distance": 200,
+      "nage": "4 Nages",
+      "sexe": "M",
+      "label": "200 4 Nages Messieurs",
+      "phases": [
+        {
+          "tour": "Séries Benjamins/Juniors/Seniors",
+          "heure": "11h20",
+          "typ_id": "60",
+          "num": "5",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "31",
+      "distance": 50,
+      "nage": "Papillon",
+      "sexe": "F",
+      "label": "50 Papillon Dames",
+      "phases": [
+        {
+          "tour": "Séries Benjamins/Juniors/Seniors",
+          "heure": "14h30",
+          "typ_id": "60",
+          "num": "6",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "81",
+      "distance": 50,
+      "nage": "Papillon",
+      "sexe": "M",
+      "label": "50 Papillon Messieurs",
+      "phases": [
+        {
+          "tour": "Séries Benjamins/Juniors/Seniors",
+          "heure": "14h38",
+          "typ_id": "60",
+          "num": "7",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "21",
+      "distance": 50,
+      "nage": "Brasse",
+      "sexe": "F",
+      "label": "50 Brasse Dames",
+      "phases": [
+        {
+          "tour": "Séries Benjamins/Juniors/Seniors",
+          "heure": "14h47",
+          "typ_id": "60",
+          "num": "8",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "71",
+      "distance": 50,
+      "nage": "Brasse",
+      "sexe": "M",
+      "label": "50 Brasse Messieurs",
+      "phases": [
+        {
+          "tour": "Séries Benjamins/Juniors/Seniors",
+          "heure": "14h55",
+          "typ_id": "60",
+          "num": "9",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "4",
+      "distance": 400,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "400 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries Benjamins/Juniors/Seniors",
+          "heure": "15h21",
+          "typ_id": "60",
+          "num": "10",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "54",
+      "distance": 400,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "400 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries Benjamins/Juniors/Seniors",
+          "heure": "16h08",
+          "typ_id": "60",
+          "num": "11",
+          "lineup": null
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-03T15:51:13.134135+00:00"
+}
