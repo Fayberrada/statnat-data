@@ -1,0 +1,2652 @@
+{
+  "competition": "94504",
+  "events": [
+    {
+      "epr_id": "100",
+      "distance": 25,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "25 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "16h00",
+          "typ_id": "60",
+          "num": "0",
+          "lineup": null
+        },
+        {
+          "tour": "Finale D",
+          "heure": "16h32",
+          "typ_id": "14",
+          "num": "2",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "BARNEAUD Laura",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "DAUPHINS MATHEYSINS",
+              "temps_engage": "00:13.90"
+            },
+            {
+              "couloir": 2,
+              "nom": "PERNET Cléo",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "GRENOBLE ALP'38",
+              "temps_engage": "00:13.82"
+            },
+            {
+              "couloir": 3,
+              "nom": "GAVEN PUIGSEGUR C.",
+              "annee": 2005,
+              "nation": "FRA",
+              "club": "FFSU UGA",
+              "temps_engage": "00:13.74"
+            },
+            {
+              "couloir": 4,
+              "nom": "ENARD Clemence",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "AC HYÈRES",
+              "temps_engage": "00:13.81"
+            },
+            {
+              "couloir": 5,
+              "nom": "GUILLON Mathilde",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "US ST-EGRÈVE",
+              "temps_engage": "00:13.89"
+            },
+            {
+              "couloir": 6,
+              "nom": "LEMAL Alice",
+              "annee": 2005,
+              "nation": "BEL",
+              "club": "FFSU UGA",
+              "temps_engage": "00:13.91"
+            }
+          ]
+        },
+        {
+          "tour": "Finale C",
+          "heure": "16h34",
+          "typ_id": "13",
+          "num": "3",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "DEBAECKER Manon",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "AC HYÈRES",
+              "temps_engage": "00:13.59"
+            },
+            {
+              "couloir": 2,
+              "nom": "MATHIEU Anais",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "AC HYÈRES",
+              "temps_engage": "00:13.51"
+            },
+            {
+              "couloir": 3,
+              "nom": "ROUSSET Elise",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "PAYS D'AIX NATATION",
+              "temps_engage": "00:13.41"
+            },
+            {
+              "couloir": 4,
+              "nom": "CANTREL Coco",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "AC HYÈRES",
+              "temps_engage": "00:13.46"
+            },
+            {
+              "couloir": 5,
+              "nom": "PAILLISSE Lili",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "AC HYÈRES",
+              "temps_engage": "00:13.55"
+            },
+            {
+              "couloir": 6,
+              "nom": "LEVESQUE Julianne",
+              "annee": 2004,
+              "nation": "CAN",
+              "club": "GRENOBLE ALP'38",
+              "temps_engage": "00:13.64"
+            }
+          ]
+        },
+        {
+          "tour": "Finale B",
+          "heure": "16h35",
+          "typ_id": "12",
+          "num": "4",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "BURLE Louison",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "PAYS D'AIX NATATION",
+              "temps_engage": "00:13.23"
+            },
+            {
+              "couloir": 2,
+              "nom": "GUITON Lou-Anne",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "OLYMPIC NICE NATATION",
+              "temps_engage": "00:12.88"
+            },
+            {
+              "couloir": 3,
+              "nom": "PEYROL Amandine",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "GRENOBLE ALP'38",
+              "temps_engage": "00:12.78"
+            },
+            {
+              "couloir": 4,
+              "nom": "ANCELET Garance",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "GRENOBLE ALP'38",
+              "temps_engage": "00:12.79"
+            },
+            {
+              "couloir": 5,
+              "nom": "LACARRERE Louane",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "AC HYÈRES",
+              "temps_engage": "00:13.21"
+            },
+            {
+              "couloir": 6,
+              "nom": "NECHNICHE Batoul",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "PAYS D'AIX NATATION",
+              "temps_engage": "00:13.35"
+            }
+          ]
+        },
+        {
+          "tour": "Finale A",
+          "heure": "16h37",
+          "typ_id": "11",
+          "num": "5",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "GARCIN Liléa",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "PAYS D'AIX NATATION",
+              "temps_engage": "00:12.58"
+            },
+            {
+              "couloir": 2,
+              "nom": "REGNIER Julia",
+              "annee": 1992,
+              "nation": "FRA",
+              "club": "MAREMNE ADOUR COTE-SUD NAT",
+              "temps_engage": "00:12.14"
+            },
+            {
+              "couloir": 3,
+              "nom": "RESSENCOURT Lilou",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "MONTPELLIER METROPOLE NATATION",
+              "temps_engage": "00:11.83"
+            },
+            {
+              "couloir": 4,
+              "nom": "URBANIAK Anastasia",
+              "annee": 2000,
+              "nation": "FRA",
+              "club": "SC THIONVILLE",
+              "temps_engage": "00:12.11"
+            },
+            {
+              "couloir": 5,
+              "nom": "DAUBANES RAMUS Anna",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "SC THIONVILLE",
+              "temps_engage": "00:12.35"
+            },
+            {
+              "couloir": 6,
+              "nom": "AZZOUZ Yasmin",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "PAYS D'AIX NATATION",
+              "temps_engage": "00:12.64"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "150",
+      "distance": 25,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "25 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "16h06",
+          "typ_id": "60",
+          "num": "1",
+          "lineup": null
+        },
+        {
+          "tour": "Finale D",
+          "heure": "16h39",
+          "typ_id": "14",
+          "num": "6",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "LEYMARIE Raphael",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "AC HYÈRES",
+              "temps_engage": "00:11.52"
+            },
+            {
+              "couloir": 2,
+              "nom": "PELLOUCHOUD Endy",
+              "annee": 2008,
+              "nation": "SUI",
+              "club": "CN SION",
+              "temps_engage": "00:11.22"
+            },
+            {
+              "couloir": 3,
+              "nom": "DENISOT Gabin",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "PAYS D'AIX NATATION",
+              "temps_engage": "00:11.00"
+            },
+            {
+              "couloir": 4,
+              "nom": "ANDRE Jules",
+              "annee": 2004,
+              "nation": "FRA",
+              "club": "CN MARSEILLE",
+              "temps_engage": "00:11.03"
+            },
+            {
+              "couloir": 5,
+              "nom": "FRIDRIHSONS R.",
+              "annee": 2010,
+              "nation": "LAT",
+              "club": "CN SION",
+              "temps_engage": "00:11.26"
+            },
+            {
+              "couloir": 6,
+              "nom": "REZAFIMAHARO A.",
+              "annee": 2005,
+              "nation": "FRA",
+              "club": "FFSU UGA",
+              "temps_engage": "00:11.52"
+            }
+          ]
+        },
+        {
+          "tour": "Finale C",
+          "heure": "16h41",
+          "typ_id": "13",
+          "num": "7",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "AMROUCH-CHANTEPIE I.",
+              "annee": 2004,
+              "nation": "FRA",
+              "club": "GRENOBLE ALP'38",
+              "temps_engage": "00:10.89"
+            },
+            {
+              "couloir": 2,
+              "nom": "POTHAIN Jordan",
+              "annee": 1994,
+              "nation": "FRA",
+              "club": "GRENOBLE ALP'38",
+              "temps_engage": "00:10.73"
+            },
+            {
+              "couloir": 3,
+              "nom": "GALLE-MICHON Evan",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "OLYMPIC NICE NATATION",
+              "temps_engage": "00:10.71"
+            },
+            {
+              "couloir": 4,
+              "nom": "ROMEO Clement",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "OLYMPIC NICE NATATION",
+              "temps_engage": "00:10.71"
+            },
+            {
+              "couloir": 5,
+              "nom": "MARGIRIER Adam",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "SC THIONVILLE",
+              "temps_engage": "00:10.82"
+            },
+            {
+              "couloir": 6,
+              "nom": "MANDE Tanaël",
+              "annee": 2005,
+              "nation": "FRA",
+              "club": "AS FONTAINE NATATION",
+              "temps_engage": "00:10.99"
+            }
+          ]
+        },
+        {
+          "tour": "Finale B",
+          "heure": "16h42",
+          "typ_id": "12",
+          "num": "8",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "THOUVENIN Samuel",
+              "annee": 2005,
+              "nation": "FRA",
+              "club": "GIRONDINS BORDEAUX",
+              "temps_engage": "00:10.63"
+            },
+            {
+              "couloir": 2,
+              "nom": "DESCAMPS Aurelien",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "CN MARSEILLE",
+              "temps_engage": "00:10.50"
+            },
+            {
+              "couloir": 3,
+              "nom": "CERDA Chrissander",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "CN MARSEILLE",
+              "temps_engage": "00:10.46"
+            },
+            {
+              "couloir": 4,
+              "nom": "TOMAC Mewen",
+              "annee": 2001,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:10.48"
+            },
+            {
+              "couloir": 5,
+              "nom": "FADDA SAUVAGEOT R.C.",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "OLYMPIC NICE NATATION",
+              "temps_engage": "00:10.53"
+            },
+            {
+              "couloir": 6,
+              "nom": "FOLTRAN Lorenzo",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "SC THIONVILLE",
+              "temps_engage": "00:10.67"
+            }
+          ]
+        },
+        {
+          "tour": "Finale A",
+          "heure": "16h44",
+          "typ_id": "11",
+          "num": "9",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "CHOUCHAOUI Mathys",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "OLYMPIC NICE NATATION",
+              "temps_engage": "00:10.42"
+            },
+            {
+              "couloir": 2,
+              "nom": "EXPOSITO Angel",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "SC THIONVILLE",
+              "temps_engage": "00:10.30"
+            },
+            {
+              "couloir": 3,
+              "nom": "SECCHI Clement",
+              "annee": 2000,
+              "nation": "FRA",
+              "club": "CN MARSEILLE",
+              "temps_engage": "00:10.02"
+            },
+            {
+              "couloir": 4,
+              "nom": "MERVANT-DUFY Paul",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "CN MARSEILLE",
+              "temps_engage": "00:10.27"
+            },
+            {
+              "couloir": 5,
+              "nom": "ROBBA Matteo",
+              "annee": 2004,
+              "nation": "FRA",
+              "club": "OLYMPIC NICE NATATION",
+              "temps_engage": "00:10.30"
+            },
+            {
+              "couloir": 6,
+              "nom": "DUBREUIL Noe",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "GIRONDINS BORDEAUX",
+              "temps_engage": "00:10.42"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "5",
+      "distance": 800,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "800 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "16h56",
+          "typ_id": "60",
+          "num": "10",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "55",
+      "distance": 800,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "800 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "17h17",
+          "typ_id": "60",
+          "num": "11",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "40",
+      "distance": 100,
+      "nage": "4 Nages",
+      "sexe": "F",
+      "label": "100 4 Nages Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "17h55",
+          "typ_id": "60",
+          "num": "12",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "90",
+      "distance": 100,
+      "nage": "4 Nages",
+      "sexe": "M",
+      "label": "100 4 Nages Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "18h06",
+          "typ_id": "60",
+          "num": "13",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "42",
+      "distance": 400,
+      "nage": "4 Nages",
+      "sexe": "F",
+      "label": "400 4 Nages Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "18h18",
+          "typ_id": "60",
+          "num": "14",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "92",
+      "distance": 400,
+      "nage": "4 Nages",
+      "sexe": "M",
+      "label": "400 4 Nages Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "18h25",
+          "typ_id": "60",
+          "num": "15",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "33",
+      "distance": 200,
+      "nage": "Papillon",
+      "sexe": "F",
+      "label": "200 Papillon Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h00",
+          "typ_id": "60",
+          "num": "17",
+          "lineup": null
+        },
+        {
+          "tour": "Finale A",
+          "heure": "16h00",
+          "typ_id": "11",
+          "num": "31",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "LURTHY Lenaïs",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "US ST-EGRÈVE",
+              "temps_engage": "02:52.15"
+            },
+            {
+              "couloir": 2,
+              "nom": "PAILLISSE Lili",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "AC HYÈRES",
+              "temps_engage": "02:36.78"
+            },
+            {
+              "couloir": 3,
+              "nom": "LARGE Maelle",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "SC THIONVILLE",
+              "temps_engage": "02:28.94"
+            },
+            {
+              "couloir": 4,
+              "nom": "GRANDOUILLER Leane",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "DAUPHINS ROMANAIS PÉAGEOIS",
+              "temps_engage": "02:34.89"
+            },
+            {
+              "couloir": 5,
+              "nom": "DURANDT Sharli",
+              "annee": 2011,
+              "nation": "BUL",
+              "club": "MARTIGUES NATATION",
+              "temps_engage": "02:42.66"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "83",
+      "distance": 200,
+      "nage": "Papillon",
+      "sexe": "M",
+      "label": "200 Papillon Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h03",
+          "typ_id": "60",
+          "num": "18",
+          "lineup": null
+        },
+        {
+          "tour": "Finale B",
+          "heure": "16h04",
+          "typ_id": "12",
+          "num": "32",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "SCHNEUWLY Victor",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "C NAUTIQUE DU GRÉSIVAUDAN",
+              "temps_engage": "02:23.21"
+            },
+            {
+              "couloir": 2,
+              "nom": "LEYMARIE Raphael",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "AC HYÈRES",
+              "temps_engage": "02:18.63"
+            },
+            {
+              "couloir": 3,
+              "nom": "FRONTEAU Matis",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "NAUTIC CLUB NÎMES",
+              "temps_engage": "02:14.85"
+            },
+            {
+              "couloir": 4,
+              "nom": "ANDREE Mathéo",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "AVENIR MURET NATATION",
+              "temps_engage": "02:16.71"
+            },
+            {
+              "couloir": 5,
+              "nom": "TCHELNOKOV Eric",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "GRENOBLE ALP'38",
+              "temps_engage": "02:23.04"
+            },
+            {
+              "couloir": 6,
+              "nom": "BRUYAT Lohan",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "DAUPHINS ROMANAIS PÉAGEOIS",
+              "temps_engage": "02:31.20"
+            }
+          ]
+        },
+        {
+          "tour": "Finale A",
+          "heure": "16h08",
+          "typ_id": "11",
+          "num": "33",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "JAUDOUIN DE PALMA T.",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "GRENOBLE ALP'38",
+              "temps_engage": "02:11.45"
+            },
+            {
+              "couloir": 2,
+              "nom": "ROUAN Quentin",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "GRENOBLE ALP'38",
+              "temps_engage": "02:09.22"
+            },
+            {
+              "couloir": 3,
+              "nom": "G R.C.M.",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "NAUTIC CLUB NÎMES",
+              "temps_engage": "02:03.31"
+            },
+            {
+              "couloir": 4,
+              "nom": "KRACHE Othman",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "SAINT-ETIENNE AQUATIC METROPOLE",
+              "temps_engage": "02:07.31"
+            },
+            {
+              "couloir": 5,
+              "nom": "HAMZA Elias",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "GRENOBLE ALP'38",
+              "temps_engage": "02:10.86"
+            },
+            {
+              "couloir": 6,
+              "nom": "MZOUGHI M.Y.",
+              "annee": 2009,
+              "nation": "TUN",
+              "club": "MARTIGUES NATATION",
+              "temps_engage": "02:13.56"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "21",
+      "distance": 50,
+      "nage": "Brasse",
+      "sexe": "F",
+      "label": "50 Brasse Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h13",
+          "typ_id": "60",
+          "num": "19",
+          "lineup": null
+        },
+        {
+          "tour": "Finale C",
+          "heure": "16h12",
+          "typ_id": "13",
+          "num": "34",
+          "lineup": [
+            {
+              "couloir": 2,
+              "nom": "MULLIEZ Anae",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "GRENOBLE ALP'38",
+              "temps_engage": "00:42.09"
+            },
+            {
+              "couloir": 3,
+              "nom": "POGGI Christèle",
+              "annee": 1970,
+              "nation": "FRA",
+              "club": "AS FONTAINE NATATION",
+              "temps_engage": "00:40.96"
+            },
+            {
+              "couloir": 4,
+              "nom": "VIDAL Heloise",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "GRENOBLE ALP'38",
+              "temps_engage": "00:41.22"
+            }
+          ]
+        },
+        {
+          "tour": "Finale B",
+          "heure": "16h14",
+          "typ_id": "12",
+          "num": "35",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "ASTIER Clea",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "CS BOURGOIN-JALLIEU NATATION",
+              "temps_engage": "00:39.59"
+            },
+            {
+              "couloir": 2,
+              "nom": "DJOUADI Morjane",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "GRENOBLE ALP'38",
+              "temps_engage": "00:38.71"
+            },
+            {
+              "couloir": 3,
+              "nom": "VIGNAL Elizabeth",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "C NAUTIQUE DU GRÉSIVAUDAN",
+              "temps_engage": "00:36.00"
+            },
+            {
+              "couloir": 4,
+              "nom": "BRUYAT Maelys",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "DAUPHINS ROMANAIS PÉAGEOIS",
+              "temps_engage": "00:36.11"
+            },
+            {
+              "couloir": 5,
+              "nom": "ROUSSET Elise",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "PAYS D'AIX NATATION",
+              "temps_engage": "00:38.99"
+            },
+            {
+              "couloir": 6,
+              "nom": "RAMI Aya",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "GRENOBLE ALP'38",
+              "temps_engage": "00:39.62"
+            }
+          ]
+        },
+        {
+          "tour": "Finale A",
+          "heure": "16h16",
+          "typ_id": "11",
+          "num": "36",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "SITTARAME Alizé",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "GRENOBLE ALP'38",
+              "temps_engage": "00:35.35"
+            },
+            {
+              "couloir": 2,
+              "nom": "LACARRERE Louane",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "AC HYÈRES",
+              "temps_engage": "00:34.62"
+            },
+            {
+              "couloir": 3,
+              "nom": "DAUBANES RAMUS Anna",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "SC THIONVILLE",
+              "temps_engage": "00:32.37"
+            },
+            {
+              "couloir": 4,
+              "nom": "PEYROL Amandine",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "GRENOBLE ALP'38",
+              "temps_engage": "00:33.13"
+            },
+            {
+              "couloir": 5,
+              "nom": "SANLAVILLE Lou",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "C NAUTIQUE DU GRÉSIVAUDAN",
+              "temps_engage": "00:35.13"
+            },
+            {
+              "couloir": 6,
+              "nom": "BERNARD Marion",
+              "annee": 2004,
+              "nation": "FRA",
+              "club": "CLUB DE NATATION DE SASSENAGE",
+              "temps_engage": "00:35.55"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "71",
+      "distance": 50,
+      "nage": "Brasse",
+      "sexe": "M",
+      "label": "50 Brasse Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h17",
+          "typ_id": "60",
+          "num": "20",
+          "lineup": null
+        },
+        {
+          "tour": "Finale C",
+          "heure": "16h19",
+          "typ_id": "13",
+          "num": "37",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "DA MOTA Julien",
+              "annee": 1995,
+              "nation": "FRA",
+              "club": "GRENOBLE ALP'38",
+              "temps_engage": "00:32.49"
+            },
+            {
+              "couloir": 2,
+              "nom": "DI GIONE Sandro",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "GRENOBLE ALP'38",
+              "temps_engage": "00:32.31"
+            },
+            {
+              "couloir": 3,
+              "nom": "BECQUET Arthur",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "C NAUTIQUE DU GRÉSIVAUDAN",
+              "temps_engage": "00:32.09"
+            },
+            {
+              "couloir": 4,
+              "nom": "MAROTTA Igor",
+              "annee": 2007,
+              "nation": "SUI",
+              "club": "CN SION",
+              "temps_engage": "00:32.23"
+            },
+            {
+              "couloir": 5,
+              "nom": "BOURDIN Tristan",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "PONT DE CLAIX N GUC WP",
+              "temps_engage": "00:32.41"
+            },
+            {
+              "couloir": 6,
+              "nom": "ESTURILLO Julien",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "US ST-EGRÈVE",
+              "temps_engage": "00:33.00"
+            }
+          ]
+        },
+        {
+          "tour": "Finale B",
+          "heure": "16h21",
+          "typ_id": "12",
+          "num": "38",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "CONTREL Matias",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "C NAUTIQUE DU GRÉSIVAUDAN",
+              "temps_engage": "00:31.78"
+            },
+            {
+              "couloir": 2,
+              "nom": "ANJOLRAS Alexandre",
+              "annee": 2002,
+              "nation": "FRA",
+              "club": "PAYS D'AIX NATATION",
+              "temps_engage": "00:30.89"
+            },
+            {
+              "couloir": 3,
+              "nom": "PELLOUCHOUD Endy",
+              "annee": 2008,
+              "nation": "SUI",
+              "club": "CN SION",
+              "temps_engage": "00:29.52"
+            },
+            {
+              "couloir": 4,
+              "nom": "MOUNIR Jonas",
+              "annee": 2007,
+              "nation": "SUI",
+              "club": "CN SION",
+              "temps_engage": "00:30.55"
+            },
+            {
+              "couloir": 5,
+              "nom": "FOLTRAN Anthony",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "GRENOBLE ALP'38",
+              "temps_engage": "00:31.31"
+            },
+            {
+              "couloir": 6,
+              "nom": "ADOBATI Alexandre",
+              "annee": 1990,
+              "nation": "FRA",
+              "club": "MAREMNE ADOUR COTE-SUD NAT",
+              "temps_engage": "00:31.79"
+            }
+          ]
+        },
+        {
+          "tour": "Finale A",
+          "heure": "16h23",
+          "typ_id": "11",
+          "num": "39",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "ALLAM Oussama",
+              "annee": 2004,
+              "nation": "ALG",
+              "club": "SC THIONVILLE",
+              "temps_engage": "00:28.90"
+            },
+            {
+              "couloir": 2,
+              "nom": "AMROUCH-CHANTEPIE I.",
+              "annee": 2004,
+              "nation": "FRA",
+              "club": "GRENOBLE ALP'38",
+              "temps_engage": "00:28.67"
+            },
+            {
+              "couloir": 3,
+              "nom": "GOUDENECHE Pierre",
+              "annee": 1998,
+              "nation": "FRA",
+              "club": "GIRONDINS BORDEAUX",
+              "temps_engage": "00:28.00"
+            },
+            {
+              "couloir": 4,
+              "nom": "MARGIRIER Adam",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "SC THIONVILLE",
+              "temps_engage": "00:28.48"
+            },
+            {
+              "couloir": 5,
+              "nom": "TOMAC Mewen",
+              "annee": 2001,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:28.89"
+            },
+            {
+              "couloir": 6,
+              "nom": "CERDA Chrissander",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "CN MARSEILLE",
+              "temps_engage": "00:29.07"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "2",
+      "distance": 100,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "100 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h25",
+          "typ_id": "60",
+          "num": "21",
+          "lineup": null
+        },
+        {
+          "tour": "Finale C",
+          "heure": "16h25",
+          "typ_id": "13",
+          "num": "40",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "GRANDOUILLER Leane",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "DAUPHINS ROMANAIS PÉAGEOIS",
+              "temps_engage": "01:03.43"
+            },
+            {
+              "couloir": 2,
+              "nom": "DEBAECKER Manon",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "AC HYÈRES",
+              "temps_engage": "01:02.78"
+            },
+            {
+              "couloir": 3,
+              "nom": "PAYET Lily",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "MARTIGUES NATATION",
+              "temps_engage": "01:02.33"
+            },
+            {
+              "couloir": 4,
+              "nom": "FARJOT Lise",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "PONT DE CLAIX N GUC WP",
+              "temps_engage": "01:02.71"
+            },
+            {
+              "couloir": 5,
+              "nom": "SANLAVILLE Lou",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "C NAUTIQUE DU GRÉSIVAUDAN",
+              "temps_engage": "01:02.86"
+            },
+            {
+              "couloir": 6,
+              "nom": "CHETTIH Lina",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "GRENOBLE ALP'38",
+              "temps_engage": "01:03.51"
+            }
+          ]
+        },
+        {
+          "tour": "Finale B",
+          "heure": "16h28",
+          "typ_id": "12",
+          "num": "41",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "GINOT Johanna",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "DAUPHINS ROMANAIS PÉAGEOIS",
+              "temps_engage": "01:02.21"
+            },
+            {
+              "couloir": 2,
+              "nom": "DECRAENE Satheen",
+              "annee": 2009,
+              "nation": "BEL",
+              "club": "MARTIGUES NATATION",
+              "temps_engage": "01:01.87"
+            },
+            {
+              "couloir": 3,
+              "nom": "DECRAENE Sioban",
+              "annee": 2007,
+              "nation": "BEL",
+              "club": "MARTIGUES NATATION",
+              "temps_engage": "01:01.57"
+            },
+            {
+              "couloir": 4,
+              "nom": "CUENIN Anais",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "PAYS D'AIX NATATION",
+              "temps_engage": "01:01.79"
+            },
+            {
+              "couloir": 5,
+              "nom": "ANCELET Garance",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "GRENOBLE ALP'38",
+              "temps_engage": "01:02.00"
+            },
+            {
+              "couloir": 6,
+              "nom": "BRUYAT Maelys",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "DAUPHINS ROMANAIS PÉAGEOIS",
+              "temps_engage": "01:02.27"
+            }
+          ]
+        },
+        {
+          "tour": "Finale A",
+          "heure": "16h30",
+          "typ_id": "11",
+          "num": "42",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "DAUBANES RAMUS Anna",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "SC THIONVILLE",
+              "temps_engage": "01:01.00"
+            },
+            {
+              "couloir": 2,
+              "nom": "GARCIN Liléa",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "PAYS D'AIX NATATION",
+              "temps_engage": "00:59.81"
+            },
+            {
+              "couloir": 3,
+              "nom": "RESSENCOURT Lilou",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "MONTPELLIER METROPOLE NATATION",
+              "temps_engage": "00:56.36"
+            },
+            {
+              "couloir": 4,
+              "nom": "REGNIER Julia",
+              "annee": 1992,
+              "nation": "FRA",
+              "club": "MAREMNE ADOUR COTE-SUD NAT",
+              "temps_engage": "00:57.85"
+            },
+            {
+              "couloir": 5,
+              "nom": "AZZOUZ Yasmin",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "PAYS D'AIX NATATION",
+              "temps_engage": "01:00.06"
+            },
+            {
+              "couloir": 6,
+              "nom": "MURATORE TUPIN M.",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "C NAUTIQUE DU GRÉSIVAUDAN",
+              "temps_engage": "01:01.13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "52",
+      "distance": 100,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "100 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h39",
+          "typ_id": "60",
+          "num": "22",
+          "lineup": null
+        },
+        {
+          "tour": "Finale C",
+          "heure": "16h33",
+          "typ_id": "13",
+          "num": "43",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "BRUNNER Malone",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "MARTIGUES NATATION",
+              "temps_engage": "00:54.68"
+            },
+            {
+              "couloir": 2,
+              "nom": "AMROUCH-CHANTEPIE I.",
+              "annee": 2004,
+              "nation": "FRA",
+              "club": "GRENOBLE ALP'38",
+              "temps_engage": "00:54.34"
+            },
+            {
+              "couloir": 3,
+              "nom": "RAIMUNDO Rafaël",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "AS FONTAINE NATATION",
+              "temps_engage": "00:52.65"
+            },
+            {
+              "couloir": 4,
+              "nom": "MANDE Tanaël",
+              "annee": 2005,
+              "nation": "FRA",
+              "club": "AS FONTAINE NATATION",
+              "temps_engage": "00:53.23"
+            },
+            {
+              "couloir": 5,
+              "nom": "FRONTEAU Matis",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "NAUTIC CLUB NÎMES",
+              "temps_engage": "00:54.39"
+            },
+            {
+              "couloir": 6,
+              "nom": "PARAT Titouan",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "CN CÉVENNES ALÈS",
+              "temps_engage": "00:54.82"
+            }
+          ]
+        },
+        {
+          "tour": "Finale B",
+          "heure": "16h35",
+          "typ_id": "12",
+          "num": "44",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "FOLTRAN Lorenzo",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "SC THIONVILLE",
+              "temps_engage": "00:51.68"
+            },
+            {
+              "couloir": 2,
+              "nom": "DUBREUIL Noe",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "GIRONDINS BORDEAUX",
+              "temps_engage": "00:50.81"
+            },
+            {
+              "couloir": 3,
+              "nom": "GALLE-MICHON Evan",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "OLYMPIC NICE NATATION",
+              "temps_engage": "00:50.45"
+            },
+            {
+              "couloir": 4,
+              "nom": "ROMEO Clement",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "OLYMPIC NICE NATATION",
+              "temps_engage": "00:50.70"
+            },
+            {
+              "couloir": 5,
+              "nom": "GRIVET Vincent",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "CLUB DE NATATION DE SASSENAGE",
+              "temps_engage": "00:51.37"
+            },
+            {
+              "couloir": 6,
+              "nom": "G R.C.M.",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "NAUTIC CLUB NÎMES",
+              "temps_engage": "00:52.61"
+            }
+          ]
+        },
+        {
+          "tour": "Finale A",
+          "heure": "16h38",
+          "typ_id": "11",
+          "num": "45",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "POTHAIN Jordan",
+              "annee": 1994,
+              "nation": "FRA",
+              "club": "GRENOBLE ALP'38",
+              "temps_engage": "00:50.08"
+            },
+            {
+              "couloir": 2,
+              "nom": "MERVANT-DUFY Paul",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "CN MARSEILLE",
+              "temps_engage": "00:49.97"
+            },
+            {
+              "couloir": 3,
+              "nom": "SECCHI Clement",
+              "annee": 2000,
+              "nation": "FRA",
+              "club": "CN MARSEILLE",
+              "temps_engage": "00:49.05"
+            },
+            {
+              "couloir": 4,
+              "nom": "ROBBA Matteo",
+              "annee": 2004,
+              "nation": "FRA",
+              "club": "OLYMPIC NICE NATATION",
+              "temps_engage": "00:49.22"
+            },
+            {
+              "couloir": 5,
+              "nom": "DESCAMPS Aurelien",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "CN MARSEILLE",
+              "temps_engage": "00:50.03"
+            },
+            {
+              "couloir": 6,
+              "nom": "EXPOSITO Angel",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "SC THIONVILLE",
+              "temps_engage": "00:50.37"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "12",
+      "distance": 100,
+      "nage": "Dos",
+      "sexe": "F",
+      "label": "100 Dos Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h03",
+          "typ_id": "60",
+          "num": "23",
+          "lineup": null
+        },
+        {
+          "tour": "Finale B",
+          "heure": "17h12",
+          "typ_id": "12",
+          "num": "48",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "GUILLOT Lili",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "DAUPHINS MATHEYSINS",
+              "temps_engage": "01:18.10"
+            },
+            {
+              "couloir": 2,
+              "nom": "BENEDETTI Camille",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "GRENOBLE ALP'38",
+              "temps_engage": "01:13.00"
+            },
+            {
+              "couloir": 3,
+              "nom": "MOREL �.L.Z.",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "DAUPHINS ROMANAIS PÉAGEOIS",
+              "temps_engage": "01:12.57"
+            },
+            {
+              "couloir": 4,
+              "nom": "FARJOT Lise",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "PONT DE CLAIX N GUC WP",
+              "temps_engage": "01:12.70"
+            },
+            {
+              "couloir": 5,
+              "nom": "PRA Lindsey",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "US ST-EGRÈVE",
+              "temps_engage": "01:13.85"
+            },
+            {
+              "couloir": 6,
+              "nom": "CONTREL Julie",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "C NAUTIQUE DU GRÉSIVAUDAN",
+              "temps_engage": "01:19.76"
+            }
+          ]
+        },
+        {
+          "tour": "Finale A",
+          "heure": "17h15",
+          "typ_id": "11",
+          "num": "49",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "DAMON Louise",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "C NAUTIQUE DU GRÉSIVAUDAN",
+              "temps_engage": "01:11.57"
+            },
+            {
+              "couloir": 2,
+              "nom": "ANCELET Garance",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "GRENOBLE ALP'38",
+              "temps_engage": "01:08.44"
+            },
+            {
+              "couloir": 3,
+              "nom": "GUITON Lou-Anne",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "OLYMPIC NICE NATATION",
+              "temps_engage": "01:03.36"
+            },
+            {
+              "couloir": 4,
+              "nom": "PAYET Lily",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "MARTIGUES NATATION",
+              "temps_engage": "01:07.03"
+            },
+            {
+              "couloir": 5,
+              "nom": "MATHIEU Anais",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "AC HYÈRES",
+              "temps_engage": "01:09.41"
+            },
+            {
+              "couloir": 6,
+              "nom": "ENARD Clemence",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "AC HYÈRES",
+              "temps_engage": "01:11.66"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "62",
+      "distance": 100,
+      "nage": "Dos",
+      "sexe": "M",
+      "label": "100 Dos Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h09",
+          "typ_id": "60",
+          "num": "24",
+          "lineup": null
+        },
+        {
+          "tour": "Finale C",
+          "heure": "17h18",
+          "typ_id": "13",
+          "num": "50",
+          "lineup": [
+            {
+              "couloir": 2,
+              "nom": "FERAIN Ivann",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "CLUB DE NATATION DE SASSENAGE",
+              "temps_engage": "01:07.65"
+            },
+            {
+              "couloir": 3,
+              "nom": "GAY Noa",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "AS FONTAINE NATATION",
+              "temps_engage": "01:05.71"
+            },
+            {
+              "couloir": 4,
+              "nom": "BECQUET Arthur",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "C NAUTIQUE DU GRÉSIVAUDAN",
+              "temps_engage": "01:07.25"
+            },
+            {
+              "couloir": 5,
+              "nom": "DE FARIA THEOKARIS Y.",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "GRENOBLE ALP'38",
+              "temps_engage": "01:08.60"
+            },
+            {
+              "couloir": 6,
+              "nom": "COISSON Anthony",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "PONT DE CLAIX N GUC WP",
+              "temps_engage": "01:10.70"
+            }
+          ]
+        },
+        {
+          "tour": "Finale B",
+          "heure": "17h21",
+          "typ_id": "12",
+          "num": "51",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "GEFFROY Nathanael",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "PAYS D'AIX NATATION",
+              "temps_engage": "01:01.81"
+            },
+            {
+              "couloir": 2,
+              "nom": "G R.C.M.",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "NAUTIC CLUB NÎMES",
+              "temps_engage": "00:58.47"
+            },
+            {
+              "couloir": 3,
+              "nom": "FRIDRIHSONS R.",
+              "annee": 2010,
+              "nation": "LAT",
+              "club": "CN SION",
+              "temps_engage": "00:57.20"
+            },
+            {
+              "couloir": 4,
+              "nom": "EGUISIER Imanol",
+              "annee": 2004,
+              "nation": "FRA",
+              "club": "AS FONTAINE NATATION",
+              "temps_engage": "00:57.94"
+            },
+            {
+              "couloir": 5,
+              "nom": "FERRARO Leon",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "AC HYÈRES",
+              "temps_engage": "00:59.93"
+            },
+            {
+              "couloir": 6,
+              "nom": "ASTIER Nathan",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "PONT DE CLAIX N GUC WP",
+              "temps_engage": "01:02.57"
+            }
+          ]
+        },
+        {
+          "tour": "Finale A",
+          "heure": "17h23",
+          "typ_id": "11",
+          "num": "52",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "FADDA SAUVAGEOT R.C.",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "OLYMPIC NICE NATATION",
+              "temps_engage": "00:55.05"
+            },
+            {
+              "couloir": 2,
+              "nom": "CHOUCHAOUI Mathys",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "OLYMPIC NICE NATATION",
+              "temps_engage": "00:54.84"
+            },
+            {
+              "couloir": 3,
+              "nom": "ANDRE Jules",
+              "annee": 2004,
+              "nation": "FRA",
+              "club": "CN MARSEILLE",
+              "temps_engage": "00:53.91"
+            },
+            {
+              "couloir": 4,
+              "nom": "TOMAC Mewen",
+              "annee": 2001,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:53.98"
+            },
+            {
+              "couloir": 5,
+              "nom": "THOUVENIN Samuel",
+              "annee": 2005,
+              "nation": "FRA",
+              "club": "GIRONDINS BORDEAUX",
+              "temps_engage": "00:55.04"
+            },
+            {
+              "couloir": 6,
+              "nom": "BEN ABBES M.Y.",
+              "annee": 2005,
+              "nation": "TUN",
+              "club": "TUNISIE",
+              "temps_engage": "00:56.39"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "23",
+      "distance": 200,
+      "nage": "Brasse",
+      "sexe": "F",
+      "label": "200 Brasse Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h17",
+          "typ_id": "60",
+          "num": "25",
+          "lineup": null
+        },
+        {
+          "tour": "Finale A",
+          "heure": "17h26",
+          "typ_id": "11",
+          "num": "53",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "VIGNAL Elizabeth",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "C NAUTIQUE DU GRÉSIVAUDAN",
+              "temps_engage": "02:52.14"
+            },
+            {
+              "couloir": 2,
+              "nom": "BOUSSARD Elea",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "PAYS D'AIX NATATION",
+              "temps_engage": "02:48.33"
+            },
+            {
+              "couloir": 3,
+              "nom": "LACARRERE Louane",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "AC HYÈRES",
+              "temps_engage": "02:42.13"
+            },
+            {
+              "couloir": 4,
+              "nom": "LARGE Maelle",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "SC THIONVILLE",
+              "temps_engage": "02:47.97"
+            },
+            {
+              "couloir": 5,
+              "nom": "ALBEROLA Candice",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "PAYS D'AIX NATATION",
+              "temps_engage": "02:50.82"
+            },
+            {
+              "couloir": 6,
+              "nom": "DJOUADI Morjane",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "GRENOBLE ALP'38",
+              "temps_engage": "02:57.99"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "73",
+      "distance": 200,
+      "nage": "Brasse",
+      "sexe": "M",
+      "label": "200 Brasse Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h25",
+          "typ_id": "60",
+          "num": "26",
+          "lineup": null
+        },
+        {
+          "tour": "Finale B",
+          "heure": "17h31",
+          "typ_id": "12",
+          "num": "54",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "ALLALI Imran",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "GRENOBLE ALP'38",
+              "temps_engage": "02:38.03"
+            },
+            {
+              "couloir": 2,
+              "nom": "CONTREL Matias",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "C NAUTIQUE DU GRÉSIVAUDAN",
+              "temps_engage": "02:36.43"
+            },
+            {
+              "couloir": 3,
+              "nom": "BRUYAT Lohan",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "DAUPHINS ROMANAIS PÉAGEOIS",
+              "temps_engage": "02:32.62"
+            },
+            {
+              "couloir": 4,
+              "nom": "ANJOLRAS Alexandre",
+              "annee": 2002,
+              "nation": "FRA",
+              "club": "PAYS D'AIX NATATION",
+              "temps_engage": "02:33.10"
+            },
+            {
+              "couloir": 5,
+              "nom": "MAROTTA Igor",
+              "annee": 2007,
+              "nation": "SUI",
+              "club": "CN SION",
+              "temps_engage": "02:36.51"
+            },
+            {
+              "couloir": 6,
+              "nom": "ESTURILLO Julien",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "US ST-EGRÈVE",
+              "temps_engage": "02:41.94"
+            }
+          ]
+        },
+        {
+          "tour": "Finale A",
+          "heure": "17h35",
+          "typ_id": "11",
+          "num": "55",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "LEYMARIE Raphael",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "AC HYÈRES",
+              "temps_engage": "02:27.47"
+            },
+            {
+              "couloir": 2,
+              "nom": "ALLAM Oussama",
+              "annee": 2004,
+              "nation": "ALG",
+              "club": "SC THIONVILLE",
+              "temps_engage": "02:25.31"
+            },
+            {
+              "couloir": 3,
+              "nom": "MARGIRIER Adam",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "SC THIONVILLE",
+              "temps_engage": "02:21.69"
+            },
+            {
+              "couloir": 4,
+              "nom": "FADDA SAUVAGEOT R.C.",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "OLYMPIC NICE NATATION",
+              "temps_engage": "02:22.44"
+            },
+            {
+              "couloir": 5,
+              "nom": "KRACHE Othman",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "SAINT-ETIENNE AQUATIC METROPOLE",
+              "temps_engage": "02:26.68"
+            },
+            {
+              "couloir": 6,
+              "nom": "MOUNIR Jonas",
+              "annee": 2007,
+              "nation": "SUI",
+              "club": "CN SION",
+              "temps_engage": "02:28.57"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "31",
+      "distance": 50,
+      "nage": "Papillon",
+      "sexe": "F",
+      "label": "50 Papillon Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h39",
+          "typ_id": "60",
+          "num": "27",
+          "lineup": null
+        },
+        {
+          "tour": "Finale C",
+          "heure": "17h39",
+          "typ_id": "13",
+          "num": "56",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "MATHIEU Anais",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "AC HYÈRES",
+              "temps_engage": "00:31.74"
+            },
+            {
+              "couloir": 2,
+              "nom": "BATAILLION Margaux",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "CLUB DE NATATION DE SASSENAGE",
+              "temps_engage": "00:31.61"
+            },
+            {
+              "couloir": 3,
+              "nom": "GUILLON Mathilde",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "US ST-EGRÈVE",
+              "temps_engage": "00:31.32"
+            },
+            {
+              "couloir": 4,
+              "nom": "LEVESQUE Julianne",
+              "annee": 2004,
+              "nation": "CAN",
+              "club": "GRENOBLE ALP'38",
+              "temps_engage": "00:31.45"
+            },
+            {
+              "couloir": 5,
+              "nom": "VIGNAL Victoria",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "C NAUTIQUE DU GRÉSIVAUDAN",
+              "temps_engage": "00:31.63"
+            },
+            {
+              "couloir": 6,
+              "nom": "BAHLOUL A.M.",
+              "annee": 2011,
+              "nation": "ALG",
+              "club": "PONT DE CLAIX N GUC WP",
+              "temps_engage": "00:32.01"
+            }
+          ]
+        },
+        {
+          "tour": "Finale B",
+          "heure": "17h41",
+          "typ_id": "12",
+          "num": "57",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "LURTHY Lenaïs",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "US ST-EGRÈVE",
+              "temps_engage": "00:30.87"
+            },
+            {
+              "couloir": 2,
+              "nom": "FARJOT Lise",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "PONT DE CLAIX N GUC WP",
+              "temps_engage": "00:30.83"
+            },
+            {
+              "couloir": 3,
+              "nom": "GUITON Lou-Anne",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "OLYMPIC NICE NATATION",
+              "temps_engage": "00:29.85"
+            },
+            {
+              "couloir": 4,
+              "nom": "CHETTIH Lina",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "GRENOBLE ALP'38",
+              "temps_engage": "00:30.45"
+            },
+            {
+              "couloir": 5,
+              "nom": "ANCELET Garance",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "GRENOBLE ALP'38",
+              "temps_engage": "00:30.86"
+            },
+            {
+              "couloir": 6,
+              "nom": "DEBAECKER Manon",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "AC HYÈRES",
+              "temps_engage": "00:31.29"
+            }
+          ]
+        },
+        {
+          "tour": "Finale A",
+          "heure": "17h43",
+          "typ_id": "11",
+          "num": "58",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "PEYROL Amandine",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "GRENOBLE ALP'38",
+              "temps_engage": "00:29.21"
+            },
+            {
+              "couloir": 2,
+              "nom": "NECHNICHE Batoul",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "PAYS D'AIX NATATION",
+              "temps_engage": "00:29.12"
+            },
+            {
+              "couloir": 3,
+              "nom": "RESSENCOURT Lilou",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "MONTPELLIER METROPOLE NATATION",
+              "temps_engage": "00:27.40"
+            },
+            {
+              "couloir": 4,
+              "nom": "DAUBANES RAMUS Anna",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "SC THIONVILLE",
+              "temps_engage": "00:28.18"
+            },
+            {
+              "couloir": 5,
+              "nom": "REGNIER Julia",
+              "annee": 1992,
+              "nation": "FRA",
+              "club": "MAREMNE ADOUR COTE-SUD NAT",
+              "temps_engage": "00:29.19"
+            },
+            {
+              "couloir": 6,
+              "nom": "BURLE Louison",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "PAYS D'AIX NATATION",
+              "temps_engage": "00:29.60"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "81",
+      "distance": 50,
+      "nage": "Papillon",
+      "sexe": "M",
+      "label": "50 Papillon Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h48",
+          "typ_id": "60",
+          "num": "28",
+          "lineup": null
+        },
+        {
+          "tour": "Finale C",
+          "heure": "17h45",
+          "typ_id": "13",
+          "num": "59",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "ASTIER Nathan",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "PONT DE CLAIX N GUC WP",
+              "temps_engage": "00:27.33"
+            },
+            {
+              "couloir": 3,
+              "nom": "PELLOUCHOUD Endy",
+              "annee": 2008,
+              "nation": "SUI",
+              "club": "CN SION",
+              "temps_engage": "00:26.42"
+            },
+            {
+              "couloir": 4,
+              "nom": "UGOLINI Julien",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "AS FONTAINE NATATION",
+              "temps_engage": "00:26.81"
+            },
+            {
+              "couloir": 5,
+              "nom": "FRIDRIHSONS R.",
+              "annee": 2010,
+              "nation": "LAT",
+              "club": "CN SION",
+              "temps_engage": "00:27.29"
+            },
+            {
+              "couloir": 6,
+              "nom": "FERRARO Leon",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "AC HYÈRES",
+              "temps_engage": "00:27.63"
+            }
+          ]
+        },
+        {
+          "tour": "Finale B",
+          "heure": "17h47",
+          "typ_id": "12",
+          "num": "60",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "MARGIRIER Adam",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "SC THIONVILLE",
+              "temps_engage": "00:25.96"
+            },
+            {
+              "couloir": 2,
+              "nom": "GRIVET Vincent",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "CLUB DE NATATION DE SASSENAGE",
+              "temps_engage": "00:25.62"
+            },
+            {
+              "couloir": 3,
+              "nom": "DUBREUIL Noe",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "GIRONDINS BORDEAUX",
+              "temps_engage": "00:25.43"
+            },
+            {
+              "couloir": 4,
+              "nom": "DENISOT Gabin",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "PAYS D'AIX NATATION",
+              "temps_engage": "00:25.45"
+            },
+            {
+              "couloir": 5,
+              "nom": "FOLTRAN Lorenzo",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "SC THIONVILLE",
+              "temps_engage": "00:25.79"
+            },
+            {
+              "couloir": 6,
+              "nom": "MANDE Tanaël",
+              "annee": 2005,
+              "nation": "FRA",
+              "club": "AS FONTAINE NATATION",
+              "temps_engage": "00:26.15"
+            }
+          ]
+        },
+        {
+          "tour": "Finale A",
+          "heure": "17h49",
+          "typ_id": "11",
+          "num": "61",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "CHOUCHAOUI Mathys",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "OLYMPIC NICE NATATION",
+              "temps_engage": "00:24.93"
+            },
+            {
+              "couloir": 2,
+              "nom": "THOUVENIN Samuel",
+              "annee": 2005,
+              "nation": "FRA",
+              "club": "GIRONDINS BORDEAUX",
+              "temps_engage": "00:24.63"
+            },
+            {
+              "couloir": 3,
+              "nom": "SECCHI Clement",
+              "annee": 2000,
+              "nation": "FRA",
+              "club": "CN MARSEILLE",
+              "temps_engage": "00:23.72"
+            },
+            {
+              "couloir": 4,
+              "nom": "EXPOSITO Angel",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "SC THIONVILLE",
+              "temps_engage": "00:24.05"
+            },
+            {
+              "couloir": 5,
+              "nom": "ROBBA Matteo",
+              "annee": 2004,
+              "nation": "FRA",
+              "club": "OLYMPIC NICE NATATION",
+              "temps_engage": "00:24.80"
+            },
+            {
+              "couloir": 6,
+              "nom": "DESCAMPS Aurelien",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "CN MARSEILLE",
+              "temps_engage": "00:25.06"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "4",
+      "distance": 400,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "400 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Premières séries",
+          "heure": "10h57",
+          "typ_id": "62",
+          "num": "29",
+          "lineup": null
+        },
+        {
+          "tour": "Série finale",
+          "heure": "16h40",
+          "typ_id": "61",
+          "num": "46",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "54",
+      "distance": 400,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "400 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Premières séries",
+          "heure": "11h20",
+          "typ_id": "62",
+          "num": "30",
+          "lineup": null
+        },
+        {
+          "tour": "Série finale",
+          "heure": "16h47",
+          "typ_id": "61",
+          "num": "47",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "41",
+      "distance": 200,
+      "nage": "4 Nages",
+      "sexe": "F",
+      "label": "200 4 Nages Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h30",
+          "typ_id": "60",
+          "num": "63",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "91",
+      "distance": 200,
+      "nage": "4 Nages",
+      "sexe": "M",
+      "label": "200 4 Nages Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h40",
+          "typ_id": "60",
+          "num": "64",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "11",
+      "distance": 50,
+      "nage": "Dos",
+      "sexe": "F",
+      "label": "50 Dos Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h56",
+          "typ_id": "60",
+          "num": "65",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "61",
+      "distance": 50,
+      "nage": "Dos",
+      "sexe": "M",
+      "label": "50 Dos Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h00",
+          "typ_id": "60",
+          "num": "66",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "3",
+      "distance": 200,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "200 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h05",
+          "typ_id": "60",
+          "num": "67",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "53",
+      "distance": 200,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "200 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h12",
+          "typ_id": "60",
+          "num": "68",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "22",
+      "distance": 100,
+      "nage": "Brasse",
+      "sexe": "F",
+      "label": "100 Brasse Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h27",
+          "typ_id": "60",
+          "num": "69",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "72",
+      "distance": 100,
+      "nage": "Brasse",
+      "sexe": "M",
+      "label": "100 Brasse Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h32",
+          "typ_id": "60",
+          "num": "70",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "1",
+      "distance": 50,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "50 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h40",
+          "typ_id": "60",
+          "num": "71",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "51",
+      "distance": 50,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "50 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h47",
+          "typ_id": "60",
+          "num": "72",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "13",
+      "distance": 200,
+      "nage": "Dos",
+      "sexe": "F",
+      "label": "200 Dos Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h55",
+          "typ_id": "60",
+          "num": "73",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "63",
+      "distance": 200,
+      "nage": "Dos",
+      "sexe": "M",
+      "label": "200 Dos Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "11h01",
+          "typ_id": "60",
+          "num": "74",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "32",
+      "distance": 100,
+      "nage": "Papillon",
+      "sexe": "F",
+      "label": "100 Papillon Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "11h11",
+          "typ_id": "60",
+          "num": "75",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "82",
+      "distance": 100,
+      "nage": "Papillon",
+      "sexe": "M",
+      "label": "100 Papillon Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "11h19",
+          "typ_id": "60",
+          "num": "76",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "6",
+      "distance": 1500,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "1500 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "16h00",
+          "typ_id": "60",
+          "num": "77",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "56",
+      "distance": 1500,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "1500 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "16h19",
+          "typ_id": "60",
+          "num": "78",
+          "lineup": null
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-10T21:16:34.741106+00:00"
+}

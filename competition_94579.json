@@ -1,0 +1,330 @@
+{
+  "competition": "94579",
+  "events": [
+    {
+      "epr_id": "3",
+      "distance": 200,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "200 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "14h54",
+          "typ_id": "60",
+          "num": "2",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "53",
+      "distance": 200,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "200 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "15h14",
+          "typ_id": "60",
+          "num": "3",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "12",
+      "distance": 100,
+      "nage": "Dos",
+      "sexe": "F",
+      "label": "100 Dos Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "15h38",
+          "typ_id": "60",
+          "num": "4",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "62",
+      "distance": 100,
+      "nage": "Dos",
+      "sexe": "M",
+      "label": "100 Dos Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "15h43",
+          "typ_id": "60",
+          "num": "5",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "41",
+      "distance": 200,
+      "nage": "4 Nages",
+      "sexe": "F",
+      "label": "200 4 Nages Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "15h50",
+          "typ_id": "60",
+          "num": "6",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "91",
+      "distance": 200,
+      "nage": "4 Nages",
+      "sexe": "M",
+      "label": "200 4 Nages Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "16h11",
+          "typ_id": "60",
+          "num": "7",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "32",
+      "distance": 100,
+      "nage": "Papillon",
+      "sexe": "F",
+      "label": "100 Papillon Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h56",
+          "typ_id": "60",
+          "num": "10",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "82",
+      "distance": 100,
+      "nage": "Papillon",
+      "sexe": "M",
+      "label": "100 Papillon Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h04",
+          "typ_id": "60",
+          "num": "11",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "22",
+      "distance": 100,
+      "nage": "Brasse",
+      "sexe": "F",
+      "label": "100 Brasse Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h15",
+          "typ_id": "60",
+          "num": "12",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "72",
+      "distance": 100,
+      "nage": "Brasse",
+      "sexe": "M",
+      "label": "100 Brasse Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h31",
+          "typ_id": "60",
+          "num": "13",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "2",
+      "distance": 100,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "100 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h44",
+          "typ_id": "60",
+          "num": "14",
+          "lineup": null
+        },
+        {
+          "tour": "Finale A Benjamines",
+          "heure": "16h24",
+          "typ_id": "11",
+          "num": "25",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A Juniors 1-2",
+          "heure": "16h48",
+          "typ_id": "11",
+          "num": "26",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A Juniors 3-4-5 & Séniors",
+          "heure": "16h53",
+          "typ_id": "11",
+          "num": "27",
+          "lineup": []
+        }
+      ]
+    },
+    {
+      "epr_id": "52",
+      "distance": 100,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "100 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "11h03",
+          "typ_id": "60",
+          "num": "15",
+          "lineup": null
+        },
+        {
+          "tour": "Finale A Benjamins",
+          "heure": "17h07",
+          "typ_id": "11",
+          "num": "28",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A Juniors 1-2",
+          "heure": "17h12",
+          "typ_id": "11",
+          "num": "29",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A Juniors 3-4-5 & Séniors",
+          "heure": "17h16",
+          "typ_id": "11",
+          "num": "30",
+          "lineup": []
+        }
+      ]
+    },
+    {
+      "epr_id": "40",
+      "distance": 100,
+      "nage": "4 Nages",
+      "sexe": "F",
+      "label": "100 4 Nages Dames",
+      "phases": [
+        {
+          "tour": "Finale A Benjamines",
+          "heure": "14h30",
+          "typ_id": "11",
+          "num": "16",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A Juniors 1-2",
+          "heure": "14h35",
+          "typ_id": "11",
+          "num": "17",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A Juniors 3-4-5 & Séniors",
+          "heure": "14h39",
+          "typ_id": "11",
+          "num": "18",
+          "lineup": []
+        }
+      ]
+    },
+    {
+      "epr_id": "11",
+      "distance": 50,
+      "nage": "Dos",
+      "sexe": "F",
+      "label": "50 Dos Dames",
+      "phases": [
+        {
+          "tour": "Finale A Benjamines",
+          "heure": "14h55",
+          "typ_id": "11",
+          "num": "19",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A Juniors 1-2",
+          "heure": "15h48",
+          "typ_id": "11",
+          "num": "20",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A Juniors 3-4-5 & Séniors",
+          "heure": "15h51",
+          "typ_id": "11",
+          "num": "21",
+          "lineup": []
+        }
+      ]
+    },
+    {
+      "epr_id": "61",
+      "distance": 50,
+      "nage": "Dos",
+      "sexe": "M",
+      "label": "50 Dos Messieurs",
+      "phases": [
+        {
+          "tour": "Finale A Benjamins",
+          "heure": "16h04",
+          "typ_id": "11",
+          "num": "22",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A Juniors 1-2",
+          "heure": "16h07",
+          "typ_id": "11",
+          "num": "23",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A Juniors 3-4-5 & Séniors",
+          "heure": "16h11",
+          "typ_id": "11",
+          "num": "24",
+          "lineup": []
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-10T21:16:48.638203+00:00"
+}

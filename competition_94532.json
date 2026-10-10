@@ -1,0 +1,1932 @@
+{
+  "competition": "94532",
+  "events": [
+    {
+      "epr_id": "40",
+      "distance": 100,
+      "nage": "4 Nages",
+      "sexe": "F",
+      "label": "100 4 Nages Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h30",
+          "typ_id": "60",
+          "num": "0",
+          "lineup": null
+        },
+        {
+          "tour": "Finale B",
+          "heure": "15h00",
+          "typ_id": "12",
+          "num": "17",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "MONTHEARD Anais",
+              "annee": 2002,
+              "nation": "FRA",
+              "club": "ES FALAISE",
+              "temps_engage": "01:35.80"
+            },
+            {
+              "couloir": 2,
+              "nom": "F.L.E.",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "CN FLERS",
+              "temps_engage": "01:29.77"
+            },
+            {
+              "couloir": 3,
+              "nom": "DUSSAC MOULIE Maya",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:26.96"
+            },
+            {
+              "couloir": 4,
+              "nom": "POPPE Line",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "USO MONDEVILLE NATATION",
+              "temps_engage": "01:22.19"
+            },
+            {
+              "couloir": 5,
+              "nom": "HADJARAB Agnès",
+              "annee": 2011,
+              "nation": "ALG",
+              "club": "EN CAEN",
+              "temps_engage": "01:24.76"
+            },
+            {
+              "couloir": 6,
+              "nom": "RUAULT Camille",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "CN FLERS",
+              "temps_engage": "01:27.24"
+            }
+          ]
+        },
+        {
+          "tour": "Finale A",
+          "heure": "15h03",
+          "typ_id": "11",
+          "num": "18",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "LEMARQUAND Lily",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "C LAÏQUE COLOMBELLES",
+              "temps_engage": "01:18.77"
+            },
+            {
+              "couloir": 2,
+              "nom": "HENAUT Lison",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:17.92"
+            },
+            {
+              "couloir": 3,
+              "nom": "AUFFRAY Melina",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:13.19"
+            },
+            {
+              "couloir": 4,
+              "nom": "HO HIO HEN ANNAN K.",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:10.72"
+            },
+            {
+              "couloir": 5,
+              "nom": "FREMONT Margot",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:12.90"
+            },
+            {
+              "couloir": 6,
+              "nom": "LESUEUR Ania",
+              "annee": 2004,
+              "nation": "FRA",
+              "club": "RACING CLUB DE FRANCE",
+              "temps_engage": "01:14.31"
+            },
+            {
+              "couloir": 7,
+              "nom": "ASSELIN Lorena",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:18.26"
+            },
+            {
+              "couloir": 8,
+              "nom": "GOSSELIN Joyce",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "C.N DEAUVILLE",
+              "temps_engage": "01:21.88"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "90",
+      "distance": 100,
+      "nage": "4 Nages",
+      "sexe": "M",
+      "label": "100 4 Nages Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h37",
+          "typ_id": "60",
+          "num": "1",
+          "lineup": null
+        },
+        {
+          "tour": "Finale B",
+          "heure": "15h06",
+          "typ_id": "12",
+          "num": "19",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "SIMON Jules",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:16.26"
+            },
+            {
+              "couloir": 2,
+              "nom": "HEMERY Hugo",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:08.61"
+            },
+            {
+              "couloir": 3,
+              "nom": "DAUDIN Oscar",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "LISIEUX NORMANDIE NATATION",
+              "temps_engage": "01:07.25"
+            },
+            {
+              "couloir": 4,
+              "nom": "DUMAS Raphaël",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:06.57"
+            },
+            {
+              "couloir": 5,
+              "nom": "MESLIN Lilouan",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:06.91"
+            },
+            {
+              "couloir": 6,
+              "nom": "ROUSSEAU Nael",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "C LAÏQUE COLOMBELLES",
+              "temps_engage": "01:08.49"
+            },
+            {
+              "couloir": 7,
+              "nom": "DAHBI Waël",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "MARSOUINS HÉROUVILLE",
+              "temps_engage": "01:08.95"
+            }
+          ]
+        },
+        {
+          "tour": "Finale A",
+          "heure": "15h09",
+          "typ_id": "11",
+          "num": "20",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "DENOUAL Nathan",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:05.17"
+            },
+            {
+              "couloir": 2,
+              "nom": "MASSE Louis",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:02.71"
+            },
+            {
+              "couloir": 3,
+              "nom": "CHERRIER Charlie",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:02.05"
+            },
+            {
+              "couloir": 4,
+              "nom": "LEMARIÉ Louis",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:00.36"
+            },
+            {
+              "couloir": 5,
+              "nom": "LOMBRICI Hugo",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:02.00"
+            },
+            {
+              "couloir": 6,
+              "nom": "MIOT Lucas",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:02.53"
+            },
+            {
+              "couloir": 7,
+              "nom": "HADJARAB Amayas",
+              "annee": 2006,
+              "nation": "ALG",
+              "club": "EN CAEN",
+              "temps_engage": "01:03.31"
+            },
+            {
+              "couloir": 8,
+              "nom": "SOTO-LAMBERT A.",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:05.72"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "1",
+      "distance": 50,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "50 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h44",
+          "typ_id": "60",
+          "num": "2",
+          "lineup": null
+        },
+        {
+          "tour": "Finale B",
+          "heure": "15h11",
+          "typ_id": "12",
+          "num": "21",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "POPPE Line",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "USO MONDEVILLE NATATION",
+              "temps_engage": "00:33.43"
+            },
+            {
+              "couloir": 3,
+              "nom": "VANDECASTEELE C.",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "C.N DEAUVILLE",
+              "temps_engage": "00:31.65"
+            },
+            {
+              "couloir": 4,
+              "nom": "MOTTE Louise",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "C.N DEAUVILLE",
+              "temps_engage": "00:29.92"
+            },
+            {
+              "couloir": 5,
+              "nom": "TEYSSOT Clementine",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "C LAÏQUE COLOMBELLES",
+              "temps_engage": "00:29.99"
+            },
+            {
+              "couloir": 6,
+              "nom": "DUROY SEJOURNE E.",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:32.00"
+            },
+            {
+              "couloir": 8,
+              "nom": "GOSSELIN Joyce",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "C.N DEAUVILLE",
+              "temps_engage": "00:33.49"
+            }
+          ]
+        },
+        {
+          "tour": "Finale A",
+          "heure": "15h28",
+          "typ_id": "11",
+          "num": "22",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "LECARPENTIER Lalie",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:28.72"
+            },
+            {
+              "couloir": 2,
+              "nom": "GOUIX Louise",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:28.15"
+            },
+            {
+              "couloir": 3,
+              "nom": "POIRIER Salma",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:27.91"
+            },
+            {
+              "couloir": 4,
+              "nom": "JULES-MARTHE Wilina",
+              "annee": 2007,
+              "nation": "CPV",
+              "club": "H.A.C NATATION SEINE METROPOLE",
+              "temps_engage": "00:25.99"
+            },
+            {
+              "couloir": 5,
+              "nom": "DELABARRE Suzie",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "H.A.C NATATION SEINE METROPOLE",
+              "temps_engage": "00:27.74"
+            },
+            {
+              "couloir": 6,
+              "nom": "BERAULT Milane",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:27.95"
+            },
+            {
+              "couloir": 7,
+              "nom": "MAHEU Clara",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:28.51"
+            },
+            {
+              "couloir": 8,
+              "nom": "FREMONT Margot",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:29.01"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "51",
+      "distance": 50,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "50 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h49",
+          "typ_id": "60",
+          "num": "3",
+          "lineup": null
+        },
+        {
+          "tour": "Finale B",
+          "heure": "15h31",
+          "typ_id": "12",
+          "num": "23",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "MESLIN Lilouan",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:26.23"
+            },
+            {
+              "couloir": 3,
+              "nom": "LEMARIÉ Louis",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:25.56"
+            },
+            {
+              "couloir": 4,
+              "nom": "POTIER Kylian",
+              "annee": 2005,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:25.18"
+            },
+            {
+              "couloir": 5,
+              "nom": "FOULATIER-SAL A.B.",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "H.A.C NATATION SEINE METROPOLE",
+              "temps_engage": "00:25.42"
+            },
+            {
+              "couloir": 6,
+              "nom": "SENECAL Louis",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:25.67"
+            },
+            {
+              "couloir": 8,
+              "nom": "BOURGEOIS Antonin",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:26.45"
+            }
+          ]
+        },
+        {
+          "tour": "Finale A",
+          "heure": "15h48",
+          "typ_id": "11",
+          "num": "24",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "CHOQUET Simon",
+              "annee": 2002,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:25.12"
+            },
+            {
+              "couloir": 2,
+              "nom": "MOUTON Corentin",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:24.92"
+            },
+            {
+              "couloir": 3,
+              "nom": "ZYCH-MINKINE Sacha",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:24.46"
+            },
+            {
+              "couloir": 4,
+              "nom": "FLYNN Rex",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:23.31"
+            },
+            {
+              "couloir": 5,
+              "nom": "HENAUT Célian",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:24.44"
+            },
+            {
+              "couloir": 6,
+              "nom": "DAURIOS Aloys",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:24.91"
+            },
+            {
+              "couloir": 7,
+              "nom": "ECHARD Nathan",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:24.96"
+            },
+            {
+              "couloir": 8,
+              "nom": "CHERRIER Charlie",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:25.13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "33",
+      "distance": 200,
+      "nage": "Papillon",
+      "sexe": "F",
+      "label": "200 Papillon Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h57",
+          "typ_id": "60",
+          "num": "4",
+          "lineup": null
+        },
+        {
+          "tour": "Finale A",
+          "heure": "15h50",
+          "typ_id": "11",
+          "num": "25",
+          "lineup": [
+            {
+              "couloir": 4,
+              "nom": "VANDECASTEELE C.",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "C.N DEAUVILLE",
+              "temps_engage": "03:32.12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "83",
+      "distance": 200,
+      "nage": "Papillon",
+      "sexe": "M",
+      "label": "200 Papillon Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h01",
+          "typ_id": "60",
+          "num": "5",
+          "lineup": null
+        },
+        {
+          "tour": "Finale A",
+          "heure": "15h55",
+          "typ_id": "11",
+          "num": "26",
+          "lineup": [
+            {
+              "couloir": 3,
+              "nom": "LEMARIE Joseph",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "02:22.90"
+            },
+            {
+              "couloir": 4,
+              "nom": "DENIS Tom",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "02:16.55"
+            },
+            {
+              "couloir": 5,
+              "nom": "MASSE Louis",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "02:19.68"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "56",
+      "distance": 1500,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "1500 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Série finale",
+          "heure": "10h04",
+          "typ_id": "61",
+          "num": "6",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "12",
+      "distance": 100,
+      "nage": "Dos",
+      "sexe": "F",
+      "label": "100 Dos Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h27",
+          "typ_id": "60",
+          "num": "7",
+          "lineup": null
+        },
+        {
+          "tour": "Finale B",
+          "heure": "16h14",
+          "typ_id": "12",
+          "num": "27",
+          "lineup": [
+            {
+              "couloir": 4,
+              "nom": "F.L.E.",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "CN FLERS",
+              "temps_engage": "01:29.96"
+            },
+            {
+              "couloir": 5,
+              "nom": "MONTHEARD Anais",
+              "annee": 2002,
+              "nation": "FRA",
+              "club": "ES FALAISE",
+              "temps_engage": "01:33.70"
+            }
+          ]
+        },
+        {
+          "tour": "Finale A",
+          "heure": "16h17",
+          "typ_id": "11",
+          "num": "28",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "FERICOT Alice",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "USO MONDEVILLE NATATION",
+              "temps_engage": "01:28.78"
+            },
+            {
+              "couloir": 2,
+              "nom": "TEYSSOT Clementine",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "C LAÏQUE COLOMBELLES",
+              "temps_engage": "01:18.31"
+            },
+            {
+              "couloir": 3,
+              "nom": "MOTTE Louise",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "C.N DEAUVILLE",
+              "temps_engage": "01:15.34"
+            },
+            {
+              "couloir": 4,
+              "nom": "POIRIER Salma",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:08.80"
+            },
+            {
+              "couloir": 5,
+              "nom": "LECARPENTIER Lalie",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:09.28"
+            },
+            {
+              "couloir": 6,
+              "nom": "LEMARQUAND Lily",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "C LAÏQUE COLOMBELLES",
+              "temps_engage": "01:16.84"
+            },
+            {
+              "couloir": 7,
+              "nom": "GOSSELIN Joyce",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "C.N DEAUVILLE",
+              "temps_engage": "01:25.11"
+            },
+            {
+              "couloir": 8,
+              "nom": "DUSSAC MOULIE Maya",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:29.33"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "62",
+      "distance": 100,
+      "nage": "Dos",
+      "sexe": "M",
+      "label": "100 Dos Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h34",
+          "typ_id": "60",
+          "num": "8",
+          "lineup": null
+        },
+        {
+          "tour": "Finale B",
+          "heure": "16h20",
+          "typ_id": "12",
+          "num": "29",
+          "lineup": [
+            {
+              "couloir": 2,
+              "nom": "MARTIN Tom",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "CN FLERS",
+              "temps_engage": "01:17.24"
+            },
+            {
+              "couloir": 3,
+              "nom": "HEMERY Hugo",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:12.73"
+            },
+            {
+              "couloir": 4,
+              "nom": "MICHEL Hugo",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "H.A.C NATATION SEINE METROPOLE",
+              "temps_engage": "01:08.67"
+            },
+            {
+              "couloir": 5,
+              "nom": "LAINE Luc",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "C LAÏQUE COLOMBELLES",
+              "temps_engage": "01:12.46"
+            },
+            {
+              "couloir": 6,
+              "nom": "AIT MOUH Adam",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "USO MONDEVILLE NATATION",
+              "temps_engage": "01:12.74"
+            }
+          ]
+        },
+        {
+          "tour": "Finale A",
+          "heure": "16h23",
+          "typ_id": "11",
+          "num": "30",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "SENECAL Louis",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:06.26"
+            },
+            {
+              "couloir": 2,
+              "nom": "GALLON Anatole",
+              "annee": 2001,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:04.88"
+            },
+            {
+              "couloir": 3,
+              "nom": "LEMARIÉ Louis",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:58.21"
+            },
+            {
+              "couloir": 4,
+              "nom": "HENAUT Célian",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:56.54"
+            },
+            {
+              "couloir": 5,
+              "nom": "MIOT Lucas",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:58.16"
+            },
+            {
+              "couloir": 6,
+              "nom": "DAURIOS Aloys",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:01.67"
+            },
+            {
+              "couloir": 7,
+              "nom": "BOURGEOIS Antonin",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:05.41"
+            },
+            {
+              "couloir": 8,
+              "nom": "MESLIN Lilouan",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:07.66"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "31",
+      "distance": 50,
+      "nage": "Papillon",
+      "sexe": "F",
+      "label": "50 Papillon Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h51",
+          "typ_id": "60",
+          "num": "9",
+          "lineup": null
+        },
+        {
+          "tour": "Finale B",
+          "heure": "16h26",
+          "typ_id": "12",
+          "num": "31",
+          "lineup": [
+            {
+              "couloir": 4,
+              "nom": "F.L.E.",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "CN FLERS",
+              "temps_engage": "00:39.70"
+            }
+          ]
+        },
+        {
+          "tour": "Finale A",
+          "heure": "16h43",
+          "typ_id": "11",
+          "num": "32",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "RUAULT Camille",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "CN FLERS",
+              "temps_engage": "00:35.72"
+            },
+            {
+              "couloir": 2,
+              "nom": "MOTTE Louise",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "C.N DEAUVILLE",
+              "temps_engage": "00:33.77"
+            },
+            {
+              "couloir": 3,
+              "nom": "FREMONT Margot",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:30.01"
+            },
+            {
+              "couloir": 4,
+              "nom": "DELABARRE Suzie",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "H.A.C NATATION SEINE METROPOLE",
+              "temps_engage": "00:29.66"
+            },
+            {
+              "couloir": 5,
+              "nom": "RECHER Julia",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "C LAÏQUE COLOMBELLES",
+              "temps_engage": "00:29.94"
+            },
+            {
+              "couloir": 6,
+              "nom": "MAHEU Clara",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:31.92"
+            },
+            {
+              "couloir": 7,
+              "nom": "POPPE Line",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "USO MONDEVILLE NATATION",
+              "temps_engage": "00:34.15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "81",
+      "distance": 50,
+      "nage": "Papillon",
+      "sexe": "M",
+      "label": "50 Papillon Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h54",
+          "typ_id": "60",
+          "num": "10",
+          "lineup": null
+        },
+        {
+          "tour": "Finale B",
+          "heure": "16h46",
+          "typ_id": "12",
+          "num": "33",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "TOREL Paul",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:29.11"
+            },
+            {
+              "couloir": 3,
+              "nom": "ROUSSEAU Nael",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "C LAÏQUE COLOMBELLES",
+              "temps_engage": "00:28.61"
+            },
+            {
+              "couloir": 4,
+              "nom": "LEMARIE Joseph",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:28.42"
+            },
+            {
+              "couloir": 6,
+              "nom": "MESLIN Lilouan",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:28.71"
+            },
+            {
+              "couloir": 7,
+              "nom": "DENOUAL Nathan",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:29.01"
+            },
+            {
+              "couloir": 8,
+              "nom": "DAHBI Waël",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "MARSOUINS HÉROUVILLE",
+              "temps_engage": "00:29.12"
+            }
+          ]
+        },
+        {
+          "tour": "Finale A",
+          "heure": "17h03",
+          "typ_id": "11",
+          "num": "34",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "POTIER Kylian",
+              "annee": 2005,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:27.74"
+            },
+            {
+              "couloir": 2,
+              "nom": "CASANOVAS Paul",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:27.02"
+            },
+            {
+              "couloir": 3,
+              "nom": "DENIS Tom",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:26.66"
+            },
+            {
+              "couloir": 4,
+              "nom": "LOMBRICI Hugo",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:26.48"
+            },
+            {
+              "couloir": 5,
+              "nom": "MIOT Lucas",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:26.61"
+            },
+            {
+              "couloir": 6,
+              "nom": "GALLON Anatole",
+              "annee": 2001,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:26.88"
+            },
+            {
+              "couloir": 7,
+              "nom": "FOULATIER-SAL A.B.",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "H.A.C NATATION SEINE METROPOLE",
+              "temps_engage": "00:27.72"
+            },
+            {
+              "couloir": 8,
+              "nom": "CHOQUET Simon",
+              "annee": 2002,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "00:28.10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "3",
+      "distance": 200,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "200 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h59",
+          "typ_id": "60",
+          "num": "11",
+          "lineup": null
+        },
+        {
+          "tour": "Finale A",
+          "heure": "17h20",
+          "typ_id": "11",
+          "num": "35",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "LEMARQUAND Lily",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "C LAÏQUE COLOMBELLES",
+              "temps_engage": "02:32.30"
+            },
+            {
+              "couloir": 2,
+              "nom": "DUROY SEJOURNE E.",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "02:28.48"
+            },
+            {
+              "couloir": 3,
+              "nom": "BERAULT Milane",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "02:18.48"
+            },
+            {
+              "couloir": 4,
+              "nom": "GOUIX Louise",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "02:12.04"
+            },
+            {
+              "couloir": 5,
+              "nom": "MAHEU Clara",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "02:16.30"
+            },
+            {
+              "couloir": 6,
+              "nom": "DENOUAL Margaux",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "02:27.29"
+            },
+            {
+              "couloir": 7,
+              "nom": "TEYSSOT Clementine",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "C LAÏQUE COLOMBELLES",
+              "temps_engage": "02:31.52"
+            },
+            {
+              "couloir": 8,
+              "nom": "DUSSAC MOULIE Maya",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "02:43.80"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "53",
+      "distance": 200,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "200 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "11h10",
+          "typ_id": "60",
+          "num": "12",
+          "lineup": null
+        },
+        {
+          "tour": "Finale A",
+          "heure": "17h24",
+          "typ_id": "11",
+          "num": "36",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "SENECAL Louis",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "02:04.70"
+            },
+            {
+              "couloir": 2,
+              "nom": "DES COGNETS B.",
+              "annee": 2000,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "02:00.28"
+            },
+            {
+              "couloir": 3,
+              "nom": "ECHARD Nathan",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:56.45"
+            },
+            {
+              "couloir": 4,
+              "nom": "FLYNN Rex",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:54.34"
+            },
+            {
+              "couloir": 5,
+              "nom": "ZYCH-MINKINE Sacha",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:55.20"
+            },
+            {
+              "couloir": 6,
+              "nom": "BOUSKINE M.A.",
+              "annee": 2007,
+              "nation": "ALG",
+              "club": "EN CAEN",
+              "temps_engage": "01:58.47"
+            },
+            {
+              "couloir": 7,
+              "nom": "HADJARAB Amayas",
+              "annee": 2006,
+              "nation": "ALG",
+              "club": "EN CAEN",
+              "temps_engage": "02:03.49"
+            },
+            {
+              "couloir": 8,
+              "nom": "SOTO-LAMBERT A.",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "02:05.95"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "22",
+      "distance": 100,
+      "nage": "Brasse",
+      "sexe": "F",
+      "label": "100 Brasse Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "11h24",
+          "typ_id": "60",
+          "num": "13",
+          "lineup": null
+        },
+        {
+          "tour": "Finale B",
+          "heure": "17h28",
+          "typ_id": "12",
+          "num": "37",
+          "lineup": [
+            {
+              "couloir": 3,
+              "nom": "VANDECANDELAERE C.",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "MARSOUINS HÉROUVILLE",
+              "temps_engage": "01:40.36"
+            },
+            {
+              "couloir": 4,
+              "nom": "GOSSELIN Joyce",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "C.N DEAUVILLE",
+              "temps_engage": "01:38.21"
+            },
+            {
+              "couloir": 5,
+              "nom": "AIT MOUH Ines",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "USO MONDEVILLE NATATION",
+              "temps_engage": "01:39.64"
+            }
+          ]
+        },
+        {
+          "tour": "Finale A",
+          "heure": "17h31",
+          "typ_id": "11",
+          "num": "38",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "DUROY SEJOURNE E.",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:28.51"
+            },
+            {
+              "couloir": 2,
+              "nom": "MONNIER Lily",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:22.68"
+            },
+            {
+              "couloir": 3,
+              "nom": "DENOUAL Margaux",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:18.70"
+            },
+            {
+              "couloir": 4,
+              "nom": "HO HIO HEN ANNAN K.",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:13.51"
+            },
+            {
+              "couloir": 5,
+              "nom": "BERAULT Milane",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:15.51"
+            },
+            {
+              "couloir": 6,
+              "nom": "LESUEUR Ania",
+              "annee": 2004,
+              "nation": "FRA",
+              "club": "RACING CLUB DE FRANCE",
+              "temps_engage": "01:21.03"
+            },
+            {
+              "couloir": 7,
+              "nom": "VANDECASTEELE C.",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "C.N DEAUVILLE",
+              "temps_engage": "01:27.12"
+            },
+            {
+              "couloir": 8,
+              "nom": "RUAULT Camille",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "CN FLERS",
+              "temps_engage": "01:34.48"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "72",
+      "distance": 100,
+      "nage": "Brasse",
+      "sexe": "M",
+      "label": "100 Brasse Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "11h28",
+          "typ_id": "60",
+          "num": "14",
+          "lineup": null
+        },
+        {
+          "tour": "Finale B",
+          "heure": "17h35",
+          "typ_id": "12",
+          "num": "39",
+          "lineup": [
+            {
+              "couloir": 3,
+              "nom": "SERAIS Antoine",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "USO MONDEVILLE NATATION",
+              "temps_engage": "01:33.44"
+            },
+            {
+              "couloir": 4,
+              "nom": "MARTIN Tom",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "CN FLERS",
+              "temps_engage": "01:26.28"
+            },
+            {
+              "couloir": 5,
+              "nom": "LECANU Jason",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "C LAÏQUE COLOMBELLES",
+              "temps_engage": "01:27.63"
+            },
+            {
+              "couloir": 6,
+              "nom": "PICOT Eliott",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "USO MONDEVILLE NATATION",
+              "temps_engage": "01:39.21"
+            }
+          ]
+        },
+        {
+          "tour": "Finale A",
+          "heure": "17h38",
+          "typ_id": "11",
+          "num": "40",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "CHERRIER Charlie",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:12.96"
+            },
+            {
+              "couloir": 2,
+              "nom": "DENOUAL Nathan",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:11.86"
+            },
+            {
+              "couloir": 3,
+              "nom": "DUMAS Raphaël",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:09.68"
+            },
+            {
+              "couloir": 4,
+              "nom": "MOUTON Corentin",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:06.61"
+            },
+            {
+              "couloir": 5,
+              "nom": "VALMONT-MALANDA M.",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:06.62"
+            },
+            {
+              "couloir": 6,
+              "nom": "TOREL Paul",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "EN CAEN",
+              "temps_engage": "01:09.76"
+            },
+            {
+              "couloir": 7,
+              "nom": "DAUDIN Oscar",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "LISIEUX NORMANDIE NATATION",
+              "temps_engage": "01:12.22"
+            },
+            {
+              "couloir": 8,
+              "nom": "ROUSSEAU Nael",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "C LAÏQUE COLOMBELLES",
+              "temps_engage": "01:23.18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "42",
+      "distance": 400,
+      "nage": "4 Nages",
+      "sexe": "F",
+      "label": "400 4 Nages Dames",
+      "phases": [
+        {
+          "tour": "Série finale",
+          "heure": "11h33",
+          "typ_id": "61",
+          "num": "15",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "92",
+      "distance": 400,
+      "nage": "4 Nages",
+      "sexe": "M",
+      "label": "400 4 Nages Messieurs",
+      "phases": [
+        {
+          "tour": "Série finale",
+          "heure": "11h40",
+          "typ_id": "61",
+          "num": "16",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "23",
+      "distance": 200,
+      "nage": "Brasse",
+      "sexe": "F",
+      "label": "200 Brasse Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h15",
+          "typ_id": "60",
+          "num": "41",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "73",
+      "distance": 200,
+      "nage": "Brasse",
+      "sexe": "M",
+      "label": "200 Brasse Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h23",
+          "typ_id": "60",
+          "num": "42",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "32",
+      "distance": 100,
+      "nage": "Papillon",
+      "sexe": "F",
+      "label": "100 Papillon Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h30",
+          "typ_id": "60",
+          "num": "43",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "82",
+      "distance": 100,
+      "nage": "Papillon",
+      "sexe": "M",
+      "label": "100 Papillon Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h32",
+          "typ_id": "60",
+          "num": "44",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "11",
+      "distance": 50,
+      "nage": "Dos",
+      "sexe": "F",
+      "label": "50 Dos Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h38",
+          "typ_id": "60",
+          "num": "45",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "61",
+      "distance": 50,
+      "nage": "Dos",
+      "sexe": "M",
+      "label": "50 Dos Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h44",
+          "typ_id": "60",
+          "num": "46",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "4",
+      "distance": 400,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "400 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Premières séries",
+          "heure": "09h49",
+          "typ_id": "62",
+          "num": "47",
+          "lineup": null
+        },
+        {
+          "tour": "Série finale",
+          "heure": "15h00",
+          "typ_id": "61",
+          "num": "59",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "54",
+      "distance": 400,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "400 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Premières séries",
+          "heure": "09h56",
+          "typ_id": "62",
+          "num": "48",
+          "lineup": null
+        },
+        {
+          "tour": "Série finale",
+          "heure": "15h48",
+          "typ_id": "61",
+          "num": "60",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "41",
+      "distance": 200,
+      "nage": "4 Nages",
+      "sexe": "F",
+      "label": "200 4 Nages Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h09",
+          "typ_id": "60",
+          "num": "49",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "91",
+      "distance": 200,
+      "nage": "4 Nages",
+      "sexe": "M",
+      "label": "200 4 Nages Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h17",
+          "typ_id": "60",
+          "num": "50",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "21",
+      "distance": 50,
+      "nage": "Brasse",
+      "sexe": "F",
+      "label": "50 Brasse Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h25",
+          "typ_id": "60",
+          "num": "51",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "71",
+      "distance": 50,
+      "nage": "Brasse",
+      "sexe": "M",
+      "label": "50 Brasse Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h29",
+          "typ_id": "60",
+          "num": "52",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "13",
+      "distance": 200,
+      "nage": "Dos",
+      "sexe": "F",
+      "label": "200 Dos Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h34",
+          "typ_id": "60",
+          "num": "53",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "63",
+      "distance": 200,
+      "nage": "Dos",
+      "sexe": "M",
+      "label": "200 Dos Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h38",
+          "typ_id": "60",
+          "num": "54",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "2",
+      "distance": 100,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "100 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h42",
+          "typ_id": "60",
+          "num": "55",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "52",
+      "distance": 100,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "100 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h52",
+          "typ_id": "60",
+          "num": "56",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "5",
+      "distance": 800,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "800 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Série finale",
+          "heure": "11h03",
+          "typ_id": "61",
+          "num": "57",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "55",
+      "distance": 800,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "800 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Série finale",
+          "heure": "11h16",
+          "typ_id": "61",
+          "num": "58",
+          "lineup": null
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-10T21:17:43.436750+00:00"
+}

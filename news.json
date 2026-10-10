@@ -1,0 +1,32 @@
+{
+  "generated_at": "2026-10-10T21:22:50.169530+00:00",
+  "items": [
+    {
+      "id": "avenir_prochaine",
+      "kind": "agenda",
+      "tag": "À venir",
+      "title": "Open des Alpes 2026 — 9 octobre",
+      "body": "Prochain rendez-vous du périmètre à Grenoble · 189 nageurs attendus. 156 compétitions à venir au total.",
+      "date": "2026-10-09",
+      "competition_id": "94504"
+    },
+    {
+      "id": "avenir_affiche",
+      "kind": "agenda",
+      "tag": "L'affiche",
+      "title": "Médailles du TOAC 2026 - Etape 2",
+      "body": "Le gros plateau à venir : 1434 engagements à Toulouse (10 octobre).",
+      "date": "2026-10-10",
+      "competition_id": "94632"
+    },
+    {
+      "id": "resultats_recents",
+      "kind": "resultats",
+      "tag": "Résultats",
+      "title": "Championnats Départementaux U11 — résultats en ligne",
+      "body": "Les classements de Versailles (21 juin) sont disponibles : séries et finales, avec tes favoris repérés.",
+      "date": "2026-06-21",
+      "competition_id": "94086"
+    }
+  ]
+}
