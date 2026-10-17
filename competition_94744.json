@@ -1,0 +1,134 @@
+{
+  "competition": "94744",
+  "events": [
+    {
+      "epr_id": "130",
+      "distance": 25,
+      "nage": "Papillon",
+      "sexe": "F",
+      "label": "25 Papillon Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "14h30",
+          "typ_id": "60",
+          "num": "0",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "180",
+      "distance": 25,
+      "nage": "Papillon",
+      "sexe": "M",
+      "label": "25 Papillon Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "14h33",
+          "typ_id": "60",
+          "num": "1",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "1",
+      "distance": 50,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "50 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "14h35",
+          "typ_id": "60",
+          "num": "2",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "51",
+      "distance": 50,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "50 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "14h58",
+          "typ_id": "60",
+          "num": "3",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "110",
+      "distance": 25,
+      "nage": "Dos",
+      "sexe": "F",
+      "label": "25 Dos Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "15h31",
+          "typ_id": "60",
+          "num": "4",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "160",
+      "distance": 25,
+      "nage": "Dos",
+      "sexe": "M",
+      "label": "25 Dos Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "15h41",
+          "typ_id": "60",
+          "num": "5",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "21",
+      "distance": 50,
+      "nage": "Brasse",
+      "sexe": "F",
+      "label": "50 Brasse Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "15h48",
+          "typ_id": "60",
+          "num": "6",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "71",
+      "distance": 50,
+      "nage": "Brasse",
+      "sexe": "M",
+      "label": "50 Brasse Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "16h00",
+          "typ_id": "60",
+          "num": "7",
+          "lineup": null
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-17T22:57:26.221972+00:00"
+}

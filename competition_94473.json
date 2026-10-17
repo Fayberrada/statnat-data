@@ -1,0 +1,1378 @@
+{
+  "competition": "94473",
+  "events": [
+    {
+      "epr_id": "31",
+      "distance": 50,
+      "nage": "Papillon",
+      "sexe": "F",
+      "label": "50 Papillon Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h00",
+          "typ_id": "60",
+          "num": "0",
+          "lineup": null
+        },
+        {
+          "tour": "Finale C U12-U13",
+          "heure": "15h00",
+          "typ_id": "13",
+          "num": "14",
+          "lineup": []
+        },
+        {
+          "tour": "Finale B U14-U15",
+          "heure": "15h02",
+          "typ_id": "12",
+          "num": "15",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A",
+          "heure": "15h04",
+          "typ_id": "11",
+          "num": "16",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "BIGOT Ninon",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "CHARTRES METROPOLE NAT",
+              "temps_engage": "00:31.94"
+            },
+            {
+              "couloir": 2,
+              "nom": "DE BARROS Antonya",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "CN FONTAINEBLEAU-AVON",
+              "temps_engage": "00:31.14"
+            },
+            {
+              "couloir": 3,
+              "nom": "ADAM Mazarine",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "AN ROMORANTIN",
+              "temps_engage": "00:30.04"
+            },
+            {
+              "couloir": 4,
+              "nom": "DAUJAT Lalie",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "AQUATIC CLUB BOURGES",
+              "temps_engage": "00:29.41"
+            },
+            {
+              "couloir": 5,
+              "nom": "BERNARD Lise",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "CHARTRES METROPOLE NAT",
+              "temps_engage": "00:29.95"
+            },
+            {
+              "couloir": 6,
+              "nom": "MENNETEAU Loana",
+              "annee": 1999,
+              "nation": "FRA",
+              "club": "OLIVET NATATION I'NOX",
+              "temps_engage": "00:30.21"
+            },
+            {
+              "couloir": 7,
+              "nom": "BODEMAR-ROUQUETTE L.",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "CN FONTAINEBLEAU-AVON",
+              "temps_engage": "00:31.20"
+            },
+            {
+              "couloir": 8,
+              "nom": "TESTARD Leane",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "AQUATIC CLUB BOURGES",
+              "temps_engage": "00:32.23"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "81",
+      "distance": 50,
+      "nage": "Papillon",
+      "sexe": "M",
+      "label": "50 Papillon Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h09",
+          "typ_id": "60",
+          "num": "1",
+          "lineup": null
+        },
+        {
+          "tour": "Finale C U12-U13",
+          "heure": "15h06",
+          "typ_id": "13",
+          "num": "17",
+          "lineup": []
+        },
+        {
+          "tour": "Finale B U14-U15",
+          "heure": "15h08",
+          "typ_id": "12",
+          "num": "18",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A",
+          "heure": "15h10",
+          "typ_id": "11",
+          "num": "19",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "MAILLY Martin",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "OLIVET NATATION I'NOX",
+              "temps_engage": "00:26.86"
+            },
+            {
+              "couloir": 2,
+              "nom": "COURTAT Morgan",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "AQUATIC CLUB BOURGES",
+              "temps_engage": "00:26.62"
+            },
+            {
+              "couloir": 3,
+              "nom": "RIVIÈRE Clément",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "CN BREST",
+              "temps_engage": "00:26.25"
+            },
+            {
+              "couloir": 4,
+              "nom": "NABOUDET Thomas",
+              "annee": 2005,
+              "nation": "FRA",
+              "club": "ETUDIANT CLUB ORLEANS NATATION",
+              "temps_engage": "00:25.62"
+            },
+            {
+              "couloir": 5,
+              "nom": "RUBINELLI Alexandre",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "CN FONTAINEBLEAU-AVON",
+              "temps_engage": "00:25.76"
+            },
+            {
+              "couloir": 6,
+              "nom": "FAHRNER Sasha",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "AQUATIC CLUB BOURGES",
+              "temps_engage": "00:26.51"
+            },
+            {
+              "couloir": 7,
+              "nom": "BACHA Yogen",
+              "annee": 2008,
+              "nation": "NOR",
+              "club": "CN FONTAINEBLEAU-AVON",
+              "temps_engage": "00:26.68"
+            },
+            {
+              "couloir": 8,
+              "nom": "JAN MEURVILLE Elyan",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "CN FONTAINEBLEAU-AVON",
+              "temps_engage": "00:26.88"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "3",
+      "distance": 200,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "200 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h21",
+          "typ_id": "60",
+          "num": "2",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "53",
+      "distance": 200,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "200 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h32",
+          "typ_id": "60",
+          "num": "3",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "40",
+      "distance": 100,
+      "nage": "4 Nages",
+      "sexe": "F",
+      "label": "100 4 Nages Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h52",
+          "typ_id": "60",
+          "num": "4",
+          "lineup": null
+        },
+        {
+          "tour": "Finale C U12-U13",
+          "heure": "15h27",
+          "typ_id": "13",
+          "num": "20",
+          "lineup": []
+        },
+        {
+          "tour": "Finale B U14-U15",
+          "heure": "15h30",
+          "typ_id": "12",
+          "num": "21",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A",
+          "heure": "15h33",
+          "typ_id": "11",
+          "num": "22",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "FERRON Berangere",
+              "annee": 2002,
+              "nation": "FRA",
+              "club": "OLIVET NATATION I'NOX",
+              "temps_engage": "01:12.09"
+            },
+            {
+              "couloir": 2,
+              "nom": "PITAULT Lisa",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "AN ROMORANTIN",
+              "temps_engage": "01:11.78"
+            },
+            {
+              "couloir": 3,
+              "nom": "CHOLLET Alicia",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "CNM ST-GERMAIN-DU-PUY",
+              "temps_engage": "01:11.25"
+            },
+            {
+              "couloir": 4,
+              "nom": "DAUJAT Lalie",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "AQUATIC CLUB BOURGES",
+              "temps_engage": "01:08.61"
+            },
+            {
+              "couloir": 5,
+              "nom": "HOOVER Mia",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "AAJB ENTENTE BLOIS",
+              "temps_engage": "01:10.25"
+            },
+            {
+              "couloir": 6,
+              "nom": "PLOYET Lisa",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "CN CHINON",
+              "temps_engage": "01:11.28"
+            },
+            {
+              "couloir": 7,
+              "nom": "BUJEAUD Olympe",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "AQUATIC CLUB BOURGES",
+              "temps_engage": "01:11.86"
+            },
+            {
+              "couloir": 8,
+              "nom": "BACCHIALONI Laureen",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "CN FONTAINEBLEAU-AVON",
+              "temps_engage": "01:12.24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "90",
+      "distance": 100,
+      "nage": "4 Nages",
+      "sexe": "M",
+      "label": "100 4 Nages Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h12",
+          "typ_id": "60",
+          "num": "5",
+          "lineup": null
+        },
+        {
+          "tour": "Finale C U12-U13",
+          "heure": "15h36",
+          "typ_id": "13",
+          "num": "23",
+          "lineup": []
+        },
+        {
+          "tour": "Finale B U14-U15",
+          "heure": "15h39",
+          "typ_id": "12",
+          "num": "24",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A",
+          "heure": "15h42",
+          "typ_id": "11",
+          "num": "25",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "FAVIERE Gabin",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "AQUATIC CLUB BOURGES",
+              "temps_engage": "01:02.68"
+            },
+            {
+              "couloir": 2,
+              "nom": "CREVEL Charles",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "OLIVET NATATION I'NOX",
+              "temps_engage": "01:02.39"
+            },
+            {
+              "couloir": 3,
+              "nom": "TRÉBOSC Samy",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "AQUATIC CLUB BOURGES",
+              "temps_engage": "01:01.69"
+            },
+            {
+              "couloir": 4,
+              "nom": "GARDIN Lucas",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "AQUATIC CLUB BOURGES",
+              "temps_engage": "00:59.57"
+            },
+            {
+              "couloir": 5,
+              "nom": "NSEMBENE Nathan",
+              "annee": 2004,
+              "nation": "FRA",
+              "club": "VILLEJUIF NATATION",
+              "temps_engage": "01:00.16"
+            },
+            {
+              "couloir": 6,
+              "nom": "RUBINELLI Alexandre",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "CN FONTAINEBLEAU-AVON",
+              "temps_engage": "01:02.11"
+            },
+            {
+              "couloir": 7,
+              "nom": "VOLET Louison",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "AQUATIC CLUB BOURGES",
+              "temps_engage": "01:02.47"
+            },
+            {
+              "couloir": 8,
+              "nom": "GARDIN Louis",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "AQUATIC CLUB BOURGES",
+              "temps_engage": "01:03.47"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "33",
+      "distance": 200,
+      "nage": "Papillon",
+      "sexe": "F",
+      "label": "200 Papillon Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h37",
+          "typ_id": "60",
+          "num": "6",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "83",
+      "distance": 200,
+      "nage": "Papillon",
+      "sexe": "M",
+      "label": "200 Papillon Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h45",
+          "typ_id": "60",
+          "num": "7",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "12",
+      "distance": 100,
+      "nage": "Dos",
+      "sexe": "F",
+      "label": "100 Dos Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h52",
+          "typ_id": "60",
+          "num": "8",
+          "lineup": null
+        },
+        {
+          "tour": "Finale C U12-U13",
+          "heure": "15h45",
+          "typ_id": "13",
+          "num": "26",
+          "lineup": []
+        },
+        {
+          "tour": "Finale B U14-U15",
+          "heure": "15h48",
+          "typ_id": "12",
+          "num": "27",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A",
+          "heure": "15h51",
+          "typ_id": "11",
+          "num": "28",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "TONDU Mallory",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "AN ROMORANTIN",
+              "temps_engage": "01:13.79"
+            },
+            {
+              "couloir": 2,
+              "nom": "BRILLAUD Amance",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "EN TOURS",
+              "temps_engage": "01:10.91"
+            },
+            {
+              "couloir": 3,
+              "nom": "ADAM Mazarine",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "AN ROMORANTIN",
+              "temps_engage": "01:09.34"
+            },
+            {
+              "couloir": 4,
+              "nom": "BODU Lana",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "AN ROMORANTIN",
+              "temps_engage": "01:08.82"
+            },
+            {
+              "couloir": 5,
+              "nom": "BRAGARD Romane",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "AQUATIC CLUB BOURGES",
+              "temps_engage": "01:09.02"
+            },
+            {
+              "couloir": 6,
+              "nom": "PLOYET Lisa",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "CN CHINON",
+              "temps_engage": "01:10.17"
+            },
+            {
+              "couloir": 7,
+              "nom": "BESNARD Célia",
+              "annee": 1995,
+              "nation": "FRA",
+              "club": "ETUDIANT CLUB ORLEANS NATATION",
+              "temps_engage": "01:12.84"
+            },
+            {
+              "couloir": 8,
+              "nom": "ZADOROZHNA Daryna",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "CHARTRES METROPOLE NAT",
+              "temps_engage": "01:14.06"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "62",
+      "distance": 100,
+      "nage": "Dos",
+      "sexe": "M",
+      "label": "100 Dos Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "11h03",
+          "typ_id": "60",
+          "num": "9",
+          "lineup": null
+        },
+        {
+          "tour": "Finale C U12-U13",
+          "heure": "15h54",
+          "typ_id": "13",
+          "num": "29",
+          "lineup": []
+        },
+        {
+          "tour": "Finale B U14-U15",
+          "heure": "15h57",
+          "typ_id": "12",
+          "num": "30",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A",
+          "heure": "16h00",
+          "typ_id": "11",
+          "num": "31",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "BROSSARD Victor",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "AQUATIC CLUB BOURGES",
+              "temps_engage": "01:04.25"
+            },
+            {
+              "couloir": 2,
+              "nom": "BASCHON Amaury",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "CHARTRES METROPOLE NAT",
+              "temps_engage": "01:03.08"
+            },
+            {
+              "couloir": 3,
+              "nom": "RENARD Artür",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "AQUATIC CLUB BOURGES",
+              "temps_engage": "01:01.76"
+            },
+            {
+              "couloir": 4,
+              "nom": "COURTAT Morgan",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "AQUATIC CLUB BOURGES",
+              "temps_engage": "00:57.31"
+            },
+            {
+              "couloir": 5,
+              "nom": "VOSGEOIS Marin",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "AN ROMORANTIN",
+              "temps_engage": "00:59.59"
+            },
+            {
+              "couloir": 6,
+              "nom": "MAILLY Martin",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "OLIVET NATATION I'NOX",
+              "temps_engage": "01:02.67"
+            },
+            {
+              "couloir": 7,
+              "nom": "GARDIN Louis",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "AQUATIC CLUB BOURGES",
+              "temps_engage": "01:03.52"
+            },
+            {
+              "couloir": 8,
+              "nom": "DUROCHER-RIVIERE A.",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "OLIVET NATATION I'NOX",
+              "temps_engage": "01:05.11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "22",
+      "distance": 100,
+      "nage": "Brasse",
+      "sexe": "F",
+      "label": "100 Brasse Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "11h24",
+          "typ_id": "60",
+          "num": "10",
+          "lineup": null
+        },
+        {
+          "tour": "Finale C U12-U13",
+          "heure": "16h44",
+          "typ_id": "13",
+          "num": "34",
+          "lineup": []
+        },
+        {
+          "tour": "Finale B U14-U15",
+          "heure": "16h47",
+          "typ_id": "12",
+          "num": "35",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A",
+          "heure": "16h50",
+          "typ_id": "11",
+          "num": "36",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "TESTARD Leane",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "AQUATIC CLUB BOURGES",
+              "temps_engage": "01:21.82"
+            },
+            {
+              "couloir": 2,
+              "nom": "MARTINEZ Orane",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "CN FONTAINEBLEAU-AVON",
+              "temps_engage": "01:19.88"
+            },
+            {
+              "couloir": 3,
+              "nom": "BACCHIALONI Laureen",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "CN FONTAINEBLEAU-AVON",
+              "temps_engage": "01:17.68"
+            },
+            {
+              "couloir": 4,
+              "nom": "CHOLLET Alicia",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "CNM ST-GERMAIN-DU-PUY",
+              "temps_engage": "01:14.48"
+            },
+            {
+              "couloir": 5,
+              "nom": "DAUJAT Lalie",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "AQUATIC CLUB BOURGES",
+              "temps_engage": "01:15.99"
+            },
+            {
+              "couloir": 6,
+              "nom": "GIRARD CHARPENTIER L.",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "AQUATIC CLUB BOURGES",
+              "temps_engage": "01:17.69"
+            },
+            {
+              "couloir": 7,
+              "nom": "BUJEAUD Olympe",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "AQUATIC CLUB BOURGES",
+              "temps_engage": "01:21.19"
+            },
+            {
+              "couloir": 8,
+              "nom": "BOOGAERTS Martine",
+              "annee": 2011,
+              "nation": "BEL",
+              "club": "OLIVET NATATION I'NOX",
+              "temps_engage": "01:22.68"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "72",
+      "distance": 100,
+      "nage": "Brasse",
+      "sexe": "M",
+      "label": "100 Brasse Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "11h33",
+          "typ_id": "60",
+          "num": "11",
+          "lineup": null
+        },
+        {
+          "tour": "Finale C U12-U13",
+          "heure": "16h53",
+          "typ_id": "13",
+          "num": "37",
+          "lineup": []
+        },
+        {
+          "tour": "Finale B U14-U15",
+          "heure": "16h56",
+          "typ_id": "12",
+          "num": "38",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A",
+          "heure": "16h59",
+          "typ_id": "11",
+          "num": "39",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "JONDET Lény",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "AQUATIC CLUB BOURGES",
+              "temps_engage": "01:09.62"
+            },
+            {
+              "couloir": 2,
+              "nom": "VEAUVY-GALET Nino",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "ETUDIANT CLUB ORLEANS NATATION",
+              "temps_engage": "01:09.08"
+            },
+            {
+              "couloir": 3,
+              "nom": "MARIE Martial",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "CHARTRES METROPOLE NAT",
+              "temps_engage": "01:08.08"
+            },
+            {
+              "couloir": 4,
+              "nom": "GARDIN Lucas",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "AQUATIC CLUB BOURGES",
+              "temps_engage": "01:04.93"
+            },
+            {
+              "couloir": 5,
+              "nom": "CREVEL Paulin",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "OLIVET NATATION I'NOX",
+              "temps_engage": "01:07.48"
+            },
+            {
+              "couloir": 6,
+              "nom": "MINEAU Clement",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "CHARTRES METROPOLE NAT",
+              "temps_engage": "01:08.61"
+            },
+            {
+              "couloir": 7,
+              "nom": "VOLET Louison",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "AQUATIC CLUB BOURGES",
+              "temps_engage": "01:09.21"
+            },
+            {
+              "couloir": 8,
+              "nom": "MORELLE Louis",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "ETUDIANT CLUB ORLEANS NATATION",
+              "temps_engage": "01:13.27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "1",
+      "distance": 50,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "50 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "11h44",
+          "typ_id": "60",
+          "num": "12",
+          "lineup": null
+        },
+        {
+          "tour": "Finale C U12-U13",
+          "heure": "17h17",
+          "typ_id": "13",
+          "num": "40",
+          "lineup": []
+        },
+        {
+          "tour": "Finale B U14-U15",
+          "heure": "17h19",
+          "typ_id": "12",
+          "num": "41",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A",
+          "heure": "17h21",
+          "typ_id": "11",
+          "num": "42",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "BODEMAR-ROUQUETTE L.",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "CN FONTAINEBLEAU-AVON",
+              "temps_engage": "00:29.38"
+            },
+            {
+              "couloir": 2,
+              "nom": "PITAULT Lisa",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "AN ROMORANTIN",
+              "temps_engage": "00:29.02"
+            },
+            {
+              "couloir": 3,
+              "nom": "PLOYET Lisa",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "CN CHINON",
+              "temps_engage": "00:28.82"
+            },
+            {
+              "couloir": 4,
+              "nom": "ADAM Mazarine",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "AN ROMORANTIN",
+              "temps_engage": "00:27.86"
+            },
+            {
+              "couloir": 5,
+              "nom": "FERRON Berangere",
+              "annee": 2002,
+              "nation": "FRA",
+              "club": "OLIVET NATATION I'NOX",
+              "temps_engage": "00:28.18"
+            },
+            {
+              "couloir": 6,
+              "nom": "BODU Lana",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "AN ROMORANTIN",
+              "temps_engage": "00:28.86"
+            },
+            {
+              "couloir": 7,
+              "nom": "DE BARROS Antonya",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "CN FONTAINEBLEAU-AVON",
+              "temps_engage": "00:29.32"
+            },
+            {
+              "couloir": 8,
+              "nom": "HOOVER Mia",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "AAJB ENTENTE BLOIS",
+              "temps_engage": "00:29.45"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "51",
+      "distance": 50,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "50 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "11h59",
+          "typ_id": "60",
+          "num": "13",
+          "lineup": null
+        },
+        {
+          "tour": "Finale C U12-U13",
+          "heure": "17h23",
+          "typ_id": "13",
+          "num": "43",
+          "lineup": []
+        },
+        {
+          "tour": "Finale B U14-U15",
+          "heure": "17h25",
+          "typ_id": "12",
+          "num": "44",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A",
+          "heure": "17h27",
+          "typ_id": "11",
+          "num": "45",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "RENARD Artür",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "AQUATIC CLUB BOURGES",
+              "temps_engage": "00:24.63"
+            },
+            {
+              "couloir": 2,
+              "nom": "RUBINELLI Alexandre",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "CN FONTAINEBLEAU-AVON",
+              "temps_engage": "00:24.40"
+            },
+            {
+              "couloir": 3,
+              "nom": "NABOUDET Thomas",
+              "annee": 2005,
+              "nation": "FRA",
+              "club": "ETUDIANT CLUB ORLEANS NATATION",
+              "temps_engage": "00:23.38"
+            },
+            {
+              "couloir": 4,
+              "nom": "NSEMBENE Nathan",
+              "annee": 2004,
+              "nation": "FRA",
+              "club": "VILLEJUIF NATATION",
+              "temps_engage": "00:23.29"
+            },
+            {
+              "couloir": 5,
+              "nom": "TRÉBOSC Samy",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "AQUATIC CLUB BOURGES",
+              "temps_engage": "00:23.35"
+            },
+            {
+              "couloir": 6,
+              "nom": "BACHA Yogen",
+              "annee": 2008,
+              "nation": "NOR",
+              "club": "CN FONTAINEBLEAU-AVON",
+              "temps_engage": "00:24.09"
+            },
+            {
+              "couloir": 7,
+              "nom": "JAN MEURVILLE Elyan",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "CN FONTAINEBLEAU-AVON",
+              "temps_engage": "00:24.60"
+            },
+            {
+              "couloir": 8,
+              "nom": "CHENEAU Tom",
+              "annee": 2001,
+              "nation": "FRA",
+              "club": "US VENDÔME",
+              "temps_engage": "00:24.78"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "42",
+      "distance": 400,
+      "nage": "4 Nages",
+      "sexe": "F",
+      "label": "400 4 Nages Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "16h17",
+          "typ_id": "60",
+          "num": "32",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "92",
+      "distance": 400,
+      "nage": "4 Nages",
+      "sexe": "M",
+      "label": "400 4 Nages Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "16h31",
+          "typ_id": "60",
+          "num": "33",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "4",
+      "distance": 400,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "400 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h00",
+          "typ_id": "60",
+          "num": "46",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "54",
+      "distance": 400,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "400 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h32",
+          "typ_id": "60",
+          "num": "47",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "11",
+      "distance": 50,
+      "nage": "Dos",
+      "sexe": "F",
+      "label": "50 Dos Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h01",
+          "typ_id": "60",
+          "num": "48",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "61",
+      "distance": 50,
+      "nage": "Dos",
+      "sexe": "M",
+      "label": "50 Dos Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h07",
+          "typ_id": "60",
+          "num": "49",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "2",
+      "distance": 100,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "100 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h25",
+          "typ_id": "60",
+          "num": "50",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "52",
+      "distance": 100,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "100 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h43",
+          "typ_id": "60",
+          "num": "51",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "23",
+      "distance": 200,
+      "nage": "Brasse",
+      "sexe": "F",
+      "label": "200 Brasse Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "11h04",
+          "typ_id": "60",
+          "num": "52",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "73",
+      "distance": 200,
+      "nage": "Brasse",
+      "sexe": "M",
+      "label": "200 Brasse Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "11h20",
+          "typ_id": "60",
+          "num": "53",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "32",
+      "distance": 100,
+      "nage": "Papillon",
+      "sexe": "F",
+      "label": "100 Papillon Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "11h32",
+          "typ_id": "60",
+          "num": "54",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "82",
+      "distance": 100,
+      "nage": "Papillon",
+      "sexe": "M",
+      "label": "100 Papillon Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "11h43",
+          "typ_id": "60",
+          "num": "55",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "21",
+      "distance": 50,
+      "nage": "Brasse",
+      "sexe": "F",
+      "label": "50 Brasse Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "12h05",
+          "typ_id": "60",
+          "num": "56",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "71",
+      "distance": 50,
+      "nage": "Brasse",
+      "sexe": "M",
+      "label": "50 Brasse Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "12h16",
+          "typ_id": "60",
+          "num": "57",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "41",
+      "distance": 200,
+      "nage": "4 Nages",
+      "sexe": "F",
+      "label": "200 4 Nages Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "15h05",
+          "typ_id": "60",
+          "num": "59",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "91",
+      "distance": 200,
+      "nage": "4 Nages",
+      "sexe": "M",
+      "label": "200 4 Nages Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "16h11",
+          "typ_id": "60",
+          "num": "60",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "13",
+      "distance": 200,
+      "nage": "Dos",
+      "sexe": "F",
+      "label": "200 Dos Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "16h52",
+          "typ_id": "60",
+          "num": "61",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "63",
+      "distance": 200,
+      "nage": "Dos",
+      "sexe": "M",
+      "label": "200 Dos Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "17h23",
+          "typ_id": "60",
+          "num": "62",
+          "lineup": null
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-17T22:56:48.833079+00:00"
+}

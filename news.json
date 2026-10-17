@@ -1,0 +1,33 @@
+{
+  "generated_at": "2026-10-17T23:00:47.030881+00:00",
+  "items": [
+    {
+      "id": "avenir_prochaine",
+      "kind": "agenda",
+      "tag": "À venir",
+      "title": "Meeting d'automne de Paris — 16 octobre",
+      "body": "Prochain rendez-vous du périmètre à Paris · 560 nageurs attendus. 79 compétitions à venir au total.",
+      "date": "2026-10-16",
+      "competition_id": "94799"
+    },
+    {
+      "id": "resultats_recents",
+      "kind": "resultats",
+      "tag": "Résultats",
+      "title": "28e Meeting de la Vallée — résultats en ligne",
+      "body": "Les classements de Chevreuse (11 octobre) sont disponibles : séries et finales, avec tes favoris repérés.",
+      "date": "2026-10-11",
+      "competition_id": "94554"
+    },
+    {
+      "id": "ext_90eec825d134",
+      "kind": "actu",
+      "tag": "Yvelines",
+      "title": "Piscine Allende fermée : natation annulée à Plaisir",
+      "body": "InfosYvelines · 7 oct.",
+      "date": "2026-10-07",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUWh2QVdwUlM1SzF1YXN6bkJ5RTlpYnZzZjVxTHhJQ0pMcEQ2TE95b3hYT05nZl9qOWgzZGI3RkdoaG8xVkNMYmM1dGM3WjVxcE4xX0p3el9SOFRKMUd3MXlDU0YwM1MxQUJ2M3VUMzQyaDltRDdHbmZnM25IZ1hUNWp3RWJITEJqcVNzYXFGQ1BYczhyRElPTUlEbmE?oc=5",
+      "source": "InfosYvelines"
+    }
+  ]
+}

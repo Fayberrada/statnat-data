@@ -1,0 +1,2621 @@
+{
+  "competition": "94799",
+  "events": [
+    {
+      "epr_id": "100",
+      "distance": 25,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "25 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "18h30",
+          "typ_id": "60",
+          "num": "0",
+          "lineup": null
+        },
+        {
+          "tour": "1/8 Finale (1)",
+          "heure": "18h50",
+          "typ_id": "51",
+          "num": "2",
+          "lineup": null
+        },
+        {
+          "tour": "1/8 Finale (2)",
+          "heure": "18h51",
+          "typ_id": "52",
+          "num": "3",
+          "lineup": null
+        },
+        {
+          "tour": "1/8 Finale (3)",
+          "heure": "18h51",
+          "typ_id": "53",
+          "num": "4",
+          "lineup": null
+        },
+        {
+          "tour": "1/8 Finale (4)",
+          "heure": "18h52",
+          "typ_id": "54",
+          "num": "5",
+          "lineup": null
+        },
+        {
+          "tour": "1/8 Finale (5)",
+          "heure": "18h53",
+          "typ_id": "55",
+          "num": "6",
+          "lineup": null
+        },
+        {
+          "tour": "1/8 Finale (6)",
+          "heure": "18h54",
+          "typ_id": "56",
+          "num": "7",
+          "lineup": null
+        },
+        {
+          "tour": "1/8 Finale (7)",
+          "heure": "18h55",
+          "typ_id": "57",
+          "num": "8",
+          "lineup": null
+        },
+        {
+          "tour": "1/8 Finale (8)",
+          "heure": "18h56",
+          "typ_id": "58",
+          "num": "9",
+          "lineup": null
+        },
+        {
+          "tour": "1/4 Finale (1)",
+          "heure": "19h08",
+          "typ_id": "41",
+          "num": "18",
+          "lineup": null
+        },
+        {
+          "tour": "1/4 Finale (2)",
+          "heure": "19h09",
+          "typ_id": "42",
+          "num": "19",
+          "lineup": null
+        },
+        {
+          "tour": "1/4 Finale (3)",
+          "heure": "19h10",
+          "typ_id": "43",
+          "num": "20",
+          "lineup": null
+        },
+        {
+          "tour": "1/4 Finale (4)",
+          "heure": "19h10",
+          "typ_id": "44",
+          "num": "21",
+          "lineup": null
+        },
+        {
+          "tour": "1/2 Finale (1)",
+          "heure": "19h19",
+          "typ_id": "31",
+          "num": "26",
+          "lineup": null
+        },
+        {
+          "tour": "1/2 Finale (2)",
+          "heure": "19h21",
+          "typ_id": "32",
+          "num": "27",
+          "lineup": null
+        },
+        {
+          "tour": "Finale A",
+          "heure": "19h28",
+          "typ_id": "11",
+          "num": "30",
+          "lineup": [
+            {
+              "couloir": 2,
+              "nom": "HANSSON Olivia",
+              "annee": 2003,
+              "nation": "SWE",
+              "club": "ETOILES 92",
+              "temps_engage": "00:12.66"
+            },
+            {
+              "couloir": 3,
+              "nom": "FONSECA Maëlie",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "VILLEJUIF NATATION",
+              "temps_engage": "00:12.57"
+            },
+            {
+              "couloir": 4,
+              "nom": "NDOYE-BROUARD Maty",
+              "annee": 2004,
+              "nation": "FRA",
+              "club": "DAUPHINS D'ANNECY",
+              "temps_engage": "00:11.53"
+            },
+            {
+              "couloir": 5,
+              "nom": "MEUTER Adélaïde",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "HERITAGE 2024 PLONGEON ET NATATION CAO MGP",
+              "temps_engage": "00:12.41"
+            },
+            {
+              "couloir": 6,
+              "nom": "BOUCHE DUDOUS Lilou",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "HERITAGE 2024 PLONGEON ET NATATION CAO MGP",
+              "temps_engage": "00:12.66"
+            },
+            {
+              "couloir": 7,
+              "nom": "HAUPTMANN Franziska",
+              "annee": 2001,
+              "nation": "FRA",
+              "club": "CLUB DES NAGEURS DE PARIS",
+              "temps_engage": "00:12.67"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "150",
+      "distance": 25,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "25 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "18h34",
+          "typ_id": "60",
+          "num": "1",
+          "lineup": null
+        },
+        {
+          "tour": "1/8 Finale (1)",
+          "heure": "18h57",
+          "typ_id": "51",
+          "num": "10",
+          "lineup": null
+        },
+        {
+          "tour": "1/8 Finale (2)",
+          "heure": "18h57",
+          "typ_id": "52",
+          "num": "11",
+          "lineup": null
+        },
+        {
+          "tour": "1/8 Finale (3)",
+          "heure": "18h58",
+          "typ_id": "53",
+          "num": "12",
+          "lineup": null
+        },
+        {
+          "tour": "1/8 Finale (4)",
+          "heure": "18h59",
+          "typ_id": "54",
+          "num": "13",
+          "lineup": null
+        },
+        {
+          "tour": "1/8 Finale (5)",
+          "heure": "19h00",
+          "typ_id": "55",
+          "num": "14",
+          "lineup": null
+        },
+        {
+          "tour": "1/8 Finale (6)",
+          "heure": "19h01",
+          "typ_id": "56",
+          "num": "15",
+          "lineup": null
+        },
+        {
+          "tour": "1/8 Finale (7)",
+          "heure": "19h01",
+          "typ_id": "57",
+          "num": "16",
+          "lineup": null
+        },
+        {
+          "tour": "1/8 Finale (8)",
+          "heure": "19h02",
+          "typ_id": "58",
+          "num": "17",
+          "lineup": null
+        },
+        {
+          "tour": "1/4 Finale (1)",
+          "heure": "19h11",
+          "typ_id": "41",
+          "num": "22",
+          "lineup": null
+        },
+        {
+          "tour": "1/4 Finale (2)",
+          "heure": "19h12",
+          "typ_id": "42",
+          "num": "23",
+          "lineup": null
+        },
+        {
+          "tour": "1/4 Finale (3)",
+          "heure": "19h13",
+          "typ_id": "43",
+          "num": "24",
+          "lineup": null
+        },
+        {
+          "tour": "1/4 Finale (4)",
+          "heure": "19h14",
+          "typ_id": "44",
+          "num": "25",
+          "lineup": null
+        },
+        {
+          "tour": "1/2 Finale (1)",
+          "heure": "19h22",
+          "typ_id": "31",
+          "num": "28",
+          "lineup": null
+        },
+        {
+          "tour": "1/2 Finale (2)",
+          "heure": "19h22",
+          "typ_id": "32",
+          "num": "29",
+          "lineup": null
+        },
+        {
+          "tour": "Finale A",
+          "heure": "19h30",
+          "typ_id": "11",
+          "num": "31",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "BENBARA Nazim",
+              "annee": 1998,
+              "nation": "ALG",
+              "club": "VILLEJUIF NATATION",
+              "temps_engage": "00:10.65"
+            },
+            {
+              "couloir": 2,
+              "nom": "BOUTRY Théo",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "VILLEJUIF NATATION",
+              "temps_engage": "00:10.57"
+            },
+            {
+              "couloir": 3,
+              "nom": "HENRY Clément",
+              "annee": 2000,
+              "nation": "FRA",
+              "club": "VILLEJUIF NATATION",
+              "temps_engage": "00:10.47"
+            },
+            {
+              "couloir": 4,
+              "nom": "GUTH Guillaume",
+              "annee": 2000,
+              "nation": "FRA",
+              "club": "ETOILES 92",
+              "temps_engage": "00:10.16"
+            },
+            {
+              "couloir": 5,
+              "nom": "CHAULIAGUET Ethan",
+              "annee": 2005,
+              "nation": "FRA",
+              "club": "VILLEJUIF NATATION",
+              "temps_engage": "00:10.22"
+            },
+            {
+              "couloir": 6,
+              "nom": "PHANTSULAYA George",
+              "annee": 2000,
+              "nation": "FRA",
+              "club": "VILLEJUIF NATATION",
+              "temps_engage": "00:10.51"
+            },
+            {
+              "couloir": 7,
+              "nom": "COSTES Romain",
+              "annee": 2004,
+              "nation": "FRA",
+              "club": "VILLEJUIF NATATION",
+              "temps_engage": "00:10.60"
+            },
+            {
+              "couloir": 8,
+              "nom": "DUBOIS Matthias",
+              "annee": 2004,
+              "nation": "FRA",
+              "club": "CS CLICHY 92",
+              "temps_engage": "00:10.68"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "54",
+      "distance": 400,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "400 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "08h30",
+          "typ_id": "60",
+          "num": "32",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "31",
+      "distance": 50,
+      "nage": "Papillon",
+      "sexe": "F",
+      "label": "50 Papillon Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h29",
+          "typ_id": "60",
+          "num": "33",
+          "lineup": null
+        },
+        {
+          "tour": "Finale A",
+          "heure": "15h15",
+          "typ_id": "11",
+          "num": "62",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "COUDERT Lucile",
+              "annee": 2004,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:29.69"
+            },
+            {
+              "couloir": 2,
+              "nom": "LABRIDY Léna",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "MOUETTES DE PARIS",
+              "temps_engage": "00:29.20"
+            },
+            {
+              "couloir": 3,
+              "nom": "MEUTER Adélaïde",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "HERITAGE 2024 PLONGEON ET NATATION CAO MGP",
+              "temps_engage": "00:28.24"
+            },
+            {
+              "couloir": 4,
+              "nom": "NDOYE-BROUARD Maty",
+              "annee": 2004,
+              "nation": "FRA",
+              "club": "DAUPHINS D'ANNECY",
+              "temps_engage": "00:26.61"
+            },
+            {
+              "couloir": 5,
+              "nom": "NIGRIS Serena",
+              "annee": 1999,
+              "nation": "ITA",
+              "club": "ETOILES 92",
+              "temps_engage": "00:28.16"
+            },
+            {
+              "couloir": 6,
+              "nom": "BOUCHE DUDOUS Lilou",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "HERITAGE 2024 PLONGEON ET NATATION CAO MGP",
+              "temps_engage": "00:28.57"
+            },
+            {
+              "couloir": 7,
+              "nom": "DUPONT Zia",
+              "annee": 2002,
+              "nation": "FRA",
+              "club": "HERITAGE 2024 PLONGEON ET NATATION CAO MGP",
+              "temps_engage": "00:29.40"
+            },
+            {
+              "couloir": 8,
+              "nom": "FREYSZ VONGSAVATH L.",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "CS CLICHY 92",
+              "temps_engage": "00:29.70"
+            }
+          ]
+        },
+        {
+          "tour": "Finale C Benjamins 1",
+          "heure": "15h17",
+          "typ_id": "13",
+          "num": "63",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "DU GARREAU Louise",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "CLUB DES NAGEURS DE PARIS",
+              "temps_engage": "00:32.38"
+            },
+            {
+              "couloir": 2,
+              "nom": "FLORES Andrea",
+              "annee": 2000,
+              "nation": "MEX",
+              "club": "CLUB DES NAGEURS DE PARIS",
+              "temps_engage": "00:31.73"
+            },
+            {
+              "couloir": 3,
+              "nom": "GOMBAULT Chiara",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "CS CLICHY 92",
+              "temps_engage": "00:31.42"
+            },
+            {
+              "couloir": 4,
+              "nom": "TAVEL Salome",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:31.10"
+            },
+            {
+              "couloir": 5,
+              "nom": "DE LION Margaux",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "SCUF PARIS",
+              "temps_engage": "00:31.31"
+            },
+            {
+              "couloir": 6,
+              "nom": "TRAHOT Vilma",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "CLUB DES NAGEURS DE PARIS",
+              "temps_engage": "00:31.54"
+            },
+            {
+              "couloir": 7,
+              "nom": "LALANDE Adele",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "SCUF PARIS",
+              "temps_engage": "00:32.09"
+            },
+            {
+              "couloir": 8,
+              "nom": "ZATOUT Ines",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "CN ASNIÈRES",
+              "temps_engage": "00:32.55"
+            }
+          ]
+        },
+        {
+          "tour": "Finale B Benjamins 1&2",
+          "heure": "15h18",
+          "typ_id": "12",
+          "num": "64",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "BOOKLAGE-LETELLIER A.",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "SCUF PARIS",
+              "temps_engage": "00:31.00"
+            },
+            {
+              "couloir": 2,
+              "nom": "FOURNIER Alexia",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "CN EPINETTES PARIS",
+              "temps_engage": "00:30.57"
+            },
+            {
+              "couloir": 3,
+              "nom": "MAUREL-GUERET C.",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "CLUB NAUTIQUE DOMREMY 13",
+              "temps_engage": "00:30.19"
+            },
+            {
+              "couloir": 4,
+              "nom": "SABOURAULT Garance",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "CLUB DES NAGEURS DE PARIS",
+              "temps_engage": "00:29.89"
+            },
+            {
+              "couloir": 5,
+              "nom": "DELATTE Marie",
+              "annee": 2005,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:30.08"
+            },
+            {
+              "couloir": 6,
+              "nom": "ZIMMERMANN Maia",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:30.53"
+            },
+            {
+              "couloir": 7,
+              "nom": "DJOUHRI Anae",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "MOUETTES DE PARIS",
+              "temps_engage": "00:30.97"
+            },
+            {
+              "couloir": 8,
+              "nom": "PANCHENKO Sacha",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "CLUB DES NAGEURS DE PARIS",
+              "temps_engage": "00:31.07"
+            }
+          ]
+        },
+        {
+          "tour": "Finale A Benjamins 1&2",
+          "heure": "15h19",
+          "typ_id": "11",
+          "num": "65",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "COUDERT Lucile",
+              "annee": 2004,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:29.69"
+            },
+            {
+              "couloir": 2,
+              "nom": "LABRIDY Léna",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "MOUETTES DE PARIS",
+              "temps_engage": "00:29.20"
+            },
+            {
+              "couloir": 3,
+              "nom": "MEUTER Adélaïde",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "HERITAGE 2024 PLONGEON ET NATATION CAO MGP",
+              "temps_engage": "00:28.24"
+            },
+            {
+              "couloir": 4,
+              "nom": "NDOYE-BROUARD Maty",
+              "annee": 2004,
+              "nation": "FRA",
+              "club": "DAUPHINS D'ANNECY",
+              "temps_engage": "00:26.61"
+            },
+            {
+              "couloir": 5,
+              "nom": "NIGRIS Serena",
+              "annee": 1999,
+              "nation": "ITA",
+              "club": "ETOILES 92",
+              "temps_engage": "00:28.16"
+            },
+            {
+              "couloir": 6,
+              "nom": "BOUCHE DUDOUS Lilou",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "HERITAGE 2024 PLONGEON ET NATATION CAO MGP",
+              "temps_engage": "00:28.57"
+            },
+            {
+              "couloir": 7,
+              "nom": "DUPONT Zia",
+              "annee": 2002,
+              "nation": "FRA",
+              "club": "HERITAGE 2024 PLONGEON ET NATATION CAO MGP",
+              "temps_engage": "00:29.40"
+            },
+            {
+              "couloir": 8,
+              "nom": "FREYSZ VONGSAVATH L.",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "CS CLICHY 92",
+              "temps_engage": "00:29.70"
+            }
+          ]
+        },
+        {
+          "tour": "Finale D Juniors 1",
+          "heure": "15h21",
+          "typ_id": "14",
+          "num": "66",
+          "lineup": []
+        },
+        {
+          "tour": "Finale C",
+          "heure": "15h23",
+          "typ_id": "13",
+          "num": "67",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "DU GARREAU Louise",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "CLUB DES NAGEURS DE PARIS",
+              "temps_engage": "00:32.38"
+            },
+            {
+              "couloir": 2,
+              "nom": "FLORES Andrea",
+              "annee": 2000,
+              "nation": "MEX",
+              "club": "CLUB DES NAGEURS DE PARIS",
+              "temps_engage": "00:31.73"
+            },
+            {
+              "couloir": 3,
+              "nom": "GOMBAULT Chiara",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "CS CLICHY 92",
+              "temps_engage": "00:31.42"
+            },
+            {
+              "couloir": 4,
+              "nom": "TAVEL Salome",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:31.10"
+            },
+            {
+              "couloir": 5,
+              "nom": "DE LION Margaux",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "SCUF PARIS",
+              "temps_engage": "00:31.31"
+            },
+            {
+              "couloir": 6,
+              "nom": "TRAHOT Vilma",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "CLUB DES NAGEURS DE PARIS",
+              "temps_engage": "00:31.54"
+            },
+            {
+              "couloir": 7,
+              "nom": "LALANDE Adele",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "SCUF PARIS",
+              "temps_engage": "00:32.09"
+            },
+            {
+              "couloir": 8,
+              "nom": "ZATOUT Ines",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "CN ASNIÈRES",
+              "temps_engage": "00:32.55"
+            }
+          ]
+        },
+        {
+          "tour": "Finale B",
+          "heure": "15h24",
+          "typ_id": "12",
+          "num": "68",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "BOOKLAGE-LETELLIER A.",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "SCUF PARIS",
+              "temps_engage": "00:31.00"
+            },
+            {
+              "couloir": 2,
+              "nom": "FOURNIER Alexia",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "CN EPINETTES PARIS",
+              "temps_engage": "00:30.57"
+            },
+            {
+              "couloir": 3,
+              "nom": "MAUREL-GUERET C.",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "CLUB NAUTIQUE DOMREMY 13",
+              "temps_engage": "00:30.19"
+            },
+            {
+              "couloir": 4,
+              "nom": "SABOURAULT Garance",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "CLUB DES NAGEURS DE PARIS",
+              "temps_engage": "00:29.89"
+            },
+            {
+              "couloir": 5,
+              "nom": "DELATTE Marie",
+              "annee": 2005,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:30.08"
+            },
+            {
+              "couloir": 6,
+              "nom": "ZIMMERMANN Maia",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:30.53"
+            },
+            {
+              "couloir": 7,
+              "nom": "DJOUHRI Anae",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "MOUETTES DE PARIS",
+              "temps_engage": "00:30.97"
+            },
+            {
+              "couloir": 8,
+              "nom": "PANCHENKO Sacha",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "CLUB DES NAGEURS DE PARIS",
+              "temps_engage": "00:31.07"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "63",
+      "distance": 200,
+      "nage": "Dos",
+      "sexe": "M",
+      "label": "200 Dos Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h43",
+          "typ_id": "60",
+          "num": "34",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "23",
+      "distance": 200,
+      "nage": "Brasse",
+      "sexe": "F",
+      "label": "200 Brasse Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h04",
+          "typ_id": "60",
+          "num": "35",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "51",
+      "distance": 50,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "50 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h24",
+          "typ_id": "60",
+          "num": "36",
+          "lineup": null
+        },
+        {
+          "tour": "Finale A",
+          "heure": "17h16",
+          "typ_id": "11",
+          "num": "86",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "BENELHADJ Tom",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "CLUB DES NAGEURS DE PARIS",
+              "temps_engage": "00:24.27"
+            },
+            {
+              "couloir": 2,
+              "nom": "VAN CAENEGEM Tom",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "S.M MONTROUGE",
+              "temps_engage": "00:23.71"
+            },
+            {
+              "couloir": 3,
+              "nom": "MOUSSA Adam-Samy",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "HERITAGE 2024 PLONGEON ET NATATION CAO MGP",
+              "temps_engage": "00:23.36"
+            },
+            {
+              "couloir": 4,
+              "nom": "PHANTSULAYA George",
+              "annee": 2000,
+              "nation": "FRA",
+              "club": "VILLEJUIF NATATION",
+              "temps_engage": "00:22.75"
+            },
+            {
+              "couloir": 5,
+              "nom": "SAADE Jad",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "CN ASNIÈRES",
+              "temps_engage": "00:23.29"
+            },
+            {
+              "couloir": 6,
+              "nom": "CARNACINA Riccardo",
+              "annee": 2006,
+              "nation": "ITA",
+              "club": "HERITAGE 2024 PLONGEON ET NATATION CAO MGP",
+              "temps_engage": "00:23.65"
+            },
+            {
+              "couloir": 7,
+              "nom": "MICHEL Paul",
+              "annee": 2000,
+              "nation": "FRA",
+              "club": "CLUB DES NAGEURS DE PARIS",
+              "temps_engage": "00:24.26"
+            },
+            {
+              "couloir": 8,
+              "nom": "HUGONENQ Liam",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "CLUB DES NAGEURS DE PARIS",
+              "temps_engage": "00:24.33"
+            }
+          ]
+        },
+        {
+          "tour": "Finale C Benjamins 1",
+          "heure": "17h27",
+          "typ_id": "13",
+          "num": "87",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "NDOUR M.D.",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "MOUETTES DE PARIS",
+              "temps_engage": "00:25.58"
+            },
+            {
+              "couloir": 2,
+              "nom": "VANDEVELDE Alexis",
+              "annee": 2001,
+              "nation": "FRA",
+              "club": "SN VERSAILLES",
+              "temps_engage": "00:25.26"
+            },
+            {
+              "couloir": 3,
+              "nom": "LUXEREAU Charles",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "CLUB DES NAGEURS DE PARIS",
+              "temps_engage": "00:25.22"
+            },
+            {
+              "couloir": 4,
+              "nom": "NOBER Clement",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "CN EPINETTES PARIS",
+              "temps_engage": "00:25.00"
+            },
+            {
+              "couloir": 5,
+              "nom": "COTTIN Antoine",
+              "annee": 2005,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:25.21"
+            },
+            {
+              "couloir": 6,
+              "nom": "VILLARD Paul",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "SCUF PARIS",
+              "temps_engage": "00:25.24"
+            },
+            {
+              "couloir": 7,
+              "nom": "SAYAG Nathan",
+              "annee": 2004,
+              "nation": "FRA",
+              "club": "CS CLICHY 92",
+              "temps_engage": "00:25.29"
+            },
+            {
+              "couloir": 8,
+              "nom": "NAU Julien",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "NEPTUNE CLUB DE FRANCE",
+              "temps_engage": "00:25.59"
+            }
+          ]
+        },
+        {
+          "tour": "Finale B Benjamins 1&2",
+          "heure": "17h28",
+          "typ_id": "12",
+          "num": "88",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "MANY Matteo",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "S.M MONTROUGE",
+              "temps_engage": "00:24.93"
+            },
+            {
+              "couloir": 2,
+              "nom": "PARISOT Axel",
+              "annee": 2000,
+              "nation": "FRA",
+              "club": "CLUB DES NAGEURS DE PARIS",
+              "temps_engage": "00:24.69"
+            },
+            {
+              "couloir": 3,
+              "nom": "GAUTHIER Gabriel",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:24.51"
+            },
+            {
+              "couloir": 4,
+              "nom": "DENISE Andrea",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "SCUF PARIS",
+              "temps_engage": "00:24.35"
+            },
+            {
+              "couloir": 5,
+              "nom": "CLAIMAND Adrien",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:24.39"
+            },
+            {
+              "couloir": 6,
+              "nom": "CLEMENT Bastien",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "S.M MONTROUGE",
+              "temps_engage": "00:24.58"
+            },
+            {
+              "couloir": 7,
+              "nom": "GIBILARO Clovis",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:24.87"
+            },
+            {
+              "couloir": 8,
+              "nom": "VELASCO-GUTIERREZ L.",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:24.95"
+            }
+          ]
+        },
+        {
+          "tour": "Finale A Benjamins 1&2",
+          "heure": "17h29",
+          "typ_id": "11",
+          "num": "89",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "BENELHADJ Tom",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "CLUB DES NAGEURS DE PARIS",
+              "temps_engage": "00:24.27"
+            },
+            {
+              "couloir": 2,
+              "nom": "VAN CAENEGEM Tom",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "S.M MONTROUGE",
+              "temps_engage": "00:23.71"
+            },
+            {
+              "couloir": 3,
+              "nom": "MOUSSA Adam-Samy",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "HERITAGE 2024 PLONGEON ET NATATION CAO MGP",
+              "temps_engage": "00:23.36"
+            },
+            {
+              "couloir": 4,
+              "nom": "PHANTSULAYA George",
+              "annee": 2000,
+              "nation": "FRA",
+              "club": "VILLEJUIF NATATION",
+              "temps_engage": "00:22.75"
+            },
+            {
+              "couloir": 5,
+              "nom": "SAADE Jad",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "CN ASNIÈRES",
+              "temps_engage": "00:23.29"
+            },
+            {
+              "couloir": 6,
+              "nom": "CARNACINA Riccardo",
+              "annee": 2006,
+              "nation": "ITA",
+              "club": "HERITAGE 2024 PLONGEON ET NATATION CAO MGP",
+              "temps_engage": "00:23.65"
+            },
+            {
+              "couloir": 7,
+              "nom": "MICHEL Paul",
+              "annee": 2000,
+              "nation": "FRA",
+              "club": "CLUB DES NAGEURS DE PARIS",
+              "temps_engage": "00:24.26"
+            },
+            {
+              "couloir": 8,
+              "nom": "HUGONENQ Liam",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "CLUB DES NAGEURS DE PARIS",
+              "temps_engage": "00:24.33"
+            }
+          ]
+        },
+        {
+          "tour": "Finale D Juniors 1",
+          "heure": "17h32",
+          "typ_id": "14",
+          "num": "90",
+          "lineup": []
+        },
+        {
+          "tour": "Finale C",
+          "heure": "17h33",
+          "typ_id": "13",
+          "num": "91",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "NDOUR M.D.",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "MOUETTES DE PARIS",
+              "temps_engage": "00:25.58"
+            },
+            {
+              "couloir": 2,
+              "nom": "VANDEVELDE Alexis",
+              "annee": 2001,
+              "nation": "FRA",
+              "club": "SN VERSAILLES",
+              "temps_engage": "00:25.26"
+            },
+            {
+              "couloir": 3,
+              "nom": "LUXEREAU Charles",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "CLUB DES NAGEURS DE PARIS",
+              "temps_engage": "00:25.22"
+            },
+            {
+              "couloir": 4,
+              "nom": "NOBER Clement",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "CN EPINETTES PARIS",
+              "temps_engage": "00:25.00"
+            },
+            {
+              "couloir": 5,
+              "nom": "COTTIN Antoine",
+              "annee": 2005,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:25.21"
+            },
+            {
+              "couloir": 6,
+              "nom": "VILLARD Paul",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "SCUF PARIS",
+              "temps_engage": "00:25.24"
+            },
+            {
+              "couloir": 7,
+              "nom": "SAYAG Nathan",
+              "annee": 2004,
+              "nation": "FRA",
+              "club": "CS CLICHY 92",
+              "temps_engage": "00:25.29"
+            },
+            {
+              "couloir": 8,
+              "nom": "NAU Julien",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "NEPTUNE CLUB DE FRANCE",
+              "temps_engage": "00:25.59"
+            }
+          ]
+        },
+        {
+          "tour": "Finale B",
+          "heure": "17h34",
+          "typ_id": "12",
+          "num": "92",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "MANY Matteo",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "S.M MONTROUGE",
+              "temps_engage": "00:24.93"
+            },
+            {
+              "couloir": 2,
+              "nom": "PARISOT Axel",
+              "annee": 2000,
+              "nation": "FRA",
+              "club": "CLUB DES NAGEURS DE PARIS",
+              "temps_engage": "00:24.69"
+            },
+            {
+              "couloir": 3,
+              "nom": "GAUTHIER Gabriel",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:24.51"
+            },
+            {
+              "couloir": 4,
+              "nom": "DENISE Andrea",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "SCUF PARIS",
+              "temps_engage": "00:24.35"
+            },
+            {
+              "couloir": 5,
+              "nom": "CLAIMAND Adrien",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:24.39"
+            },
+            {
+              "couloir": 6,
+              "nom": "CLEMENT Bastien",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "S.M MONTROUGE",
+              "temps_engage": "00:24.58"
+            },
+            {
+              "couloir": 7,
+              "nom": "GIBILARO Clovis",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:24.87"
+            },
+            {
+              "couloir": 8,
+              "nom": "VELASCO-GUTIERREZ L.",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:24.95"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "83",
+      "distance": 200,
+      "nage": "Papillon",
+      "sexe": "M",
+      "label": "200 Papillon Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "11h10",
+          "typ_id": "60",
+          "num": "37",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "11",
+      "distance": 50,
+      "nage": "Dos",
+      "sexe": "F",
+      "label": "50 Dos Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "11h20",
+          "typ_id": "60",
+          "num": "38",
+          "lineup": null
+        },
+        {
+          "tour": "Finale A",
+          "heure": "15h47",
+          "typ_id": "11",
+          "num": "70",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "DE LION Margaux",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "SCUF PARIS",
+              "temps_engage": "00:32.39"
+            },
+            {
+              "couloir": 2,
+              "nom": "DJOUHRI Anae",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "MOUETTES DE PARIS",
+              "temps_engage": "00:31.56"
+            },
+            {
+              "couloir": 3,
+              "nom": "LABRIDY Léna",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "MOUETTES DE PARIS",
+              "temps_engage": "00:29.66"
+            },
+            {
+              "couloir": 4,
+              "nom": "BOUCHE DUDOUS Lilou",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "HERITAGE 2024 PLONGEON ET NATATION CAO MGP",
+              "temps_engage": "00:28.76"
+            },
+            {
+              "couloir": 5,
+              "nom": "MEUTER Adélaïde",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "HERITAGE 2024 PLONGEON ET NATATION CAO MGP",
+              "temps_engage": "00:29.48"
+            },
+            {
+              "couloir": 6,
+              "nom": "HAUPTMANN Franziska",
+              "annee": 2001,
+              "nation": "FRA",
+              "club": "CLUB DES NAGEURS DE PARIS",
+              "temps_engage": "00:30.88"
+            },
+            {
+              "couloir": 7,
+              "nom": "DELATTE Marie",
+              "annee": 2005,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:32.22"
+            },
+            {
+              "couloir": 8,
+              "nom": "PICH Marie",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:32.72"
+            }
+          ]
+        },
+        {
+          "tour": "Finale C Benjamins 1",
+          "heure": "15h49",
+          "typ_id": "13",
+          "num": "71",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "ANCEL Lucille",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "CLUB NAUTIQUE DOMREMY 13",
+              "temps_engage": "00:35.24"
+            },
+            {
+              "couloir": 2,
+              "nom": "FLORES Andrea",
+              "annee": 2000,
+              "nation": "MEX",
+              "club": "CLUB DES NAGEURS DE PARIS",
+              "temps_engage": "00:34.61"
+            },
+            {
+              "couloir": 3,
+              "nom": "LARBI-AÏSSA Amira",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "CN ASNIÈRES",
+              "temps_engage": "00:34.19"
+            },
+            {
+              "couloir": 4,
+              "nom": "BOOKLAGE-LETELLIER A.",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "SCUF PARIS",
+              "temps_engage": "00:34.10"
+            },
+            {
+              "couloir": 5,
+              "nom": "LALANDE Adele",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "SCUF PARIS",
+              "temps_engage": "00:34.17"
+            },
+            {
+              "couloir": 6,
+              "nom": "ARAB Safia",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "SCUF PARIS",
+              "temps_engage": "00:34.39"
+            },
+            {
+              "couloir": 7,
+              "nom": "BRYAN Charlotte",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "SCUF PARIS",
+              "temps_engage": "00:34.66"
+            },
+            {
+              "couloir": 8,
+              "nom": "NACEIRI Amel",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "SCUF PARIS",
+              "temps_engage": "00:35.28"
+            }
+          ]
+        },
+        {
+          "tour": "Finale B Benjamins 1&2",
+          "heure": "15h50",
+          "typ_id": "12",
+          "num": "72",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "BOTTINGA Rosalie",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "SCUF PARIS",
+              "temps_engage": "00:33.79"
+            },
+            {
+              "couloir": 2,
+              "nom": "VAN CAENEGEM Rose",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "S.M MONTROUGE",
+              "temps_engage": "00:33.55"
+            },
+            {
+              "couloir": 3,
+              "nom": "GOMBAULT Chiara",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "CS CLICHY 92",
+              "temps_engage": "00:33.29"
+            },
+            {
+              "couloir": 4,
+              "nom": "QIAO Olivia",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:32.85"
+            },
+            {
+              "couloir": 5,
+              "nom": "COUDERT Lucile",
+              "annee": 2004,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:32.88"
+            },
+            {
+              "couloir": 6,
+              "nom": "ZATOUT Ines",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "CN ASNIÈRES",
+              "temps_engage": "00:33.44"
+            },
+            {
+              "couloir": 7,
+              "nom": "SABOURAULT Garance",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "CLUB DES NAGEURS DE PARIS",
+              "temps_engage": "00:33.71"
+            },
+            {
+              "couloir": 8,
+              "nom": "ZIMMERMANN Maia",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:33.83"
+            }
+          ]
+        },
+        {
+          "tour": "Finale A Benjamins 1&2",
+          "heure": "15h52",
+          "typ_id": "11",
+          "num": "73",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "DE LION Margaux",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "SCUF PARIS",
+              "temps_engage": "00:32.39"
+            },
+            {
+              "couloir": 2,
+              "nom": "DJOUHRI Anae",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "MOUETTES DE PARIS",
+              "temps_engage": "00:31.56"
+            },
+            {
+              "couloir": 3,
+              "nom": "LABRIDY Léna",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "MOUETTES DE PARIS",
+              "temps_engage": "00:29.66"
+            },
+            {
+              "couloir": 4,
+              "nom": "BOUCHE DUDOUS Lilou",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "HERITAGE 2024 PLONGEON ET NATATION CAO MGP",
+              "temps_engage": "00:28.76"
+            },
+            {
+              "couloir": 5,
+              "nom": "MEUTER Adélaïde",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "HERITAGE 2024 PLONGEON ET NATATION CAO MGP",
+              "temps_engage": "00:29.48"
+            },
+            {
+              "couloir": 6,
+              "nom": "HAUPTMANN Franziska",
+              "annee": 2001,
+              "nation": "FRA",
+              "club": "CLUB DES NAGEURS DE PARIS",
+              "temps_engage": "00:30.88"
+            },
+            {
+              "couloir": 7,
+              "nom": "DELATTE Marie",
+              "annee": 2005,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:32.22"
+            },
+            {
+              "couloir": 8,
+              "nom": "PICH Marie",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:32.72"
+            }
+          ]
+        },
+        {
+          "tour": "Finale D Juniors 1",
+          "heure": "15h54",
+          "typ_id": "14",
+          "num": "74",
+          "lineup": []
+        },
+        {
+          "tour": "Finale C",
+          "heure": "15h55",
+          "typ_id": "13",
+          "num": "75",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "ANCEL Lucille",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "CLUB NAUTIQUE DOMREMY 13",
+              "temps_engage": "00:35.24"
+            },
+            {
+              "couloir": 2,
+              "nom": "FLORES Andrea",
+              "annee": 2000,
+              "nation": "MEX",
+              "club": "CLUB DES NAGEURS DE PARIS",
+              "temps_engage": "00:34.61"
+            },
+            {
+              "couloir": 3,
+              "nom": "LARBI-AÏSSA Amira",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "CN ASNIÈRES",
+              "temps_engage": "00:34.19"
+            },
+            {
+              "couloir": 4,
+              "nom": "BOOKLAGE-LETELLIER A.",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "SCUF PARIS",
+              "temps_engage": "00:34.10"
+            },
+            {
+              "couloir": 5,
+              "nom": "LALANDE Adele",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "SCUF PARIS",
+              "temps_engage": "00:34.17"
+            },
+            {
+              "couloir": 6,
+              "nom": "ARAB Safia",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "SCUF PARIS",
+              "temps_engage": "00:34.39"
+            },
+            {
+              "couloir": 7,
+              "nom": "BRYAN Charlotte",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "SCUF PARIS",
+              "temps_engage": "00:34.66"
+            },
+            {
+              "couloir": 8,
+              "nom": "NACEIRI Amel",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "SCUF PARIS",
+              "temps_engage": "00:35.28"
+            }
+          ]
+        },
+        {
+          "tour": "Finale B",
+          "heure": "15h56",
+          "typ_id": "12",
+          "num": "76",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "BOTTINGA Rosalie",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "SCUF PARIS",
+              "temps_engage": "00:33.79"
+            },
+            {
+              "couloir": 2,
+              "nom": "VAN CAENEGEM Rose",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "S.M MONTROUGE",
+              "temps_engage": "00:33.55"
+            },
+            {
+              "couloir": 3,
+              "nom": "GOMBAULT Chiara",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "CS CLICHY 92",
+              "temps_engage": "00:33.29"
+            },
+            {
+              "couloir": 4,
+              "nom": "QIAO Olivia",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:32.85"
+            },
+            {
+              "couloir": 5,
+              "nom": "COUDERT Lucile",
+              "annee": 2004,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:32.88"
+            },
+            {
+              "couloir": 6,
+              "nom": "ZATOUT Ines",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "CN ASNIÈRES",
+              "temps_engage": "00:33.44"
+            },
+            {
+              "couloir": 7,
+              "nom": "SABOURAULT Garance",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "CLUB DES NAGEURS DE PARIS",
+              "temps_engage": "00:33.71"
+            },
+            {
+              "couloir": 8,
+              "nom": "ZIMMERMANN Maia",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:33.83"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "71",
+      "distance": 50,
+      "nage": "Brasse",
+      "sexe": "M",
+      "label": "50 Brasse Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "11h31",
+          "typ_id": "60",
+          "num": "39",
+          "lineup": null
+        },
+        {
+          "tour": "Finale A",
+          "heure": "15h57",
+          "typ_id": "11",
+          "num": "77",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "DALLE Thibault",
+              "annee": 1997,
+              "nation": "FRA",
+              "club": "MOUETTES DE PARIS",
+              "temps_engage": "00:30.23"
+            },
+            {
+              "couloir": 2,
+              "nom": "BOUTRY Théo",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "VILLEJUIF NATATION",
+              "temps_engage": "00:29.77"
+            },
+            {
+              "couloir": 3,
+              "nom": "LATRECHE Adam",
+              "annee": 2001,
+              "nation": "FRA",
+              "club": "ACS CORMEILLES",
+              "temps_engage": "00:29.22"
+            },
+            {
+              "couloir": 4,
+              "nom": "LE DANTEC Julien",
+              "annee": 2000,
+              "nation": "FRA",
+              "club": "NEPTUNE CLUB DE FRANCE",
+              "temps_engage": "00:28.83"
+            },
+            {
+              "couloir": 5,
+              "nom": "DUCAMP Yanis",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "ETOILES 92",
+              "temps_engage": "00:28.90"
+            },
+            {
+              "couloir": 6,
+              "nom": "BENBARA Moncef",
+              "annee": 2006,
+              "nation": "ALG",
+              "club": "VILLEJUIF NATATION",
+              "temps_engage": "00:29.25"
+            },
+            {
+              "couloir": 7,
+              "nom": "PHANTSULAYA George",
+              "annee": 2000,
+              "nation": "FRA",
+              "club": "VILLEJUIF NATATION",
+              "temps_engage": "00:30.07"
+            },
+            {
+              "couloir": 8,
+              "nom": "CLAIMAND Adrien",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:30.35"
+            }
+          ]
+        },
+        {
+          "tour": "Finale C Benjamins 1",
+          "heure": "16h34",
+          "typ_id": "13",
+          "num": "78",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "D'ARMAGNAC DE CASTANET S.",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "NEPTUNE CLUB DE FRANCE",
+              "temps_engage": "00:32.98"
+            },
+            {
+              "couloir": 2,
+              "nom": "LAGARDE Adrien",
+              "annee": 2002,
+              "nation": "FRA",
+              "club": "NEPTUNE CLUB DE FRANCE",
+              "temps_engage": "00:32.62"
+            },
+            {
+              "couloir": 3,
+              "nom": "REBIERE NICOLAS M.",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "CLUB DES NAGEURS DE PARIS",
+              "temps_engage": "00:32.26"
+            },
+            {
+              "couloir": 4,
+              "nom": "GAUTHIER Roman",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:31.71"
+            },
+            {
+              "couloir": 5,
+              "nom": "LE NOA Kaito",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "CLUB NAUTIQUE DOMREMY 13",
+              "temps_engage": "00:32.13"
+            },
+            {
+              "couloir": 6,
+              "nom": "CABARRUS Oscar",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "SCUF PARIS",
+              "temps_engage": "00:32.31"
+            },
+            {
+              "couloir": 7,
+              "nom": "GALTIER Hugo",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:32.75"
+            }
+          ]
+        },
+        {
+          "tour": "Finale B Benjamins 1&2",
+          "heure": "16h36",
+          "typ_id": "12",
+          "num": "79",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "HEUILLET Ewan",
+              "annee": 2005,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:31.51"
+            },
+            {
+              "couloir": 2,
+              "nom": "GAUTHIER Gabriel",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:30.81"
+            },
+            {
+              "couloir": 3,
+              "nom": "BRAIZE Neo",
+              "annee": 2004,
+              "nation": "FRA",
+              "club": "VILLEJUIF NATATION",
+              "temps_engage": "00:30.68"
+            },
+            {
+              "couloir": 4,
+              "nom": "DENISE Andrea",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "SCUF PARIS",
+              "temps_engage": "00:30.46"
+            },
+            {
+              "couloir": 5,
+              "nom": "MARRY Léo",
+              "annee": 2001,
+              "nation": "FRA",
+              "club": "MOUETTES DE PARIS",
+              "temps_engage": "00:30.63"
+            },
+            {
+              "couloir": 6,
+              "nom": "RAZAFITSIATOSIKA T.C.",
+              "annee": 1997,
+              "nation": "MAD",
+              "club": "CLUB DES NAGEURS DE PARIS",
+              "temps_engage": "00:30.71"
+            },
+            {
+              "couloir": 7,
+              "nom": "DELECOLLE Camille",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "NEPTUNE CLUB DE FRANCE",
+              "temps_engage": "00:31.18"
+            },
+            {
+              "couloir": 8,
+              "nom": "SAADE Jad",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "CN ASNIÈRES",
+              "temps_engage": "00:31.59"
+            }
+          ]
+        },
+        {
+          "tour": "Finale A Benjamins 1&2",
+          "heure": "16h37",
+          "typ_id": "11",
+          "num": "80",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "DALLE Thibault",
+              "annee": 1997,
+              "nation": "FRA",
+              "club": "MOUETTES DE PARIS",
+              "temps_engage": "00:30.23"
+            },
+            {
+              "couloir": 2,
+              "nom": "BOUTRY Théo",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "VILLEJUIF NATATION",
+              "temps_engage": "00:29.77"
+            },
+            {
+              "couloir": 3,
+              "nom": "LATRECHE Adam",
+              "annee": 2001,
+              "nation": "FRA",
+              "club": "ACS CORMEILLES",
+              "temps_engage": "00:29.22"
+            },
+            {
+              "couloir": 4,
+              "nom": "LE DANTEC Julien",
+              "annee": 2000,
+              "nation": "FRA",
+              "club": "NEPTUNE CLUB DE FRANCE",
+              "temps_engage": "00:28.83"
+            },
+            {
+              "couloir": 5,
+              "nom": "DUCAMP Yanis",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "ETOILES 92",
+              "temps_engage": "00:28.90"
+            },
+            {
+              "couloir": 6,
+              "nom": "BENBARA Moncef",
+              "annee": 2006,
+              "nation": "ALG",
+              "club": "VILLEJUIF NATATION",
+              "temps_engage": "00:29.25"
+            },
+            {
+              "couloir": 7,
+              "nom": "PHANTSULAYA George",
+              "annee": 2000,
+              "nation": "FRA",
+              "club": "VILLEJUIF NATATION",
+              "temps_engage": "00:30.07"
+            },
+            {
+              "couloir": 8,
+              "nom": "CLAIMAND Adrien",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:30.35"
+            }
+          ]
+        },
+        {
+          "tour": "Finale D Juniors 1",
+          "heure": "16h39",
+          "typ_id": "14",
+          "num": "81",
+          "lineup": []
+        },
+        {
+          "tour": "Finale C",
+          "heure": "16h40",
+          "typ_id": "13",
+          "num": "82",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "D'ARMAGNAC DE CASTANET S.",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "NEPTUNE CLUB DE FRANCE",
+              "temps_engage": "00:32.98"
+            },
+            {
+              "couloir": 2,
+              "nom": "LAGARDE Adrien",
+              "annee": 2002,
+              "nation": "FRA",
+              "club": "NEPTUNE CLUB DE FRANCE",
+              "temps_engage": "00:32.62"
+            },
+            {
+              "couloir": 3,
+              "nom": "REBIERE NICOLAS M.",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "CLUB DES NAGEURS DE PARIS",
+              "temps_engage": "00:32.26"
+            },
+            {
+              "couloir": 4,
+              "nom": "GAUTHIER Roman",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:31.71"
+            },
+            {
+              "couloir": 5,
+              "nom": "LE NOA Kaito",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "CLUB NAUTIQUE DOMREMY 13",
+              "temps_engage": "00:32.13"
+            },
+            {
+              "couloir": 6,
+              "nom": "CABARRUS Oscar",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "SCUF PARIS",
+              "temps_engage": "00:32.31"
+            },
+            {
+              "couloir": 7,
+              "nom": "GALTIER Hugo",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:32.75"
+            }
+          ]
+        },
+        {
+          "tour": "Finale B",
+          "heure": "16h41",
+          "typ_id": "12",
+          "num": "83",
+          "lineup": [
+            {
+              "couloir": 1,
+              "nom": "HEUILLET Ewan",
+              "annee": 2005,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:31.51"
+            },
+            {
+              "couloir": 2,
+              "nom": "GAUTHIER Gabriel",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "AC BOULOGNE-BILLANCOURT",
+              "temps_engage": "00:30.81"
+            },
+            {
+              "couloir": 3,
+              "nom": "BRAIZE Neo",
+              "annee": 2004,
+              "nation": "FRA",
+              "club": "VILLEJUIF NATATION",
+              "temps_engage": "00:30.68"
+            },
+            {
+              "couloir": 4,
+              "nom": "DENISE Andrea",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "SCUF PARIS",
+              "temps_engage": "00:30.46"
+            },
+            {
+              "couloir": 5,
+              "nom": "MARRY Léo",
+              "annee": 2001,
+              "nation": "FRA",
+              "club": "MOUETTES DE PARIS",
+              "temps_engage": "00:30.63"
+            },
+            {
+              "couloir": 6,
+              "nom": "RAZAFITSIATOSIKA T.C.",
+              "annee": 1997,
+              "nation": "MAD",
+              "club": "CLUB DES NAGEURS DE PARIS",
+              "temps_engage": "00:30.71"
+            },
+            {
+              "couloir": 7,
+              "nom": "DELECOLLE Camille",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "NEPTUNE CLUB DE FRANCE",
+              "temps_engage": "00:31.18"
+            },
+            {
+              "couloir": 8,
+              "nom": "SAADE Jad",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "CN ASNIÈRES",
+              "temps_engage": "00:31.59"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "3",
+      "distance": 200,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "200 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "11h48",
+          "typ_id": "60",
+          "num": "40",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "91",
+      "distance": 200,
+      "nage": "4 Nages",
+      "sexe": "M",
+      "label": "200 4 Nages Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "12h26",
+          "typ_id": "60",
+          "num": "41",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "42",
+      "distance": 400,
+      "nage": "4 Nages",
+      "sexe": "F",
+      "label": "400 4 Nages Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "13h00",
+          "typ_id": "60",
+          "num": "42",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "32",
+      "distance": 100,
+      "nage": "Papillon",
+      "sexe": "F",
+      "label": "100 Papillon Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "15h30",
+          "typ_id": "60",
+          "num": "43",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "62",
+      "distance": 100,
+      "nage": "Dos",
+      "sexe": "M",
+      "label": "100 Dos Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "15h41",
+          "typ_id": "60",
+          "num": "44",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "22",
+      "distance": 100,
+      "nage": "Brasse",
+      "sexe": "F",
+      "label": "100 Brasse Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "16h03",
+          "typ_id": "60",
+          "num": "45",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "52",
+      "distance": 100,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "100 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "16h20",
+          "typ_id": "60",
+          "num": "46",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "2",
+      "distance": 100,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "100 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "17h22",
+          "typ_id": "60",
+          "num": "47",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "72",
+      "distance": 100,
+      "nage": "Brasse",
+      "sexe": "M",
+      "label": "100 Brasse Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "17h47",
+          "typ_id": "60",
+          "num": "48",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "12",
+      "distance": 100,
+      "nage": "Dos",
+      "sexe": "F",
+      "label": "100 Dos Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "18h07",
+          "typ_id": "60",
+          "num": "49",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "82",
+      "distance": 100,
+      "nage": "Papillon",
+      "sexe": "M",
+      "label": "100 Papillon Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "18h22",
+          "typ_id": "60",
+          "num": "50",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "4",
+      "distance": 400,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "400 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h00",
+          "typ_id": "60",
+          "num": "51",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "81",
+      "distance": 50,
+      "nage": "Papillon",
+      "sexe": "M",
+      "label": "50 Papillon Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h18",
+          "typ_id": "60",
+          "num": "52",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "13",
+      "distance": 200,
+      "nage": "Dos",
+      "sexe": "F",
+      "label": "200 Dos Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h38",
+          "typ_id": "60",
+          "num": "53",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "73",
+      "distance": 200,
+      "nage": "Brasse",
+      "sexe": "M",
+      "label": "200 Brasse Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h45",
+          "typ_id": "60",
+          "num": "54",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "1",
+      "distance": 50,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "50 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h53",
+          "typ_id": "60",
+          "num": "55",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "33",
+      "distance": 200,
+      "nage": "Papillon",
+      "sexe": "F",
+      "label": "200 Papillon Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h26",
+          "typ_id": "60",
+          "num": "56",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "61",
+      "distance": 50,
+      "nage": "Dos",
+      "sexe": "M",
+      "label": "50 Dos Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h29",
+          "typ_id": "60",
+          "num": "57",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "21",
+      "distance": 50,
+      "nage": "Brasse",
+      "sexe": "F",
+      "label": "50 Brasse Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h44",
+          "typ_id": "60",
+          "num": "58",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "53",
+      "distance": 200,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "200 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h55",
+          "typ_id": "60",
+          "num": "59",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "41",
+      "distance": 200,
+      "nage": "4 Nages",
+      "sexe": "F",
+      "label": "200 4 Nages Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "11h29",
+          "typ_id": "60",
+          "num": "60",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "92",
+      "distance": 400,
+      "nage": "4 Nages",
+      "sexe": "M",
+      "label": "400 4 Nages Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "11h44",
+          "typ_id": "60",
+          "num": "61",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "5",
+      "distance": 800,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "800 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Premières séries",
+          "heure": "15h25",
+          "typ_id": "62",
+          "num": "69",
+          "lineup": null
+        },
+        {
+          "tour": "Série finale",
+          "heure": "16h43",
+          "typ_id": "61",
+          "num": "84",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "56",
+      "distance": 1500,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "1500 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Série finale",
+          "heure": "16h55",
+          "typ_id": "61",
+          "num": "85",
+          "lineup": null
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-17T22:56:08.793484+00:00"
+}
