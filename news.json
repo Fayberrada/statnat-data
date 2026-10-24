@@ -1,0 +1,71 @@
+{
+  "generated_at": "2026-10-24T22:59:17.839302+00:00",
+  "items": [
+    {
+      "id": "avenir_affiche",
+      "kind": "agenda",
+      "tag": "L'affiche",
+      "title": "MEETING REGIONAL CHOLETAIS",
+      "body": "Le gros plateau à venir : 2352 engagements à Cholet (30 octobre).",
+      "date": "2026-10-30",
+      "competition_id": "94673"
+    },
+    {
+      "id": "avenir_prochaine",
+      "kind": "agenda",
+      "tag": "À venir",
+      "title": "12e Meeting de Natation CNF Fougères Agglomération — 23 octobre",
+      "body": "Prochain rendez-vous du périmètre à Fougères · 361 nageurs attendus. 24 compétitions à venir au total.",
+      "date": "2026-10-23",
+      "competition_id": "93974"
+    },
+    {
+      "id": "ext_23bf44beffd9",
+      "kind": "actu",
+      "tag": "Actu natation",
+      "title": "PARIS : Natation - Les équipes de France prêtes à enflammer les Championnats d'Europe 2026",
+      "body": "Presse Agence · 12 oct.",
+      "date": "2026-10-12",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObTJXZ2RoNGY3UEdNVzVNMWpDTmxvWHV6Tkt0MU45Ti1HTEdIbHJmNmwyNG5kWnNZM2s2LUtwT0x4MnhKZTNfckNCMzJ4b2dGWTN5V2hUa0JfUkIzeUtqQU5XblBqMl9rTXNYNl9CWGQ2UXlmcmxUbEVXMTlLRThsWWdiZjVHR3B3R0ZUR3FQNlJEZG1qVFprRExNU3c1NUVMMGtVbDFNVFJFQ1psNWFB?oc=5",
+      "source": "Presse Agence"
+    },
+    {
+      "id": "resultats_recents",
+      "kind": "resultats",
+      "tag": "Résultats",
+      "title": "28e Meeting de la Vallée — résultats en ligne",
+      "body": "Les classements de Chevreuse (11 octobre) sont disponibles : séries et finales, avec tes favoris repérés.",
+      "date": "2026-10-11",
+      "competition_id": "94554"
+    },
+    {
+      "id": "perf_du_moment",
+      "kind": "perf",
+      "tag": "Perf en vue",
+      "title": "DEMACON Adele — 04:16.79 (1256 pts)",
+      "body": "Belle pointe sur 400 Nage Libre Dames à Chevreuse : 1256 points FFN.",
+      "date": "2026-10-11",
+      "competition_id": "94554"
+    },
+    {
+      "id": "ext_cbb1eb9d3fcd",
+      "kind": "actu",
+      "tag": "Actu natation",
+      "title": "Championnats d’Europe de natation : les nageurs français décrochent l'argent sur le relais 4x200 m",
+      "body": "franceinfo · 8 oct.",
+      "date": "2026-10-08",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOVFhLSWtkZkxlbjNuZkprMDlDbUlPOFY1TmJZN3ZKMk9hYlYzbzVyRkQyZXVTU2s1bTREdnpQSGxRbXFrM2NjUkRjMEhoWDdTUWE2WjdWOGdzdEdSQ3pMakVYdldKdmpseWFxclJYTDdES3VGMm5aODY5b0VIY09iTzJfYmhfOGhoVHJWSldyeUFoUGtCV09Ud0o4bkpLd0xoek1jNWY5MThaeWR0Ump2T0ZjOUZVb2VqLW9Qa0xtb1JvNDJWTUNUZTY2WEFXbGxLMUsxU2NxU3ZOaGN4c0RwN1ExV25yMFRhRTItUWZjcWJxUGJ2RWhZX29MaEJReFV1ZkRSeXl4T2ltcDdhSlEwRG5ESQ?oc=5",
+      "source": "franceinfo"
+    },
+    {
+      "id": "ext_90eec825d134",
+      "kind": "actu",
+      "tag": "Yvelines",
+      "title": "Piscine Allende fermée : natation annulée à Plaisir",
+      "body": "InfosYvelines · 7 oct.",
+      "date": "2026-10-07",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUWh2QVdwUlM1SzF1YXN6bkJ5RTlpYnZzZjVxTHhJQ0pMcEQ2TE95b3hYT05nZl9qOWgzZGI3RkdoaG8xVkNMYmM1dGM3WjVxcE4xX0p3el9SOFRKMUd3MXlDU0YwM1MxQUJ2M3VUMzQyaDltRDdHbmZnM25IZ1hUNWp3RWJITEJqcVNzYXFGQ1BYczhyRElPTUlEbmE?oc=5",
+      "source": "InfosYvelines"
+    }
+  ]
+}
