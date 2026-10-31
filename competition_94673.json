@@ -1,0 +1,2273 @@
+{
+  "competition": "94673",
+  "events": [
+    {
+      "epr_id": "40",
+      "distance": 100,
+      "nage": "4 Nages",
+      "sexe": "F",
+      "label": "100 4 Nages Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "08h30",
+          "typ_id": "60",
+          "num": "0",
+          "lineup": null
+        },
+        {
+          "tour": "Finale C Benjamins et avant",
+          "heure": "19h55",
+          "typ_id": "13",
+          "num": "20",
+          "lineup": []
+        },
+        {
+          "tour": "Finale B J2 et avant",
+          "heure": "20h02",
+          "typ_id": "12",
+          "num": "22",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A",
+          "heure": "20h10",
+          "typ_id": "11",
+          "num": "24",
+          "lineup": [
+            {
+              "couloir": 0,
+              "nom": "BEQ Noemie",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "LA ROCHE-SUR-YON NATATION",
+              "temps_engage": "01:13.03"
+            },
+            {
+              "couloir": 1,
+              "nom": "BAUR Lya",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "CHOLET NATATION",
+              "temps_engage": "01:12.78"
+            },
+            {
+              "couloir": 2,
+              "nom": "BECHY Lilou",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "CERCLE NAG. BOCAGE BRESSUIRAIS",
+              "temps_engage": "01:12.03"
+            },
+            {
+              "couloir": 3,
+              "nom": "AUGEREAU Lucy",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "C REDON NATATION",
+              "temps_engage": "01:11.26"
+            },
+            {
+              "couloir": 4,
+              "nom": "LEVEL Inès",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "LA ROCHE-SUR-YON NATATION",
+              "temps_engage": "01:09.96"
+            },
+            {
+              "couloir": 5,
+              "nom": "VAUTRIN Agathe",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "NANTES NATATION",
+              "temps_engage": "01:10.22"
+            },
+            {
+              "couloir": 6,
+              "nom": "LANDON Romane",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "CHOLET NATATION",
+              "temps_engage": "01:11.83"
+            },
+            {
+              "couloir": 7,
+              "nom": "LAOT LECLERC L.R.",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "CN BREST",
+              "temps_engage": "01:12.60"
+            },
+            {
+              "couloir": 8,
+              "nom": "GUYONNAUD Maeline",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "ASSOCIATION SPORTIVE POITIERS 86",
+              "temps_engage": "01:12.78"
+            },
+            {
+              "couloir": 9,
+              "nom": "ETIENNE Mathilde",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "ANGERS NATATION",
+              "temps_engage": "01:13.05"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "90",
+      "distance": 100,
+      "nage": "4 Nages",
+      "sexe": "M",
+      "label": "100 4 Nages Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h04",
+          "typ_id": "60",
+          "num": "1",
+          "lineup": null
+        },
+        {
+          "tour": "Finale C Benjamins et avant",
+          "heure": "19h58",
+          "typ_id": "13",
+          "num": "21",
+          "lineup": []
+        },
+        {
+          "tour": "Finale B J2 et avant",
+          "heure": "20h06",
+          "typ_id": "12",
+          "num": "23",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A",
+          "heure": "20h16",
+          "typ_id": "11",
+          "num": "25",
+          "lineup": [
+            {
+              "couloir": 0,
+              "nom": "LIBEAUT Nolan",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "CHOLET NATATION",
+              "temps_engage": "01:03.14"
+            },
+            {
+              "couloir": 1,
+              "nom": "BRAUD Isidore",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "NANTES NATATION",
+              "temps_engage": "01:02.62"
+            },
+            {
+              "couloir": 2,
+              "nom": "LELONG BRAVA Jules",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "LA ROCHE-SUR-YON NATATION",
+              "temps_engage": "01:01.85"
+            },
+            {
+              "couloir": 3,
+              "nom": "POTTIER Estin",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "LA NAT'SUZERAINE",
+              "temps_engage": "01:00.59"
+            },
+            {
+              "couloir": 4,
+              "nom": "FILAQUIER Abel",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "ANCENIS COURSE NATATION",
+              "temps_engage": "01:00.01"
+            },
+            {
+              "couloir": 5,
+              "nom": "BOISE Amaury",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "CN LE PLESSIS-ROBINSON",
+              "temps_engage": "01:00.48"
+            },
+            {
+              "couloir": 6,
+              "nom": "VAN CAENEGEM Tom",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "S.M MONTROUGE",
+              "temps_engage": "01:01.60"
+            },
+            {
+              "couloir": 7,
+              "nom": "MATTIUSSI Erling",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "CN LE PLESSIS-ROBINSON",
+              "temps_engage": "01:02.38"
+            },
+            {
+              "couloir": 8,
+              "nom": "EDET-SABBAH Sami",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "AS CARQUEFOU",
+              "temps_engage": "01:02.85"
+            },
+            {
+              "couloir": 9,
+              "nom": "LATOUR Gabriel",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "DAUPHINS ELORN LANDERNEAU",
+              "temps_engage": "01:03.18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "33",
+      "distance": 200,
+      "nage": "Papillon",
+      "sexe": "F",
+      "label": "200 Papillon Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h39",
+          "typ_id": "60",
+          "num": "2",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "83",
+      "distance": 200,
+      "nage": "Papillon",
+      "sexe": "M",
+      "label": "200 Papillon Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h48",
+          "typ_id": "60",
+          "num": "3",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "12",
+      "distance": 100,
+      "nage": "Dos",
+      "sexe": "F",
+      "label": "100 Dos Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h56",
+          "typ_id": "60",
+          "num": "4",
+          "lineup": null
+        },
+        {
+          "tour": "Finale C Benjamins et avant",
+          "heure": "20h22",
+          "typ_id": "13",
+          "num": "26",
+          "lineup": []
+        },
+        {
+          "tour": "Finale B J2 et avant",
+          "heure": "20h30",
+          "typ_id": "12",
+          "num": "28",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A",
+          "heure": "20h38",
+          "typ_id": "11",
+          "num": "30",
+          "lineup": [
+            {
+              "couloir": 0,
+              "nom": "RIVAL Livia",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "NANTES NATATION",
+              "temps_engage": "01:10.50"
+            },
+            {
+              "couloir": 1,
+              "nom": "BOURGEOIS MATEOS J.",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "LA ROCHE-SUR-YON NATATION",
+              "temps_engage": "01:09.85"
+            },
+            {
+              "couloir": 2,
+              "nom": "MELUSE Juliette",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "DAUPHINS ELORN LANDERNEAU",
+              "temps_engage": "01:09.06"
+            },
+            {
+              "couloir": 3,
+              "nom": "GIRAUDEAU Clara",
+              "annee": 2004,
+              "nation": "FRA",
+              "club": "NANTES NATATION",
+              "temps_engage": "01:07.56"
+            },
+            {
+              "couloir": 4,
+              "nom": "VAUTRIN Léonor",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "NANTES NATATION",
+              "temps_engage": "01:06.99"
+            },
+            {
+              "couloir": 5,
+              "nom": "LEVEL Inès",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "LA ROCHE-SUR-YON NATATION",
+              "temps_engage": "01:07.37"
+            },
+            {
+              "couloir": 6,
+              "nom": "BECHY Lilou",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "CERCLE NAG. BOCAGE BRESSUIRAIS",
+              "temps_engage": "01:08.67"
+            },
+            {
+              "couloir": 7,
+              "nom": "RICHARD-SABALIC A.",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "ANGERS NATATION",
+              "temps_engage": "01:09.09"
+            },
+            {
+              "couloir": 8,
+              "nom": "SAMBOU Emma",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "DAUPHINS ELORN LANDERNEAU",
+              "temps_engage": "01:10.23"
+            },
+            {
+              "couloir": 9,
+              "nom": "JONCOURT Candice",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "CN BREST",
+              "temps_engage": "01:11.71"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "62",
+      "distance": 100,
+      "nage": "Dos",
+      "sexe": "M",
+      "label": "100 Dos Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h17",
+          "typ_id": "60",
+          "num": "5",
+          "lineup": null
+        },
+        {
+          "tour": "Finale C Benjamins et avant",
+          "heure": "20h26",
+          "typ_id": "13",
+          "num": "27",
+          "lineup": []
+        },
+        {
+          "tour": "Finale B J2 et avant",
+          "heure": "20h34",
+          "typ_id": "12",
+          "num": "29",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A",
+          "heure": "20h44",
+          "typ_id": "11",
+          "num": "31",
+          "lineup": [
+            {
+              "couloir": 0,
+              "nom": "RAMBEAU-DURAND C.",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "AS CARQUEFOU",
+              "temps_engage": "01:04.44"
+            },
+            {
+              "couloir": 1,
+              "nom": "CLEMENT Bastien",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "S.M MONTROUGE",
+              "temps_engage": "01:03.15"
+            },
+            {
+              "couloir": 2,
+              "nom": "MATTIUSSI Erling",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "CN LE PLESSIS-ROBINSON",
+              "temps_engage": "01:01.45"
+            },
+            {
+              "couloir": 3,
+              "nom": "PERUFFO Elio",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "ANGERS NATATION",
+              "temps_engage": "00:59.63"
+            },
+            {
+              "couloir": 4,
+              "nom": "STRAVIUS Jérémy",
+              "annee": 1988,
+              "nation": "FRA",
+              "club": "AMIENS METROPOLE NAT.",
+              "temps_engage": "00:58.27"
+            },
+            {
+              "couloir": 5,
+              "nom": "TOURDES Alexis",
+              "annee": 1999,
+              "nation": "FRA",
+              "club": "CHOLET NATATION",
+              "temps_engage": "00:58.63"
+            },
+            {
+              "couloir": 6,
+              "nom": "LELONG BRAVA Jules",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "LA ROCHE-SUR-YON NATATION",
+              "temps_engage": "01:00.48"
+            },
+            {
+              "couloir": 7,
+              "nom": "CARDINEAU Jules",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "ASSOCIATION SPORTIVE POITIERS 86",
+              "temps_engage": "01:01.59"
+            },
+            {
+              "couloir": 8,
+              "nom": "BRETHOME Martin",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "LES SABLES D'OLONNE NATATION",
+              "temps_engage": "01:03.51"
+            },
+            {
+              "couloir": 9,
+              "nom": "POURCEAU Ruben",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "LA NAT'SUZERAINE",
+              "temps_engage": "01:05.84"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "3",
+      "distance": 200,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "200 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h42",
+          "typ_id": "60",
+          "num": "6",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "53",
+      "distance": 200,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "200 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "11h11",
+          "typ_id": "60",
+          "num": "7",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "22",
+      "distance": 100,
+      "nage": "Brasse",
+      "sexe": "F",
+      "label": "100 Brasse Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "11h47",
+          "typ_id": "60",
+          "num": "8",
+          "lineup": null
+        },
+        {
+          "tour": "Finale C Benjamins et avant",
+          "heure": "20h51",
+          "typ_id": "13",
+          "num": "32",
+          "lineup": []
+        },
+        {
+          "tour": "Finale B J2 et avant",
+          "heure": "20h58",
+          "typ_id": "12",
+          "num": "34",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A",
+          "heure": "21h06",
+          "typ_id": "11",
+          "num": "36",
+          "lineup": [
+            {
+              "couloir": 0,
+              "nom": "GUYONNAUD Maeline",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "ASSOCIATION SPORTIVE POITIERS 86",
+              "temps_engage": "01:20.74"
+            },
+            {
+              "couloir": 1,
+              "nom": "LANDON Romane",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "CHOLET NATATION",
+              "temps_engage": "01:19.91"
+            },
+            {
+              "couloir": 2,
+              "nom": "MAZIER Line",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "NANTES NATATION",
+              "temps_engage": "01:18.92"
+            },
+            {
+              "couloir": 3,
+              "nom": "AUGEREAU Lucy",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "C REDON NATATION",
+              "temps_engage": "01:16.85"
+            },
+            {
+              "couloir": 4,
+              "nom": "BOUVIER Azheline",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "DAUPHINS ELORN LANDERNEAU",
+              "temps_engage": "01:14.31"
+            },
+            {
+              "couloir": 5,
+              "nom": "MNARI Maram",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "ANGERS NATATION",
+              "temps_engage": "01:16.31"
+            },
+            {
+              "couloir": 6,
+              "nom": "LAOT LECLERC L.R.",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "CN BREST",
+              "temps_engage": "01:17.65"
+            },
+            {
+              "couloir": 7,
+              "nom": "BEQ Noemie",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "LA ROCHE-SUR-YON NATATION",
+              "temps_engage": "01:19.27"
+            },
+            {
+              "couloir": 8,
+              "nom": "PRIMOT Flora",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "AS CARQUEFOU",
+              "temps_engage": "01:20.44"
+            },
+            {
+              "couloir": 9,
+              "nom": "FOGANG Eva",
+              "annee": 2013,
+              "nation": "FRA",
+              "club": "ALLONNES JEUNESSE SPORTIVE",
+              "temps_engage": "01:21.60"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "72",
+      "distance": 100,
+      "nage": "Brasse",
+      "sexe": "M",
+      "label": "100 Brasse Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "12h10",
+          "typ_id": "60",
+          "num": "9",
+          "lineup": null
+        },
+        {
+          "tour": "Finale C Benjamins et avant",
+          "heure": "20h54",
+          "typ_id": "13",
+          "num": "33",
+          "lineup": []
+        },
+        {
+          "tour": "Finale B J2 et avant",
+          "heure": "21h02",
+          "typ_id": "12",
+          "num": "35",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A",
+          "heure": "21h13",
+          "typ_id": "11",
+          "num": "37",
+          "lineup": [
+            {
+              "couloir": 0,
+              "nom": "GAMBIN Alex",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "CN LE PLESSIS-ROBINSON",
+              "temps_engage": "01:09.45"
+            },
+            {
+              "couloir": 1,
+              "nom": "EDET-SABBAH Sami",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "AS CARQUEFOU",
+              "temps_engage": "01:08.88"
+            },
+            {
+              "couloir": 2,
+              "nom": "LONGUET Lucas",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "CHOLET NATATION",
+              "temps_engage": "01:07.88"
+            },
+            {
+              "couloir": 3,
+              "nom": "MAJOU Timéo",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "CHALLANS NATATION",
+              "temps_engage": "01:06.66"
+            },
+            {
+              "couloir": 4,
+              "nom": "BOISE Amaury",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "CN LE PLESSIS-ROBINSON",
+              "temps_engage": "01:05.61"
+            },
+            {
+              "couloir": 5,
+              "nom": "EVEN Yael",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "NANTES NATATION",
+              "temps_engage": "01:06.18"
+            },
+            {
+              "couloir": 6,
+              "nom": "CHALU-COYO Joan",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "CN LE PLESSIS-ROBINSON",
+              "temps_engage": "01:07.85"
+            },
+            {
+              "couloir": 7,
+              "nom": "ALEXANDRE Samuel",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "ANGERS NATATION",
+              "temps_engage": "01:08.31"
+            },
+            {
+              "couloir": 8,
+              "nom": "METAYER Marceau",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "ANGERS NATATION",
+              "temps_engage": "01:09.43"
+            },
+            {
+              "couloir": 9,
+              "nom": "BAUDOUIN-LAMENDOUR J.",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "LA ROCHE-SUR-YON NATATION",
+              "temps_engage": "01:09.61"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "32",
+      "distance": 100,
+      "nage": "Papillon",
+      "sexe": "F",
+      "label": "100 Papillon Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "14h30",
+          "typ_id": "60",
+          "num": "10",
+          "lineup": null
+        },
+        {
+          "tour": "Finale C Benjamins et avant",
+          "heure": "21h19",
+          "typ_id": "13",
+          "num": "38",
+          "lineup": []
+        },
+        {
+          "tour": "Finale B J2 et avant",
+          "heure": "21h27",
+          "typ_id": "12",
+          "num": "40",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A",
+          "heure": "21h35",
+          "typ_id": "11",
+          "num": "42",
+          "lineup": [
+            {
+              "couloir": 0,
+              "nom": "REGUER Zohra",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "CHOLET NATATION",
+              "temps_engage": "01:11.71"
+            },
+            {
+              "couloir": 1,
+              "nom": "FOGANG Eva",
+              "annee": 2013,
+              "nation": "FRA",
+              "club": "ALLONNES JEUNESSE SPORTIVE",
+              "temps_engage": "01:11.53"
+            },
+            {
+              "couloir": 2,
+              "nom": "KELIJIAN Lila",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "CN LE PLESSIS-ROBINSON",
+              "temps_engage": "01:10.68"
+            },
+            {
+              "couloir": 3,
+              "nom": "BAUR Lya",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "CHOLET NATATION",
+              "temps_engage": "01:09.35"
+            },
+            {
+              "couloir": 4,
+              "nom": "ETIENNE Mathilde",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "ANGERS NATATION",
+              "temps_engage": "01:08.35"
+            },
+            {
+              "couloir": 5,
+              "nom": "FERREIRA MASSIEUX A.",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "CN BREST",
+              "temps_engage": "01:08.95"
+            },
+            {
+              "couloir": 6,
+              "nom": "RICHARD-SABALIC A.",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "ANGERS NATATION",
+              "temps_engage": "01:09.86"
+            },
+            {
+              "couloir": 7,
+              "nom": "ROBY Maeva",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "LA ROCHE-SUR-YON NATATION",
+              "temps_engage": "01:11.08"
+            },
+            {
+              "couloir": 8,
+              "nom": "COTONNEC Marion",
+              "annee": 2013,
+              "nation": "FRA",
+              "club": "POHER KARAEZ NATATION - CARHAIX",
+              "temps_engage": "01:11.65"
+            },
+            {
+              "couloir": 9,
+              "nom": "GRIMAULT Isy",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "CN BEAUPREAU",
+              "temps_engage": "01:11.79"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "82",
+      "distance": 100,
+      "nage": "Papillon",
+      "sexe": "M",
+      "label": "100 Papillon Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "14h48",
+          "typ_id": "60",
+          "num": "11",
+          "lineup": null
+        },
+        {
+          "tour": "Finale C Benjamins et avant",
+          "heure": "21h23",
+          "typ_id": "13",
+          "num": "39",
+          "lineup": []
+        },
+        {
+          "tour": "Finale B J2 et avant",
+          "heure": "21h31",
+          "typ_id": "12",
+          "num": "41",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A",
+          "heure": "21h41",
+          "typ_id": "11",
+          "num": "43",
+          "lineup": [
+            {
+              "couloir": 0,
+              "nom": "VAN CAENEGEM Tom",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "S.M MONTROUGE",
+              "temps_engage": "01:00.55"
+            },
+            {
+              "couloir": 1,
+              "nom": "GIRAUD Stan",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "LA ROCHE-SUR-YON NATATION",
+              "temps_engage": "01:00.04"
+            },
+            {
+              "couloir": 2,
+              "nom": "POTTIER Estin",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "LA NAT'SUZERAINE",
+              "temps_engage": "00:59.73"
+            },
+            {
+              "couloir": 3,
+              "nom": "FILAQUIER Abel",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "ANCENIS COURSE NATATION",
+              "temps_engage": "00:59.17"
+            },
+            {
+              "couloir": 4,
+              "nom": "PERUFFO Elio",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "ANGERS NATATION",
+              "temps_engage": "00:56.60"
+            },
+            {
+              "couloir": 5,
+              "nom": "STRAVIUS Jérémy",
+              "annee": 1988,
+              "nation": "FRA",
+              "club": "AMIENS METROPOLE NAT.",
+              "temps_engage": "00:57.55"
+            },
+            {
+              "couloir": 6,
+              "nom": "GAMBIN Teo",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "CN LE PLESSIS-ROBINSON",
+              "temps_engage": "00:59.49"
+            },
+            {
+              "couloir": 7,
+              "nom": "MATTIUSSI Erling",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "CN LE PLESSIS-ROBINSON",
+              "temps_engage": "01:00.02"
+            },
+            {
+              "couloir": 8,
+              "nom": "LIBEAUT Nolan",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "CHOLET NATATION",
+              "temps_engage": "01:00.30"
+            },
+            {
+              "couloir": 9,
+              "nom": "CLEMENT Bastien",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "S.M MONTROUGE",
+              "temps_engage": "01:00.63"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "42",
+      "distance": 400,
+      "nage": "4 Nages",
+      "sexe": "F",
+      "label": "400 4 Nages Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "15h09",
+          "typ_id": "60",
+          "num": "12",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "92",
+      "distance": 400,
+      "nage": "4 Nages",
+      "sexe": "M",
+      "label": "400 4 Nages Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "15h25",
+          "typ_id": "60",
+          "num": "13",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "23",
+      "distance": 200,
+      "nage": "Brasse",
+      "sexe": "F",
+      "label": "200 Brasse Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "15h39",
+          "typ_id": "60",
+          "num": "14",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "73",
+      "distance": 200,
+      "nage": "Brasse",
+      "sexe": "M",
+      "label": "200 Brasse Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "15h57",
+          "typ_id": "60",
+          "num": "15",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "2",
+      "distance": 100,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "100 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "16h30",
+          "typ_id": "60",
+          "num": "16",
+          "lineup": null
+        },
+        {
+          "tour": "Finale C Benjamins et avant",
+          "heure": "21h47",
+          "typ_id": "13",
+          "num": "44",
+          "lineup": []
+        },
+        {
+          "tour": "Finale B J2 et avant",
+          "heure": "21h54",
+          "typ_id": "12",
+          "num": "46",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A",
+          "heure": "22h02",
+          "typ_id": "11",
+          "num": "48",
+          "lineup": [
+            {
+              "couloir": 0,
+              "nom": "ETIENNE Mathilde",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "ANGERS NATATION",
+              "temps_engage": "01:03.29"
+            },
+            {
+              "couloir": 1,
+              "nom": "PERUFFO Ada-Lina",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "CHOLET NATATION",
+              "temps_engage": "01:02.88"
+            },
+            {
+              "couloir": 2,
+              "nom": "BEQ Noemie",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "LA ROCHE-SUR-YON NATATION",
+              "temps_engage": "01:02.37"
+            },
+            {
+              "couloir": 3,
+              "nom": "SOULAS Léna",
+              "annee": 2001,
+              "nation": "FRA",
+              "club": "ST-NAZAIRE ATLANTIQUE NATATION",
+              "temps_engage": "01:00.64"
+            },
+            {
+              "couloir": 4,
+              "nom": "BOUVIER Azheline",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "DAUPHINS ELORN LANDERNEAU",
+              "temps_engage": "00:59.42"
+            },
+            {
+              "couloir": 5,
+              "nom": "ROBY Maeva",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "LA ROCHE-SUR-YON NATATION",
+              "temps_engage": "01:00.39"
+            },
+            {
+              "couloir": 6,
+              "nom": "MORIN Lou",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "LA ROCHE-SUR-YON NATATION",
+              "temps_engage": "01:01.98"
+            },
+            {
+              "couloir": 7,
+              "nom": "BECHY Lilou",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "CERCLE NAG. BOCAGE BRESSUIRAIS",
+              "temps_engage": "01:02.44"
+            },
+            {
+              "couloir": 8,
+              "nom": "JONCOURT Candice",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "CN BREST",
+              "temps_engage": "01:02.93"
+            },
+            {
+              "couloir": 9,
+              "nom": "MAZIER Line",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "NANTES NATATION",
+              "temps_engage": "01:03.42"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "52",
+      "distance": 100,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "100 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "17h07",
+          "typ_id": "60",
+          "num": "17",
+          "lineup": null
+        },
+        {
+          "tour": "Finale C Benjamins et avant",
+          "heure": "21h51",
+          "typ_id": "13",
+          "num": "45",
+          "lineup": []
+        },
+        {
+          "tour": "Finale B J2 et avant",
+          "heure": "21h58",
+          "typ_id": "12",
+          "num": "47",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A",
+          "heure": "22h08",
+          "typ_id": "11",
+          "num": "49",
+          "lineup": [
+            {
+              "couloir": 0,
+              "nom": "LATOUR Gabriel",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "DAUPHINS ELORN LANDERNEAU",
+              "temps_engage": "00:55.28"
+            },
+            {
+              "couloir": 1,
+              "nom": "LELONG BRAVA Jules",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "LA ROCHE-SUR-YON NATATION",
+              "temps_engage": "00:54.34"
+            },
+            {
+              "couloir": 2,
+              "nom": "STRAVIUS Jérémy",
+              "annee": 1988,
+              "nation": "FRA",
+              "club": "AMIENS METROPOLE NAT.",
+              "temps_engage": "00:53.88"
+            },
+            {
+              "couloir": 3,
+              "nom": "CHERI-ZECOTE Adrien",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "NANTES NATATION",
+              "temps_engage": "00:52.69"
+            },
+            {
+              "couloir": 4,
+              "nom": "VAN CAENEGEM Tom",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "S.M MONTROUGE",
+              "temps_engage": "00:52.39"
+            },
+            {
+              "couloir": 5,
+              "nom": "MATTIUSSI Erling",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "CN LE PLESSIS-ROBINSON",
+              "temps_engage": "00:52.51"
+            },
+            {
+              "couloir": 6,
+              "nom": "EVEN Yael",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "NANTES NATATION",
+              "temps_engage": "00:52.85"
+            },
+            {
+              "couloir": 7,
+              "nom": "CLEMENT Bastien",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "S.M MONTROUGE",
+              "temps_engage": "00:53.98"
+            },
+            {
+              "couloir": 8,
+              "nom": "LACLEF Emmanuel",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "LA ROCHE-SUR-YON NATATION",
+              "temps_engage": "00:54.41"
+            },
+            {
+              "couloir": 9,
+              "nom": "SARR Raphael",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "ASSOCIATION SPORTIVE POITIERS 86",
+              "temps_engage": "00:55.32"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "13",
+      "distance": 200,
+      "nage": "Dos",
+      "sexe": "F",
+      "label": "200 Dos Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "17h44",
+          "typ_id": "60",
+          "num": "18",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "63",
+      "distance": 200,
+      "nage": "Dos",
+      "sexe": "M",
+      "label": "200 Dos Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "18h08",
+          "typ_id": "60",
+          "num": "19",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "31",
+      "distance": 50,
+      "nage": "Papillon",
+      "sexe": "F",
+      "label": "50 Papillon Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h30",
+          "typ_id": "60",
+          "num": "50",
+          "lineup": null
+        },
+        {
+          "tour": "Finale verte",
+          "heure": "15h30",
+          "typ_id": "13",
+          "num": "63",
+          "lineup": null
+        },
+        {
+          "tour": "Finale rouge",
+          "heure": "15h35",
+          "typ_id": "12",
+          "num": "65",
+          "lineup": null
+        },
+        {
+          "tour": "Finale bleue",
+          "heure": "15h42",
+          "typ_id": "11",
+          "num": "67",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "81",
+      "distance": 50,
+      "nage": "Papillon",
+      "sexe": "M",
+      "label": "50 Papillon Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h42",
+          "typ_id": "60",
+          "num": "51",
+          "lineup": null
+        },
+        {
+          "tour": "Finale C Benjamins et avant",
+          "heure": "15h32",
+          "typ_id": "13",
+          "num": "64",
+          "lineup": []
+        },
+        {
+          "tour": "Finale B J2 et avant",
+          "heure": "15h39",
+          "typ_id": "12",
+          "num": "66",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A",
+          "heure": "15h52",
+          "typ_id": "11",
+          "num": "68",
+          "lineup": [
+            {
+              "couloir": 0,
+              "nom": "MENARD Valentino",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "LA ROCHE-SUR-YON NATATION",
+              "temps_engage": "00:27.67"
+            },
+            {
+              "couloir": 1,
+              "nom": "GAMBIN Teo",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "CN LE PLESSIS-ROBINSON",
+              "temps_engage": "00:27.34"
+            },
+            {
+              "couloir": 2,
+              "nom": "SARR Raphael",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "ASSOCIATION SPORTIVE POITIERS 86",
+              "temps_engage": "00:27.16"
+            },
+            {
+              "couloir": 3,
+              "nom": "VAN CAENEGEM Tom",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "S.M MONTROUGE",
+              "temps_engage": "00:26.92"
+            },
+            {
+              "couloir": 4,
+              "nom": "CLEMENT Bastien",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "S.M MONTROUGE",
+              "temps_engage": "00:26.12"
+            },
+            {
+              "couloir": 5,
+              "nom": "POTTIER Estin",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "LA NAT'SUZERAINE",
+              "temps_engage": "00:26.38"
+            },
+            {
+              "couloir": 6,
+              "nom": "MATTIUSSI Erling",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "CN LE PLESSIS-ROBINSON",
+              "temps_engage": "00:26.94"
+            },
+            {
+              "couloir": 7,
+              "nom": "LIBEAUT Nolan",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "CHOLET NATATION",
+              "temps_engage": "00:27.26"
+            },
+            {
+              "couloir": 8,
+              "nom": "PRUVOT Jules",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "AS CARQUEFOU",
+              "temps_engage": "00:27.53"
+            },
+            {
+              "couloir": 9,
+              "nom": "FOE Noah",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "NANTES NATATION",
+              "temps_engage": "00:27.70"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "11",
+      "distance": 50,
+      "nage": "Dos",
+      "sexe": "F",
+      "label": "50 Dos Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "09h56",
+          "typ_id": "60",
+          "num": "52",
+          "lineup": null
+        },
+        {
+          "tour": "Finale C Benjamins et avant",
+          "heure": "16h01",
+          "typ_id": "13",
+          "num": "69",
+          "lineup": []
+        },
+        {
+          "tour": "Finale B J2 et avant",
+          "heure": "16h07",
+          "typ_id": "12",
+          "num": "71",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A",
+          "heure": "16h14",
+          "typ_id": "11",
+          "num": "73",
+          "lineup": [
+            {
+              "couloir": 0,
+              "nom": "LEHN Romane",
+              "annee": 2004,
+              "nation": "FRA",
+              "club": "DAUPHINS ELORN LANDERNEAU",
+              "temps_engage": "00:33.75"
+            },
+            {
+              "couloir": 1,
+              "nom": "KELIJIAN Lila",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "CN LE PLESSIS-ROBINSON",
+              "temps_engage": "00:33.21"
+            },
+            {
+              "couloir": 2,
+              "nom": "SAMBOU Emma",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "DAUPHINS ELORN LANDERNEAU",
+              "temps_engage": "00:32.53"
+            },
+            {
+              "couloir": 3,
+              "nom": "BECHY Lilou",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "CERCLE NAG. BOCAGE BRESSUIRAIS",
+              "temps_engage": "00:31.87"
+            },
+            {
+              "couloir": 4,
+              "nom": "VAUTRIN Léonor",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "NANTES NATATION",
+              "temps_engage": "00:30.66"
+            },
+            {
+              "couloir": 5,
+              "nom": "LEVEL Inès",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "LA ROCHE-SUR-YON NATATION",
+              "temps_engage": "00:30.89"
+            },
+            {
+              "couloir": 6,
+              "nom": "BOURGEOIS MATEOS J.",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "LA ROCHE-SUR-YON NATATION",
+              "temps_engage": "00:32.13"
+            },
+            {
+              "couloir": 7,
+              "nom": "MELUSE Juliette",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "DAUPHINS ELORN LANDERNEAU",
+              "temps_engage": "00:32.92"
+            },
+            {
+              "couloir": 8,
+              "nom": "JONCOURT Candice",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "CN BREST",
+              "temps_engage": "00:33.28"
+            },
+            {
+              "couloir": 9,
+              "nom": "GUILLARM Lilou",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "DAUPHINS ELORN LANDERNEAU",
+              "temps_engage": "00:34.05"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "61",
+      "distance": 50,
+      "nage": "Dos",
+      "sexe": "M",
+      "label": "50 Dos Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h06",
+          "typ_id": "60",
+          "num": "53",
+          "lineup": null
+        },
+        {
+          "tour": "Finale C Benjamins et avant",
+          "heure": "16h04",
+          "typ_id": "13",
+          "num": "70",
+          "lineup": []
+        },
+        {
+          "tour": "Finale B J2 et avant",
+          "heure": "16h11",
+          "typ_id": "12",
+          "num": "72",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A",
+          "heure": "16h24",
+          "typ_id": "11",
+          "num": "74",
+          "lineup": [
+            {
+              "couloir": 0,
+              "nom": "POURCEAU Ruben",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "LA NAT'SUZERAINE",
+              "temps_engage": "00:30.25"
+            },
+            {
+              "couloir": 1,
+              "nom": "SEYEUX Lucas",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "SEGRE NATATION",
+              "temps_engage": "00:29.00"
+            },
+            {
+              "couloir": 2,
+              "nom": "LELONG BRAVA Jules",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "LA ROCHE-SUR-YON NATATION",
+              "temps_engage": "00:28.50"
+            },
+            {
+              "couloir": 3,
+              "nom": "VAN CAENEGEM Tom",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "S.M MONTROUGE",
+              "temps_engage": "00:27.96"
+            },
+            {
+              "couloir": 4,
+              "nom": "CLEMENT Bastien",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "S.M MONTROUGE",
+              "temps_engage": "00:26.79"
+            },
+            {
+              "couloir": 5,
+              "nom": "POTTIER Estin",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "LA NAT'SUZERAINE",
+              "temps_engage": "00:27.38"
+            },
+            {
+              "couloir": 6,
+              "nom": "MATTIUSSI Erling",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "CN LE PLESSIS-ROBINSON",
+              "temps_engage": "00:28.07"
+            },
+            {
+              "couloir": 7,
+              "nom": "CARDINEAU Jules",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "ASSOCIATION SPORTIVE POITIERS 86",
+              "temps_engage": "00:28.54"
+            },
+            {
+              "couloir": 8,
+              "nom": "SMOLAK Esteban",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "CN CANNES",
+              "temps_engage": "00:30.20"
+            },
+            {
+              "couloir": 9,
+              "nom": "AMIOT Noa",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "SEGRE NATATION",
+              "temps_engage": "00:30.37"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "41",
+      "distance": 200,
+      "nage": "4 Nages",
+      "sexe": "F",
+      "label": "200 4 Nages Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h14",
+          "typ_id": "60",
+          "num": "54",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "91",
+      "distance": 200,
+      "nage": "4 Nages",
+      "sexe": "M",
+      "label": "200 4 Nages Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "10h30",
+          "typ_id": "60",
+          "num": "55",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "21",
+      "distance": 50,
+      "nage": "Brasse",
+      "sexe": "F",
+      "label": "50 Brasse Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "11h00",
+          "typ_id": "60",
+          "num": "56",
+          "lineup": null
+        },
+        {
+          "tour": "Finale C Benjamins et avant",
+          "heure": "16h33",
+          "typ_id": "13",
+          "num": "75",
+          "lineup": []
+        },
+        {
+          "tour": "Finale B J2 et avant",
+          "heure": "16h40",
+          "typ_id": "12",
+          "num": "77",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A",
+          "heure": "16h46",
+          "typ_id": "11",
+          "num": "79",
+          "lineup": [
+            {
+              "couloir": 0,
+              "nom": "GHEZAL Emna",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "ASSOCIATION SPORTIVE POITIERS 86",
+              "temps_engage": "00:37.05"
+            },
+            {
+              "couloir": 1,
+              "nom": "LEVEL Inès",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "LA ROCHE-SUR-YON NATATION",
+              "temps_engage": "00:36.85"
+            },
+            {
+              "couloir": 2,
+              "nom": "MAZIER Line",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "NANTES NATATION",
+              "temps_engage": "00:36.62"
+            },
+            {
+              "couloir": 3,
+              "nom": "PICHON Salomé",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "AS CARQUEFOU",
+              "temps_engage": "00:35.83"
+            },
+            {
+              "couloir": 4,
+              "nom": "FOGANG Eva",
+              "annee": 2013,
+              "nation": "FRA",
+              "club": "ALLONNES JEUNESSE SPORTIVE",
+              "temps_engage": "00:35.49"
+            },
+            {
+              "couloir": 5,
+              "nom": "LAOT LECLERC L.R.",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "CN BREST",
+              "temps_engage": "00:35.54"
+            },
+            {
+              "couloir": 6,
+              "nom": "LANDON Romane",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "CHOLET NATATION",
+              "temps_engage": "00:36.26"
+            },
+            {
+              "couloir": 7,
+              "nom": "BEQ Noemie",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "LA ROCHE-SUR-YON NATATION",
+              "temps_engage": "00:36.72"
+            },
+            {
+              "couloir": 8,
+              "nom": "PRIMOT Flora",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "AS CARQUEFOU",
+              "temps_engage": "00:37.03"
+            },
+            {
+              "couloir": 9,
+              "nom": "GIRAUDEAU Clara",
+              "annee": 2004,
+              "nation": "FRA",
+              "club": "NANTES NATATION",
+              "temps_engage": "00:37.34"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "71",
+      "distance": 50,
+      "nage": "Brasse",
+      "sexe": "M",
+      "label": "50 Brasse Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "11h09",
+          "typ_id": "60",
+          "num": "57",
+          "lineup": null
+        },
+        {
+          "tour": "Finale C Benjamins et avant",
+          "heure": "16h37",
+          "typ_id": "13",
+          "num": "76",
+          "lineup": []
+        },
+        {
+          "tour": "Finale B J2 et avant",
+          "heure": "16h43",
+          "typ_id": "12",
+          "num": "78",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A",
+          "heure": "16h56",
+          "typ_id": "11",
+          "num": "80",
+          "lineup": [
+            {
+              "couloir": 0,
+              "nom": "LAI Toan",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "AS AVRILLÉ NATATION",
+              "temps_engage": "00:32.80"
+            },
+            {
+              "couloir": 1,
+              "nom": "BARON Emeric",
+              "annee": 1989,
+              "nation": "FRA",
+              "club": "CANETON CLUB DE BEAUMONT",
+              "temps_engage": "00:32.69"
+            },
+            {
+              "couloir": 2,
+              "nom": "SOLONTCHENKO Oleg",
+              "annee": 1991,
+              "nation": "FRA",
+              "club": "CHALLANS NATATION",
+              "temps_engage": "00:32.14"
+            },
+            {
+              "couloir": 3,
+              "nom": "LONGUET Lucas",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "CHOLET NATATION",
+              "temps_engage": "00:30.49"
+            },
+            {
+              "couloir": 4,
+              "nom": "BOISE Amaury",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "CN LE PLESSIS-ROBINSON",
+              "temps_engage": "00:29.96"
+            },
+            {
+              "couloir": 5,
+              "nom": "MAJOU Timéo",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "CHALLANS NATATION",
+              "temps_engage": "00:29.99"
+            },
+            {
+              "couloir": 6,
+              "nom": "CHALU-COYO Joan",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "CN LE PLESSIS-ROBINSON",
+              "temps_engage": "00:30.80"
+            },
+            {
+              "couloir": 7,
+              "nom": "PARISI Lucas",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "LA ROCHE-SUR-YON NATATION",
+              "temps_engage": "00:32.50"
+            },
+            {
+              "couloir": 8,
+              "nom": "GAMBIN Alex",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "CN LE PLESSIS-ROBINSON",
+              "temps_engage": "00:32.76"
+            },
+            {
+              "couloir": 9,
+              "nom": "BERTRAND Valentino",
+              "annee": 2005,
+              "nation": "FRA",
+              "club": "SEGRE NATATION",
+              "temps_engage": "00:33.12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "1",
+      "distance": 50,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "50 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "11h19",
+          "typ_id": "60",
+          "num": "58",
+          "lineup": null
+        },
+        {
+          "tour": "Finale C Benjamins et avant",
+          "heure": "17h06",
+          "typ_id": "13",
+          "num": "81",
+          "lineup": []
+        },
+        {
+          "tour": "Finale B J2 et avant",
+          "heure": "17h12",
+          "typ_id": "12",
+          "num": "83",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A",
+          "heure": "17h18",
+          "typ_id": "11",
+          "num": "85",
+          "lineup": [
+            {
+              "couloir": 0,
+              "nom": "BONNET Léonie",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "AS CARQUEFOU",
+              "temps_engage": "00:29.26"
+            },
+            {
+              "couloir": 1,
+              "nom": "BECHY Lilou",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "CERCLE NAG. BOCAGE BRESSUIRAIS",
+              "temps_engage": "00:28.97"
+            },
+            {
+              "couloir": 2,
+              "nom": "BORY Marylou",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "NANTES NATATION",
+              "temps_engage": "00:28.90"
+            },
+            {
+              "couloir": 3,
+              "nom": "LEGROS Juliette",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "ST-SÉBASTIEN NATATION",
+              "temps_engage": "00:28.74"
+            },
+            {
+              "couloir": 4,
+              "nom": "BOUVIER Azheline",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "DAUPHINS ELORN LANDERNEAU",
+              "temps_engage": "00:26.87"
+            },
+            {
+              "couloir": 5,
+              "nom": "BEQ Noemie",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "LA ROCHE-SUR-YON NATATION",
+              "temps_engage": "00:28.26"
+            },
+            {
+              "couloir": 6,
+              "nom": "PERUFFO Ada-Lina",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "CHOLET NATATION",
+              "temps_engage": "00:28.83"
+            },
+            {
+              "couloir": 7,
+              "nom": "ROBY Maeva",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "LA ROCHE-SUR-YON NATATION",
+              "temps_engage": "00:28.93"
+            },
+            {
+              "couloir": 8,
+              "nom": "JONCOURT Candice",
+              "annee": 2012,
+              "nation": "FRA",
+              "club": "CN BREST",
+              "temps_engage": "00:28.97"
+            },
+            {
+              "couloir": 9,
+              "nom": "BAUR Lya",
+              "annee": 2010,
+              "nation": "FRA",
+              "club": "CHOLET NATATION",
+              "temps_engage": "00:29.37"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "51",
+      "distance": 50,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "50 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "11h37",
+          "typ_id": "60",
+          "num": "59",
+          "lineup": null
+        },
+        {
+          "tour": "Finale C Benjamins et avant",
+          "heure": "17h09",
+          "typ_id": "13",
+          "num": "82",
+          "lineup": []
+        },
+        {
+          "tour": "Finale B J2 et avant",
+          "heure": "17h15",
+          "typ_id": "12",
+          "num": "84",
+          "lineup": []
+        },
+        {
+          "tour": "Finale A",
+          "heure": "17h28",
+          "typ_id": "11",
+          "num": "86",
+          "lineup": [
+            {
+              "couloir": 0,
+              "nom": "BALLAND Loïc",
+              "annee": 1998,
+              "nation": "FRA",
+              "club": "CHALLANS NATATION",
+              "temps_engage": "00:25.22"
+            },
+            {
+              "couloir": 1,
+              "nom": "CLEMENT Bastien",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "S.M MONTROUGE",
+              "temps_engage": "00:24.65"
+            },
+            {
+              "couloir": 2,
+              "nom": "FOE Noah",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "NANTES NATATION",
+              "temps_engage": "00:24.41"
+            },
+            {
+              "couloir": 3,
+              "nom": "VAN CAENEGEM Tom",
+              "annee": 2011,
+              "nation": "FRA",
+              "club": "S.M MONTROUGE",
+              "temps_engage": "00:24.16"
+            },
+            {
+              "couloir": 4,
+              "nom": "MATTIUSSI Erling",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "CN LE PLESSIS-ROBINSON",
+              "temps_engage": "00:23.67"
+            },
+            {
+              "couloir": 5,
+              "nom": "EVEN Yael",
+              "annee": 2008,
+              "nation": "FRA",
+              "club": "NANTES NATATION",
+              "temps_engage": "00:23.76"
+            },
+            {
+              "couloir": 6,
+              "nom": "CHERI-ZECOTE Adrien",
+              "annee": 2003,
+              "nation": "FRA",
+              "club": "NANTES NATATION",
+              "temps_engage": "00:24.34"
+            },
+            {
+              "couloir": 7,
+              "nom": "SARR Raphael",
+              "annee": 2006,
+              "nation": "FRA",
+              "club": "ASSOCIATION SPORTIVE POITIERS 86",
+              "temps_engage": "00:24.58"
+            },
+            {
+              "couloir": 8,
+              "nom": "POTTIER Estin",
+              "annee": 2007,
+              "nation": "FRA",
+              "club": "LA NAT'SUZERAINE",
+              "temps_engage": "00:24.86"
+            },
+            {
+              "couloir": 9,
+              "nom": "LELONG BRAVA Jules",
+              "annee": 2009,
+              "nation": "FRA",
+              "club": "LA ROCHE-SUR-YON NATATION",
+              "temps_engage": "00:25.28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "epr_id": "4",
+      "distance": 400,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "400 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "11h53",
+          "typ_id": "60",
+          "num": "60",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "54",
+      "distance": 400,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "400 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "12h27",
+          "typ_id": "60",
+          "num": "61",
+          "lineup": null
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-10-31T21:07:55.817835+00:00"
+}

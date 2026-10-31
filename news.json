@@ -1,0 +1,52 @@
+{
+  "generated_at": "2026-10-31T21:10:01.448297+00:00",
+  "items": [
+    {
+      "id": "ext_16547cd6dba2",
+      "kind": "actu",
+      "tag": "Actu natation",
+      "title": "Le doublé de Béryl Gastaldello aux Championnats de France",
+      "body": "L'Équipe · 31 oct.",
+      "date": "2026-10-31",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMms1bnk0NW5EZElMN1I0alR6Ti1nWlVpOWpkUUc3LXZURkRTcHdRWlN1RzNZcmtfU29EdGNkQUh5ZFduLTlkUktWNnBMY091alBZZW1hcHhJekIwY2k5MS11SjVVZXA0X2ViWUdkblJVWUh3M2FQXy1ESmI0U2NiT3dhM2pBSTV5akctQzhjbmRic0dmRW9SajljSWpia0lnMWtIMXdyV0xoUDBk?oc=5",
+      "source": "L'Équipe"
+    },
+    {
+      "id": "avenir_affiche",
+      "kind": "agenda",
+      "tag": "L'affiche",
+      "title": "MEETING REGIONAL CHOLETAIS",
+      "body": "Le gros plateau à venir : 2436 engagements à Cholet (30 octobre).",
+      "date": "2026-10-30",
+      "competition_id": "94673"
+    },
+    {
+      "id": "avenir_prochaine",
+      "kind": "agenda",
+      "tag": "À venir",
+      "title": "20e Championnats de France Elite en petit bassin — 29 octobre",
+      "body": "Prochain rendez-vous du périmètre à Angers · 374 nageurs attendus. 87 compétitions à venir au total.",
+      "date": "2026-10-29",
+      "competition_id": "94430"
+    },
+    {
+      "id": "ext_fae587320790",
+      "kind": "actu",
+      "tag": "Yvelines",
+      "title": "Marseille-Cassis : trois champions de natation relèvent le défi",
+      "body": "Orange Actualités · 25 oct.",
+      "date": "2026-10-25",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNkN4SWc3cGJyZkJwRHZ4UUtCQ0c3Sl9VMURwcVRQejhnTFhSWEZ0enVOWVdOUXoxWWhRR29Gbm4wdTJoUzZrY2VLeFF0bktVZ2hucmZaYXpfZ1RGaGlJQ250TkRVZnR4U2FJcFRoaGQxd1FhMm0tbFJhdjVPX3VSc0t2cVBycG9zMW5HSDBvRjBIQjVFeHNPWWQ3ZHdreFRtWlYxOEEzZXVfUFBLOXZTd19mbGF3cl9xZG9pTWFUeWI?oc=5",
+      "source": "Orange Actualités"
+    },
+    {
+      "id": "resultats_recents",
+      "kind": "resultats",
+      "tag": "Résultats",
+      "title": "Trophée U11 — résultats en ligne",
+      "body": "Les classements de Mantes-La-Ville (18 octobre) sont disponibles : séries et finales, avec tes favoris repérés.",
+      "date": "2026-10-18",
+      "competition_id": "94851"
+    }
+  ]
+}
