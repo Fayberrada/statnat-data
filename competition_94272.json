@@ -1,0 +1,102 @@
+{
+  "competition": "94272",
+  "events": [
+    {
+      "epr_id": "130",
+      "distance": 25,
+      "nage": "Papillon",
+      "sexe": "F",
+      "label": "25 Papillon Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "15h22",
+          "typ_id": "60",
+          "num": "1",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "180",
+      "distance": 25,
+      "nage": "Papillon",
+      "sexe": "M",
+      "label": "25 Papillon Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "15h31",
+          "typ_id": "60",
+          "num": "2",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "120",
+      "distance": 25,
+      "nage": "Brasse",
+      "sexe": "F",
+      "label": "25 Brasse Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "15h42",
+          "typ_id": "60",
+          "num": "3",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "170",
+      "distance": 25,
+      "nage": "Brasse",
+      "sexe": "M",
+      "label": "25 Brasse Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "15h51",
+          "typ_id": "60",
+          "num": "4",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "3",
+      "distance": 200,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "200 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "16h16",
+          "typ_id": "60",
+          "num": "5",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "53",
+      "distance": 200,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "200 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "16h29",
+          "typ_id": "60",
+          "num": "6",
+          "lineup": null
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-07T17:32:06.771648+00:00"
+}

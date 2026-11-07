@@ -1,0 +1,51 @@
+{
+  "generated_at": "2026-11-07T17:34:03.715014+00:00",
+  "items": [
+    {
+      "id": "avenir_affiche",
+      "kind": "agenda",
+      "tag": "L'affiche",
+      "title": "Championnats Départementaux Hiver 54",
+      "body": "Le gros plateau à venir : 712 engagements à Laneuveville-Devant-Nancy (14 novembre).",
+      "date": "2026-11-14",
+      "competition_id": "95002"
+    },
+    {
+      "id": "avenir_prochaine",
+      "kind": "agenda",
+      "tag": "À venir",
+      "title": "Interclubs TC HDF - Secteur Somme - Plot 3 — 7 novembre",
+      "body": "Prochain rendez-vous du périmètre à Arras · 140 nageurs attendus. 177 compétitions à venir au total.",
+      "date": "2026-11-07",
+      "competition_id": "94926"
+    },
+    {
+      "id": "ext_90eec825d134",
+      "kind": "actu",
+      "tag": "Yvelines",
+      "title": "Piscine Allende fermée : natation annulée à Plaisir",
+      "body": "InfosYvelines · 4 nov.",
+      "date": "2026-11-04",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUWh2QVdwUlM1SzF1YXN6bkJ5RTlpYnZzZjVxTHhJQ0pMcEQ2TE95b3hYT05nZl9qOWgzZGI3RkdoaG8xVkNMYmM1dGM3WjVxcE4xX0p3el9SOFRKMUd3MXlDU0YwM1MxQUJ2M3VUMzQyaDltRDdHbmZnM25IZ1hUNWp3RWJITEJqcVNzYXFGQ1BYczhyRElPTUlEbmE?oc=5",
+      "source": "InfosYvelines"
+    },
+    {
+      "id": "resultats_recents",
+      "kind": "resultats",
+      "tag": "Résultats",
+      "title": "Trophée U11 — résultats en ligne",
+      "body": "Les classements de Mantes-La-Ville (18 octobre) sont disponibles : séries et finales, avec tes favoris repérés.",
+      "date": "2026-10-18",
+      "competition_id": "94851"
+    },
+    {
+      "id": "perf_du_moment",
+      "kind": "perf",
+      "tag": "Perf en vue",
+      "title": "COMBALUZIER Rose — 00:30.58 (915 pts)",
+      "body": "Belle pointe sur 50 Nage Libre Dames à Mantes-La-Ville : 915 points FFN.",
+      "date": "2026-10-18",
+      "competition_id": "94851"
+    }
+  ]
+}

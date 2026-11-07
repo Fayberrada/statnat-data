@@ -1,0 +1,38 @@
+{
+  "competition": "94958",
+  "events": [
+    {
+      "epr_id": "1",
+      "distance": 50,
+      "nage": "Nage Libre",
+      "sexe": "F",
+      "label": "50 Nage Libre Dames",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "19h57",
+          "typ_id": "60",
+          "num": "0",
+          "lineup": null
+        }
+      ]
+    },
+    {
+      "epr_id": "51",
+      "distance": 50,
+      "nage": "Nage Libre",
+      "sexe": "M",
+      "label": "50 Nage Libre Messieurs",
+      "phases": [
+        {
+          "tour": "Séries",
+          "heure": "20h00",
+          "typ_id": "60",
+          "num": "1",
+          "lineup": null
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-07T17:31:40.853850+00:00"
+}
